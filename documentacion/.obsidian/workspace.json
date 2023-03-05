@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "5580f7aa668057e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dc2710d9e29761e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc1d1c040a4da861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java/0 Java desde cero.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ae2002ecad532f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java/39. Servlet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c79a43918f558a94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java/46. CDI - Context Dependency Injection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d1a227470c18d12",
+    "type": "split",
+    "children": [
+      {
+        "id": "22f860c3e48213d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6e02c529215623b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f279c5a995c15c38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9eaa1d503cb37e35",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316.5
+  },
+  "right": {
+    "id": "513ac2ce8bf4d0b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cbcd9aa9d3cabd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "515c8c055d449285",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "java/46. CDI - Context Dependency Injection.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91722c49fb45a324",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "java/46. CDI - Context Dependency Injection.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "98ec4e76b7c8b630",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d60b92bdb456c01e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "java/46. CDI - Context Dependency Injection.md"
+              }
+            }
+          },
+          {
+            "id": "869f418772505506",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "c79a43918f558a94",
+  "lastOpenFiles": [
+    "java/53. JAX RS.md",
+    "java/39. Servlet.md",
+    "java/40. HttpServlet.md",
+    "java/41. Cookies.md",
+    "java/42. HttpSession.md",
+    "java/43. Servlet Listener.md",
+    "java/44. Filter Http.md",
+    "java/52. JAX-WS.md",
+    "java/0 Java desde cero.md",
+    "java/51. Api Criteria.md",
+    "java/50. JPQL.md",
+    "java/49. HQL.md",
+    "java/48. JPA.md",
+    "java/38. EJB.md",
+    "java/47. HIBERNATE.md",
+    "java/46. CDI - Context Dependency Injection.md",
+    "java/1. Tipo de Datos.md",
+    "java/0.2 JRE y JVM.md",
+    "java/0.1 Conceptos de Programacion.md",
+    "java/2. Variables.md",
+    "java/3. Operadores.md",
+    "java/4. String.md",
+    "java/45. JSTL.md",
+    "java/35. Junit.md",
+    "uml/uml.canvas",
+    "uml/1.0. Asociación.md",
+    "uml/5. Dependencia.md",
+    "uml/generalizacion.png",
+    "uml/generalizacion.png.~tmp",
+    "uml",
+    "uml",
+    "guia/Untitled.canvas",
+    "Day Planners",
+    "Untitled.canvas",
+    "guia/30. patrones.canvas",
+    "guia/Untitled",
+    "static/images",
+    "static"
+  ]
+}

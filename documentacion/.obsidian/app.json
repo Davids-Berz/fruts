@@ -1,0 +1,25 @@
+{
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "foldHeading": true,
+  "foldIndent": false,
+  "showIndentGuide": false,
+  "autoPairBrackets": true,
+  "smartIndentList": true,
+  "useTab": true,
+  "autoConvertHtml": true,
+  "spellcheck": true,
+  "showFrontmatter": true,
+  "strictLineBreaks": true,
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "autoPairMarkdown": true,
+  "legacyEditor": true,
+  "rightToLeft": false,
+  "promptDelete": false
+}
