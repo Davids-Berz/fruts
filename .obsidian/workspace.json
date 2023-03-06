@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bdec54264b4a053b",
+        "id": "d19cf3d4e0f65896",
         "type": "tabs",
         "children": [
           {
-            "id": "65f8bd7fe7515c64",
+            "id": "10f5d267749134bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documentacion/sql/data definition/3. SCHEMA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8d753c37e923ccc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documentacion/sql/data definition/10. CHECK Constraint.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "322a9e5e1fe29bc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documentacion/sql/data definition/11. UNIQUE Constraint.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7113ef90119263e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documentacion/sql/data manipulation/9. Except.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentacion/sql/data manipulation/9. Except.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentacion/sql/data manipulation/9. Except.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "documentacion/sql/data manipulation/9. Except.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -184,8 +139,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7113ef90119263e5",
+  "active": "10f5d267749134bf",
   "lastOpenFiles": [
+    "documentacion/sql/data definition/3. SCHEMA.md",
+    "documentacion/sql/data definition/11. UNIQUE Constraint.md",
+    "documentacion/sql/data definition/10. CHECK Constraint.md",
+    "documentacion/sql/data definition/7. SELECT INTO.md",
+    "documentacion/sql/data definition/4. IDENTITY.md",
+    "documentacion/sql/data definition/2. TABLE.md",
+    "documentacion/sql/data definition/1. DATABASE.md",
+    "documentacion/sql/data manipulation/9. Except.md",
     "documentacion/sql/data manipulation/8. Intersect.md",
     "documentacion/sql/data manipulation/7. Union.md",
     "documentacion/sql/data manipulation/6. SubQuery.md",
@@ -198,20 +161,12 @@
     "documentacion/sql/1. Tipo de Datos.md",
     "documentacion/sql/data definition/12. NOT NULL constraint.md",
     "documentacion/sql/data manipulation",
-    "documentacion/sql/data definition/11. UNIQUE Constraint.md",
-    "documentacion/sql/data definition/10. CHECK Constraint.md",
-    "documentacion/sql/data definition/3. SCHEMA.md",
     "documentacion/sql/data definition/6. ALTER TABLE.md",
     "documentacion/sql/data definition/9. FOREING KEY.md",
     "documentacion/sql/data definition/8. PRIMARY KEY.md",
-    "documentacion/sql/data definition/7. SELECT INTO.md",
     "documentacion/sql/data definition/5. SECUENCE.md",
-    "documentacion/sql/data definition/2. TABLE.md",
-    "documentacion/sql/data definition/4. IDENTITY.md",
-    "documentacion/sql/data definition/1. DATABASE.md",
     "documentacion/sql/0. Introduccion.md",
     "documentacion/sql/data definition",
-    "documentacion/sql/data manipulation/9. Except.md",
     "documentacion/sql/image/inner.png",
     "documentacion/sql/image/inner-join.png",
     "documentacion/sql/image/cross.png",
