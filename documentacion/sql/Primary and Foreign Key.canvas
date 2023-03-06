@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"type":"group","id":"ef2b71d8496844ed","x":-340,"y":-480,"width":500,"height":240,"label":"User"},
+		{"type":"group","id":"904339cd9e803d5f","x":320,"y":-400,"width":270,"height":240,"label":"Pais"},
+		{"type":"text","text":"ID","id":"5c253e27d7a4d199","x":-340,"y":-480,"width":140,"height":60,"color":"3"},
+		{"type":"text","text":"1","id":"52f8b5c71edcc220","x":-340,"y":-420,"width":140,"height":60},
+		{"type":"text","text":"Nombre","id":"3d696631b7d5ed1b","x":-200,"y":-480,"width":120,"height":60,"color":"#1b96a7"},
+		{"type":"text","text":"apellido","id":"983fdb634675559c","x":-80,"y":-480,"width":120,"height":60,"color":"#1b96a7"},
+		{"type":"text","text":"Doe","id":"7e9a0a9380cb7c76","x":-80,"y":-420,"width":120,"height":60},
+		{"type":"text","text":"MX","id":"b65074280cf3a655","x":40,"y":-420,"width":120,"height":60},
+		{"type":"text","text":"US","id":"61473d03424e4a1d","x":40,"y":-360,"width":120,"height":60},
+		{"type":"text","text":"ARG","id":"a074a39519c0a300","x":40,"y":-300,"width":120,"height":60},
+		{"type":"text","text":"2","id":"57fcf3ae9e07898f","x":-340,"y":-360,"width":140,"height":60},
+		{"type":"text","text":"3","id":"aec2b91c06b3bf0d","x":-340,"y":-300,"width":140,"height":60},
+		{"type":"text","text":"Jhon","id":"a1cca97986a56068","x":-200,"y":-420,"width":120,"height":60},
+		{"type":"text","text":"id_pais","id":"dee9a698a1a1351a","x":40,"y":-480,"width":120,"height":60,"color":"4"},
+		{"type":"text","text":"David","id":"dcf420b2fb162e4f","x":-200,"y":-360,"width":120,"height":60},
+		{"type":"text","text":"Jorge","id":"4acae4f232f785f5","x":-200,"y":-300,"width":120,"height":60},
+		{"type":"text","text":"Berz","id":"aec548fea23e230c","x":-80,"y":-360,"width":120,"height":60},
+		{"type":"text","text":"Berz","id":"c42c6b24e8355834","x":-80,"y":-300,"width":120,"height":60},
+		{"type":"text","text":"Primary Key","id":"d78ea428e771b903","x":-381,"y":-668,"width":181,"height":50,"color":"3"},
+		{"type":"text","text":"US","id":"fc3b175563c8e157","x":320,"y":-280,"width":140,"height":60},
+		{"type":"text","text":"ARG","id":"bfdfa1bac0eef26b","x":320,"y":-220,"width":140,"height":60},
+		{"type":"text","text":"Estados Unidos","id":"d7da34a84ade63ea","x":460,"y":-280,"width":130,"height":60},
+		{"type":"text","text":"Argentina","id":"2dbe1b54e426856f","x":460,"y":-220,"width":130,"height":60},
+		{"type":"text","text":"ID","id":"82ce8b7c61aed532","x":320,"y":-400,"width":140,"height":60,"color":"3"},
+		{"type":"text","text":"Nombre","id":"607a061f0b2f4430","x":460,"y":-400,"width":130,"height":60,"color":"#1b96a7"},
+		{"type":"text","text":"MX","id":"2dfad9609bef52e9","x":320,"y":-340,"width":140,"height":60},
+		{"type":"text","text":"Mexico","id":"0077ea0f15dfd9b0","x":460,"y":-340,"width":130,"height":60},
+		{"type":"text","text":"Foreign Key","id":"e2a96611e84518f8","x":195,"y":-668,"width":250,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"be732257488447f2","fromNode":"d78ea428e771b903","fromSide":"bottom","toNode":"5c253e27d7a4d199","toSide":"top","color":"3"},
+		{"id":"e8aec55c7d377cda","fromNode":"e2a96611e84518f8","fromSide":"bottom","toNode":"dee9a698a1a1351a","toSide":"top","color":"4"},
+		{"id":"4a98e3c6b2ff8f61","fromNode":"dee9a698a1a1351a","fromSide":"right","toNode":"82ce8b7c61aed532","toSide":"left","color":"4"}
+	]
+}
