@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ba94ffaa80180db",
+            "id": "12b09d62e7894711",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/sql/5. DATA MANIPULATION.md",
+                "file": "documentacion/sql/7. Joins.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentacion/sql/5. DATA MANIPULATION.md",
+                "file": "documentacion/sql/7. Joins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentacion/sql/5. DATA MANIPULATION.md",
+                "file": "documentacion/sql/7. Joins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentacion/sql/5. DATA MANIPULATION.md"
+                "file": "documentacion/sql/7. Joins.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ba94ffaa80180db",
+  "active": "12b09d62e7894711",
   "lastOpenFiles": [
+    "documentacion/sql/6. Sentencia SELECT.md",
+    "documentacion/sql/7. Joins.md",
+    "documentacion/sql/5. Data Manipulation.md",
     "documentacion/sql/4. Normalizacion.md",
-    "documentacion/sql/5. DATA MANIPULATION.md",
     "documentacion/sql/canvas/Primary and Foreign Key.canvas",
     "documentacion/sql/image/4FN.png",
     "documentacion/sql/1. Tipo de Datos.md",
@@ -183,7 +185,6 @@
     "documentacion/uml/1.1. Agregación.md",
     "documentacion/uml/1.2. Composición.md",
     "documentacion/uml/1.2.1 Multiplicidad.md",
-    "documentacion/uml/4. Herencia  o Generalizacion.md",
     "documentacion/uml/uml.canvas",
     "documentacion/sql/image/key.png",
     "documentacion/sql/image/primary.png",
