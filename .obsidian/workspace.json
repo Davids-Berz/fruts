@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/sql/4. Normalizacion.md",
+                "file": "documentacion/sql/5. DATA MANIPULATION.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentacion/sql/4. Normalizacion.md",
+                "file": "documentacion/sql/5. DATA MANIPULATION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentacion/sql/4. Normalizacion.md",
+                "file": "documentacion/sql/5. DATA MANIPULATION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentacion/sql/4. Normalizacion.md"
+                "file": "documentacion/sql/5. DATA MANIPULATION.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "1ba94ffaa80180db",
   "lastOpenFiles": [
-    "documentacion/sql/image/4FN.png",
     "documentacion/sql/4. Normalizacion.md",
+    "documentacion/sql/5. DATA MANIPULATION.md",
+    "documentacion/sql/canvas/Primary and Foreign Key.canvas",
+    "documentacion/sql/image/4FN.png",
     "documentacion/sql/1. Tipo de Datos.md",
     "documentacion/sql/2. Primary Key.md",
     "documentacion/sql/3. Foreign Key.md",
-    "documentacion/sql/Primary and Foreign Key.canvas",
     "documentacion/sql/0. Introduccion.md",
     "documentacion/sql/canvas/4FN.canvas",
     "documentacion/sql/canvas/3FN.canvas",
@@ -183,7 +184,6 @@
     "documentacion/uml/1.2. Composición.md",
     "documentacion/uml/1.2.1 Multiplicidad.md",
     "documentacion/uml/4. Herencia  o Generalizacion.md",
-    "documentacion/uml/5. Dependencia.md",
     "documentacion/uml/uml.canvas",
     "documentacion/sql/image/key.png",
     "documentacion/sql/image/primary.png",
