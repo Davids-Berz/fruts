@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "d19cf3d4e0f65896",
+        "id": "36e1c5dc052077ec",
         "type": "tabs",
         "children": [
           {
-            "id": "10f5d267749134bf",
+            "id": "efb19a8b48042ca9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "documentacion/js/18. async generators.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3eb8e5ee92c7a08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "documentacion/js/19. Peticiones Http.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49e10f675352fe40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "documentacion/js/20. Fetch Api.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 273.5
   },
   "right": {
     "id": "e06b60978ee37432",
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "documentacion/js/20. Fetch Api.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "documentacion/js/20. Fetch Api.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "documentacion/js/20. Fetch Api.md"
+              }
             }
           }
         ]
@@ -139,33 +172,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "10f5d267749134bf",
+  "active": "49e10f675352fe40",
   "lastOpenFiles": [
-    "documentacion/sql/data definition/3. SCHEMA.md",
-    "documentacion/sql/data definition/11. UNIQUE Constraint.md",
-    "documentacion/sql/data definition/10. CHECK Constraint.md",
-    "documentacion/sql/data definition/7. SELECT INTO.md",
-    "documentacion/sql/data definition/4. IDENTITY.md",
-    "documentacion/sql/data definition/2. TABLE.md",
-    "documentacion/sql/data definition/1. DATABASE.md",
-    "documentacion/sql/data manipulation/9. Except.md",
-    "documentacion/sql/data manipulation/8. Intersect.md",
-    "documentacion/sql/data manipulation/7. Union.md",
-    "documentacion/sql/data manipulation/6. SubQuery.md",
-    "documentacion/sql/data manipulation/5. Having.md",
-    "documentacion/sql/data manipulation/4. Group By.md",
-    "documentacion/sql/data manipulation/3. Joins.md",
-    "documentacion/sql/data manipulation/2. Sentencia SELECT.md",
-    "documentacion/sql/data manipulation/1. INSERT UPDATE.md",
+    "documentacion/js/18. async generators.md",
+    "documentacion/js/19. Peticiones Http.md",
+    "documentacion/js/20. Fetch Api.md",
+    "documentacion/js/13. Callbacks.md",
+    "documentacion/js/17. Generators.md",
+    "documentacion/js/16. for await.md",
+    "documentacion/js/14. Promise.md",
+    "documentacion/js/15. Async - Await.md",
+    "documentacion/js/12. Modulos.md",
+    "documentacion/js/11. Herencia.md",
+    "documentacion/js/9. Clases.md",
+    "documentacion/java/8. Clases y Objetos.md",
+    "documentacion/js/8. Funciones.md",
+    "documentacion/js/10. STATIC.md",
+    "documentacion/java/7. Arrays o Arreglos.md",
+    "documentacion/js/6. Estructuras de control de flujo.md",
+    "documentacion/js/7. USE STRICT.md",
+    "documentacion/java/5. Estructuras de control de flujo.md",
+    "documentacion/java/6. Metodos en Java.md",
+    "documentacion/js/3. Operadores.md",
+    "documentacion/js/5. Desestructuracion.md",
+    "documentacion/js/2. Variables.md",
+    "documentacion/js/1. Tipo de Datos.md",
+    "documentacion/js/4. Funcion flecha.md",
     "documentacion/sql/4. Normalizacion.md",
-    "documentacion/sql/1. Tipo de Datos.md",
-    "documentacion/sql/data definition/12. NOT NULL constraint.md",
+    "documentacion/java/1. Tipo de Datos.md",
+    "documentacion/js",
     "documentacion/sql/data manipulation",
-    "documentacion/sql/data definition/6. ALTER TABLE.md",
-    "documentacion/sql/data definition/9. FOREING KEY.md",
-    "documentacion/sql/data definition/8. PRIMARY KEY.md",
-    "documentacion/sql/data definition/5. SECUENCE.md",
-    "documentacion/sql/0. Introduccion.md",
     "documentacion/sql/data definition",
     "documentacion/sql/image/inner.png",
     "documentacion/sql/image/inner-join.png",
@@ -188,8 +224,6 @@
     "documentacion/sql/canvas/1FN.canvas",
     "documentacion/sql/canvas/2FN.canvas",
     "documentacion/sql/image/3FN.png",
-    "documentacion/java/46. CDI - Context Dependency Injection.md",
-    "documentacion/sql/canvas",
     "documentacion/sql/image/1FN.png",
     "documentacion/uml/uml.canvas"
   ]
