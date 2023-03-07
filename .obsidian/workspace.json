@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "36e1c5dc052077ec",
+        "id": "0e1fc7776891661e",
         "type": "tabs",
         "children": [
           {
-            "id": "efb19a8b48042ca9",
+            "id": "9541030661f25e07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documentacion/js/18. async generators.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3eb8e5ee92c7a08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documentacion/js/19. Peticiones Http.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49e10f675352fe40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documentacion/js/20. Fetch Api.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentacion/js/20. Fetch Api.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentacion/js/20. Fetch Api.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "documentacion/js/20. Fetch Api.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -172,34 +139,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "49e10f675352fe40",
+  "active": "9541030661f25e07",
   "lastOpenFiles": [
-    "documentacion/js/18. async generators.md",
-    "documentacion/js/19. Peticiones Http.md",
-    "documentacion/js/20. Fetch Api.md",
-    "documentacion/js/13. Callbacks.md",
-    "documentacion/js/17. Generators.md",
-    "documentacion/js/16. for await.md",
-    "documentacion/js/14. Promise.md",
-    "documentacion/js/15. Async - Await.md",
-    "documentacion/js/12. Modulos.md",
-    "documentacion/js/11. Herencia.md",
+    "documentacion/tsc/22. Tsconfig.json.md",
+    "documentacion/tsc/21. Modulos.md",
+    "documentacion/tsc/20. Genericos.md",
+    "documentacion/tsc/19. Enum.md",
+    "documentacion/tsc/18. intanceof.md",
+    "documentacion/tsc/17. Casteo con as.md",
+    "documentacion/tsc/12. Interface.md",
+    "documentacion/tsc/15. Uniones Discriminantes.md",
+    "documentacion/tsc/13. Tipo Alias.md",
+    "documentacion/java/40. HttpServlet.md",
+    "documentacion/tsc/7. Clases.md",
+    "documentacion/tsc/11. Clases Abstractas.md",
+    "documentacion/tsc/16. Intercepcion de tipos.md",
+    "documentacion/java/37. Protocolo HTTP.md",
+    "documentacion/java/38. EJB.md",
+    "documentacion/java/19. enum.md",
+    "documentacion/tsc/14. Uniones de Tipos.md",
+    "documentacion/tsc/10. Polimorfismo.md",
+    "documentacion/tsc/9. Encapsulamiento.md",
+    "documentacion/tsc/8. Herencia.md",
+    "documentacion/tsc/6. Estructuras de control de flujo.md",
+    "documentacion/tsc/5. Desestructuracion.md",
+    "documentacion/tsc/4. funciones.md",
     "documentacion/js/9. Clases.md",
-    "documentacion/java/8. Clases y Objetos.md",
-    "documentacion/js/8. Funciones.md",
-    "documentacion/js/10. STATIC.md",
-    "documentacion/java/7. Arrays o Arreglos.md",
     "documentacion/js/6. Estructuras de control de flujo.md",
-    "documentacion/js/7. USE STRICT.md",
-    "documentacion/java/5. Estructuras de control de flujo.md",
-    "documentacion/java/6. Metodos en Java.md",
-    "documentacion/js/3. Operadores.md",
     "documentacion/js/5. Desestructuracion.md",
-    "documentacion/js/2. Variables.md",
-    "documentacion/js/1. Tipo de Datos.md",
-    "documentacion/js/4. Funcion flecha.md",
-    "documentacion/sql/4. Normalizacion.md",
-    "documentacion/java/1. Tipo de Datos.md",
+    "documentacion/tsc",
     "documentacion/js",
     "documentacion/sql/data manipulation",
     "documentacion/sql/data definition",
@@ -216,7 +184,6 @@
     "documentacion/sql/image/inner.png.crdownload",
     "documentacion/sql/image/outer join.jpg",
     "documentacion/sql/image/outer join.jpg.crdownload",
-    "documentacion/sql/image/inner-join.png.crdownload",
     "documentacion/sql/canvas/Primary and Foreign Key.canvas",
     "documentacion/sql/image/4FN.png",
     "documentacion/sql/canvas/4FN.canvas",
