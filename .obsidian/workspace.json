@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9541030661f25e07",
+            "id": "f82afaa949208769",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "documentacion/angular/3. Decorador.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "documentacion/angular/3. Decorador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "documentacion/angular/3. Decorador.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "documentacion/angular/3. Decorador.md"
+              }
             }
           }
         ]
@@ -139,34 +147,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9541030661f25e07",
+  "active": "f82afaa949208769",
   "lastOpenFiles": [
-    "documentacion/tsc/22. Tsconfig.json.md",
-    "documentacion/tsc/21. Modulos.md",
-    "documentacion/tsc/20. Genericos.md",
-    "documentacion/tsc/19. Enum.md",
-    "documentacion/tsc/18. intanceof.md",
-    "documentacion/tsc/17. Casteo con as.md",
-    "documentacion/tsc/12. Interface.md",
+    "documentacion/angular/5. Plantillas.md",
+    "documentacion/angular/6. Plantillas de Decoracion.md",
+    "documentacion/angular/7. Enlaces y Propiedades.md",
+    "documentacion/angular/3. Decorador.md",
+    "documentacion/angular/4. Interacción de componentes.md",
+    "documentacion/angular/2. Componente.md",
+    "documentacion/angular/1. Estructura de Angular.md",
+    "documentacion/angular/0. Temas.md",
+    "documentacion/js/12. Modulos.md",
+    "documentacion/angular",
+    "documentacion/uml/4. Herencia  o Generalizacion.md",
+    "documentacion/uml/uml.canvas",
+    "documentacion/uml/7. Colores.md",
+    "documentacion/uml/6. Realizacion.md",
+    "documentacion/uml/5. Dependencia.md",
+    "documentacion/uml/1.1. Agregación.md",
+    "documentacion/uml/1.0. Asociación.md",
+    "documentacion/uml/0. Diagrama de Clases.md",
     "documentacion/tsc/15. Uniones Discriminantes.md",
-    "documentacion/tsc/13. Tipo Alias.md",
-    "documentacion/java/40. HttpServlet.md",
-    "documentacion/tsc/7. Clases.md",
-    "documentacion/tsc/11. Clases Abstractas.md",
-    "documentacion/tsc/16. Intercepcion de tipos.md",
-    "documentacion/java/37. Protocolo HTTP.md",
-    "documentacion/java/38. EJB.md",
-    "documentacion/java/19. enum.md",
     "documentacion/tsc/14. Uniones de Tipos.md",
+    "documentacion/tsc/13. Tipo Alias.md",
+    "documentacion/tsc/12. Interface.md",
+    "documentacion/tsc/11. Clases Abstractas.md",
     "documentacion/tsc/10. Polimorfismo.md",
-    "documentacion/tsc/9. Encapsulamiento.md",
     "documentacion/tsc/8. Herencia.md",
+    "documentacion/tsc/7. Clases.md",
     "documentacion/tsc/6. Estructuras de control de flujo.md",
     "documentacion/tsc/5. Desestructuracion.md",
-    "documentacion/tsc/4. funciones.md",
-    "documentacion/js/9. Clases.md",
-    "documentacion/js/6. Estructuras de control de flujo.md",
-    "documentacion/js/5. Desestructuracion.md",
     "documentacion/tsc",
     "documentacion/js",
     "documentacion/sql/data manipulation",
@@ -183,7 +193,6 @@
     "documentacion/sql/image/left.png.crdownload",
     "documentacion/sql/image/inner.png.crdownload",
     "documentacion/sql/image/outer join.jpg",
-    "documentacion/sql/image/outer join.jpg.crdownload",
     "documentacion/sql/canvas/Primary and Foreign Key.canvas",
     "documentacion/sql/image/4FN.png",
     "documentacion/sql/canvas/4FN.canvas",
@@ -191,7 +200,6 @@
     "documentacion/sql/canvas/1FN.canvas",
     "documentacion/sql/canvas/2FN.canvas",
     "documentacion/sql/image/3FN.png",
-    "documentacion/sql/image/1FN.png",
-    "documentacion/uml/uml.canvas"
+    "documentacion/sql/image/1FN.png"
   ]
 }
