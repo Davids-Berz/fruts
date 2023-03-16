@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"6bd9c9d4b54f70ad","x":-260,"y":-540,"width":509,"height":101,"color":"1","type":"text","text":"# Palabras compuestas"},
+		{"id":"9497eb78d1c6949e","x":-280,"y":-338,"width":250,"height":60,"color":"4","type":"text","text":"Sales + man"},
+		{"id":"fad7b6f260dfd54c","x":20,"y":-338,"width":250,"height":60,"color":"3","type":"text","text":"Vendedor"},
+		{"type":"text","text":"Some + thing","id":"3625b142cbb7535f","x":-280,"y":-260,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"Algo","id":"1173d4d85628bdb1","x":20,"y":-260,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"In + side","id":"fdb12dde5ea754b8","x":-280,"y":-180,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"Dentro","id":"c9b118d0d2be69d1","x":20,"y":-180,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Grown + up","id":"110ed801bb234a75","x":-280,"y":-100,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"Adulto","id":"7e0497d46a6949ba","x":20,"y":-100,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Fast + food","id":"0b5a386a32f8d92a","x":-280,"y":-20,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"Comida rapida","id":"4454378b39000061","x":20,"y":-20,"width":250,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"e4b8150c2683143e","fromNode":"9497eb78d1c6949e","fromSide":"right","toNode":"fad7b6f260dfd54c","toSide":"left"},
+		{"id":"389fa98a4ecd2997","fromNode":"3625b142cbb7535f","fromSide":"right","toNode":"1173d4d85628bdb1","toSide":"left"},
+		{"id":"e07460c376f21fc6","fromNode":"fdb12dde5ea754b8","fromSide":"right","toNode":"c9b118d0d2be69d1","toSide":"left"},
+		{"id":"82698331fcebf76a","fromNode":"110ed801bb234a75","fromSide":"right","toNode":"7e0497d46a6949ba","toSide":"left"},
+		{"id":"20d3459067004f34","fromNode":"0b5a386a32f8d92a","fromSide":"right","toNode":"4454378b39000061","toSide":"left"}
+	]
+}

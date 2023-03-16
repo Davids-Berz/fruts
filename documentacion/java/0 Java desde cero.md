@@ -1,5 +1,5 @@
 1. Instalar y configurar el entorno de desarrollo
-	- Para programar en Java necesitas instalar un IDE (Integrated Development Environment) como Eclipse o NetBeans. También necesitarás el JDK (Java Development Kit), que es un conjunto de herramientas que te permitirán compilar y ejecutar programas Java.
+	- Para programar en Java necesitas instalar un IDE (Integrated Development Environment) como Eclipse,  NetBeans, VsCode o Intellij. También necesitarás el JDK (Java Development Kit), que es un conjunto de herramientas que te permitirán compilar y ejecutar programas Java.
 2. Conceptos Basicos de programacion
 	- Antes de empezar a aprender Java, es importante tener conocimientos básicos de programación. Asegúrate de tener una comprensión clara de los conceptos como variables, tipos de datos, operadores, estructuras de control, funciones y arreglos.
 3. Sintaxis básica de Java

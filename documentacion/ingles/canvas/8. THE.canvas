@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"type":"text","text":"# THE","id":"5e5b8a8b7153c7f5","x":-160,"y":-560,"width":301,"height":73,"color":"1"},
+		{"type":"text","text":"El","id":"1a04e6079de63509","x":-380,"y":-340,"width":172,"height":60},
+		{"type":"text","text":"Los","id":"3ab2732996686325","x":-9,"y":-340,"width":172,"height":60},
+		{"type":"text","text":"Las","id":"3aa7c652c5371697","x":177,"y":-340,"width":172,"height":60},
+		{"type":"text","text":"La","id":"9ffb34c490e07d66","x":-194,"y":-340,"width":172,"height":60},
+		{"type":"text","text":"THE","id":"7930fe8e7b8b210c","x":-380,"y":-160,"width":140,"height":60,"color":"4"},
+		{"type":"text","text":"Cuando comienza con una consonante","id":"1a7132ef5b08d8cc","x":-60,"y":-160,"width":414,"height":60,"color":"6"},
+		{"type":"text","text":"DĂ","id":"130fbfd833e85b91","x":-220,"y":-160,"width":140,"height":60,"color":"3"},
+		{"type":"text","text":"pronunciacion","id":"06c1dd0940770335","x":-60,"y":-240,"width":250,"height":60},
+		{"type":"text","text":"Cuando comienza con una vocal","id":"74c9249b5d5e8e38","x":-60,"y":170,"width":414,"height":60,"color":"6"},
+		{"type":"text","text":"pronunciacion","id":"4c20d080d3bee66e","x":-60,"y":80,"width":250,"height":60},
+		{"type":"text","text":"THE","id":"8cfeb641fada273a","x":-380,"y":170,"width":140,"height":60,"color":"#2c91a5"},
+		{"type":"text","text":"Di","id":"0e269dff0f4550b9","x":-220,"y":170,"width":140,"height":60,"color":"3"},
+		{"type":"text","text":"The apples are red","id":"e63ae94ac93af0af","x":-380,"y":330,"width":272,"height":60,"color":"#2c91a5"},
+		{"type":"text","text":"The cat is cute","id":"7d1c2105c24b2257","x":-380,"y":-20,"width":272,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"cdfc927b57113646","fromNode":"5e5b8a8b7153c7f5","fromSide":"bottom","toNode":"1a04e6079de63509","toSide":"top","label":"singular"},
+		{"id":"e372c58ed2f89e27","fromNode":"5e5b8a8b7153c7f5","fromSide":"bottom","toNode":"9ffb34c490e07d66","toSide":"top"},
+		{"id":"4d9d16b6a18f58f2","fromNode":"5e5b8a8b7153c7f5","fromSide":"bottom","toNode":"3ab2732996686325","toSide":"top"},
+		{"id":"1e56f6fc3c249177","fromNode":"5e5b8a8b7153c7f5","fromSide":"bottom","toNode":"3aa7c652c5371697","toSide":"top","label":"plural"},
+		{"id":"4c7bdd2ef2d5ea1e","fromNode":"7930fe8e7b8b210c","fromSide":"right","toNode":"130fbfd833e85b91","toSide":"left"},
+		{"id":"17566da00435a4c1","fromNode":"8cfeb641fada273a","fromSide":"right","toNode":"0e269dff0f4550b9","toSide":"left"},
+		{"id":"b1a78d68eb88112b","fromNode":"130fbfd833e85b91","fromSide":"right","toNode":"1a7132ef5b08d8cc","toSide":"left"},
+		{"id":"750b5d25ad909bac","fromNode":"0e269dff0f4550b9","fromSide":"right","toNode":"74c9249b5d5e8e38","toSide":"left"},
+		{"id":"6b514d93a61555f5","fromNode":"8cfeb641fada273a","fromSide":"left","toNode":"e63ae94ac93af0af","toSide":"top","color":"#2c91a5"},
+		{"id":"b5f1a93265fe5eb3","fromNode":"06c1dd0940770335","fromSide":"left","toNode":"130fbfd833e85b91","toSide":"top"},
+		{"id":"8c00ea0b85eee871","fromNode":"4c20d080d3bee66e","fromSide":"left","toNode":"0e269dff0f4550b9","toSide":"top"},
+		{"id":"0707d540a6af7d8c","fromNode":"7930fe8e7b8b210c","fromSide":"left","toNode":"7d1c2105c24b2257","toSide":"top","color":"4"}
+	]
+}

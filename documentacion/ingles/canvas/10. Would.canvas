@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Would","id":"c77be9132d7d3311","x":-220,"y":-560,"width":422,"height":150,"color":"1"},
+		{"type":"text","text":"Se pronuncia \"UUD\" como si quitaramons la \"O\" y la \"L\" de la palabra","id":"15470dbc151e842e","x":-220,"y":-360,"width":422,"height":120,"color":"3"},
+		{"type":"text","text":"Que es would?\nEs uno de los verbos modales, nos ayuda a expresar una opinion sobre si algo es probable o posible, a pedir permiso o hacer una peticion.","id":"48ca3e0323597d63","x":-220,"y":-200,"width":422,"height":200,"color":"3"},
+		{"type":"text","text":"Would es una auxiliar, es decir, que por si solo no tiene un significado copleto:\nnecesita de otro verbo para tener sentido en una oracion.","id":"0dfab62a6ddf72ed","x":240,"y":-200,"width":422,"height":200,"color":"3"},
+		{"type":"text","text":"I Would not give","id":"a90c8c401e2c400b","x":-251,"y":416,"width":209,"height":55,"color":"4"},
+		{"type":"text","text":"i wouldn't give","id":"e36a3f2e6f415288","x":-22,"y":416,"width":240,"height":58},
+		{"type":"text","text":"You Would give","id":"710ce4a6a586e53c","x":-251,"y":494,"width":209,"height":55,"color":"4"},
+		{"type":"text","text":"you wouldn't give","id":"c65921238bebbfad","x":-22,"y":494,"width":240,"height":58},
+		{"type":"text","text":"Negativo - Pronombre + Would + not + verbo","id":"83027777a610152b","x":-251,"y":336,"width":658,"height":60,"color":"6"},
+		{"type":"text","text":"Yo no daria","id":"d860232ab842a3c6","x":238,"y":416,"width":169,"height":55,"color":"3"},
+		{"type":"text","text":"tu no darias","id":"8619659b1e71b700","x":238,"y":494,"width":169,"height":55,"color":"3"},
+		{"type":"text","text":"You Would give","id":"f39994337d5bad0c","x":-251,"y":258,"width":209,"height":55,"color":"4"},
+		{"type":"text","text":"You'D give","id":"d85fa36fe6db3238","x":-22,"y":258,"width":151,"height":58},
+		{"type":"text","text":"tu darias","id":"b77f106259d844a8","x":149,"y":258,"width":169,"height":55,"color":"3"},
+		{"id":"e6fef75ae3af750b","x":-251,"y":100,"width":569,"height":60,"color":"6","type":"text","text":"Afirmativo - Pronombre + Would + verbo"},
+		{"type":"text","text":"Would You give","id":"e6980ee032e12a1e","x":-251,"y":727,"width":209,"height":55,"color":"4"},
+		{"type":"text","text":"tu darias?","id":"bdc6073a58f937f3","x":-22,"y":727,"width":169,"height":55,"color":"3"},
+		{"type":"text","text":"Would I  give","id":"558ebc661d6d9845","x":-251,"y":652,"width":209,"height":55,"color":"4"},
+		{"type":"text","text":"Yo daria?","id":"2fac176fafd1d31a","x":-22,"y":652,"width":169,"height":55,"color":"3"},
+		{"type":"text","text":"Interrogativo - Pronombre + Would + verbo","id":"371802efd2a11966","x":-251,"y":572,"width":569,"height":60,"color":"6"},
+		{"type":"text","text":"Diferencia entre would y had","id":"abb463a47f073ad5","x":-251,"y":802,"width":626,"height":60,"color":"6"},
+		{"type":"text","text":"I Would give","id":"ce67ff1dde671685","x":-251,"y":180,"width":209,"height":55,"color":"4"},
+		{"id":"2e467a418a22fb34","x":-22,"y":180,"width":151,"height":58,"type":"text","text":"I'D give"},
+		{"type":"text","text":"Yo daria","id":"e230ad91e1c99419","x":149,"y":180,"width":169,"height":55,"color":"3"},
+		{"type":"text","text":"I Would play","id":"eb8bbd834394a006","x":-251,"y":882,"width":209,"height":55,"color":"4"},
+		{"type":"text","text":"I'D play","id":"c3fcd92b7e6ebf1b","x":-22,"y":882,"width":151,"height":58},
+		{"type":"text","text":"Yo jugaria","id":"47679ea578872aad","x":149,"y":882,"width":228,"height":55,"color":"3"},
+		{"type":"text","text":"I had played","id":"53f041fe651dcda5","x":-251,"y":960,"width":209,"height":55,"color":"4"},
+		{"type":"text","text":"I'D played","id":"e214ce9a7705a1b9","x":-22,"y":960,"width":151,"height":58},
+		{"type":"text","text":"Yo habia jugado","id":"9bc0cb2721dbdf36","x":149,"y":960,"width":228,"height":55,"color":"3"}
+	],
+	"edges":[
+		{"id":"adde2271e05d2dc4","fromNode":"c77be9132d7d3311","fromSide":"bottom","toNode":"15470dbc151e842e","toSide":"top"},
+		{"id":"41c9e57fa599cbd5","fromNode":"48ca3e0323597d63","fromSide":"right","toNode":"0dfab62a6ddf72ed","toSide":"left"},
+		{"id":"1b38c297bbb88b4b","fromNode":"15470dbc151e842e","fromSide":"bottom","toNode":"48ca3e0323597d63","toSide":"top"}
+	]
+}

@@ -4,25 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "39d930b52e5c1db4",
+        "id": "ecbade726f206f2e",
         "type": "tabs",
         "children": [
           {
-            "id": "3b669813295d1dde",
+            "id": "4d51bd6348fb33c4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "documentacion/java/Untitled.canvas",
-                "viewState": {
-                  "x": 5.058793810136322,
-                  "y": -277.3150210214187,
-                  "zoom": 0.6666666666666666
-                }
+                "file": "documentacion/sql/7. Funciones Escalares.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d54cd3e86b21bf9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "documentacion/sql/8. Tablas Temporales.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db31f9e0b540e1e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "documentacion/sql/9. Vistas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eec621eddd14462a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "documentacion/sql/data definition/8. PRIMARY KEY.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -51,8 +85,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "list",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -72,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "e06b60978ee37432",
@@ -89,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentacion/java/Untitled.canvas",
+                "file": "documentacion/sql/data definition/8. PRIMARY KEY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentacion/java/Untitled.canvas",
+                "file": "documentacion/sql/data definition/8. PRIMARY KEY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,11 +162,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentacion/java/Untitled.canvas"
+                "file": "documentacion/sql/data definition/8. PRIMARY KEY.md"
               }
             }
+          },
+          {
+            "id": "62117f2a4b53cf6e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -151,59 +193,63 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b669813295d1dde",
+  "active": "eec621eddd14462a",
   "lastOpenFiles": [
-    "documentacion/java/Untitled.canvas",
-    "documentacion/angular/0. Temas.md",
-    "documentacion/java/35. Junit.md",
-    "documentacion/java/0 Java desde cero.md",
-    "documentacion/java/0.1 Conceptos de Programacion.md",
-    "documentacion/tsc/0. Introduccion.md",
-    "documentacion/tsc/22. Tsconfig.json.md",
-    "documentacion/tsc/18. intanceof.md",
-    "documentacion/tsc/11. Clases Abstractas.md",
-    "documentacion/tsc/9. Encapsulamiento.md",
-    "documentacion/tsc/7. Clases.md",
-    "documentacion/tsc/6. Estructuras de control de flujo.md",
-    "documentacion/tsc/5. Desestructuracion.md",
-    "documentacion/tsc/4. funciones.md",
-    "documentacion/tsc/3. Operadores.md",
-    "documentacion/tsc/2. Variables.md",
-    "documentacion/tsc/1. Tipo de Datos.md",
-    "documentacion/angular/7. Enlaces y Propiedades.md",
-    "documentacion/angular/6. Plantillas de Decoracion.md",
-    "documentacion/java/1. Tipo de Datos.md",
-    "documentacion/java/2. Variables.md",
-    "documentacion/java/3. Operadores.md",
-    "documentacion/angular/3. Decorador.md",
-    "documentacion/angular/5. Plantillas.md",
-    "documentacion/angular/4. Interacción de componentes.md",
-    "documentacion/angular/2. Componente.md",
-    "documentacion/angular",
-    "documentacion/uml/uml.canvas",
-    "documentacion/tsc",
-    "documentacion/js",
-    "documentacion/sql/data manipulation",
-    "documentacion/sql/data definition",
+    "documentacion/sql/10. Triggers.md",
+    "documentacion/sql/9. Vistas.md",
+    "documentacion/sql/8. Tablas Temporales.md",
+    "documentacion/sql/7. Funciones Escalares.md",
+    "documentacion/sql/6. Transacciones.md",
+    "documentacion/sql/5. Store Procedures.md",
+    "documentacion/sql/2. Operadores Aritmeticos.md",
+    "documentacion/sql/1. Tipo de Datos.md",
+    "documentacion/sql/4. Normalizacion.md",
+    "documentacion/sql/estructuras de control/6. TRY-CATCH.md",
+    "documentacion/sql/estructuras de control/4. CASE.md",
+    "documentacion/sql/estructuras de control/2. EXISTS.md",
+    "documentacion/sql/estructuras de control/1. IF ELSE.md",
+    "documentacion/sql/data manipulation/9. Except.md",
+    "documentacion/sql/data manipulation/8. Intersect.md",
+    "documentacion/sql/data manipulation/7. Union.md",
+    "documentacion/sql/data manipulation/6. SubQuery.md",
+    "documentacion/sql/data manipulation/5. Having.md",
+    "documentacion/sql/data manipulation/4. Group By.md",
+    "documentacion/sql/data manipulation/3. Joins.md",
+    "documentacion/sql/data manipulation/2. Sentencia SELECT.md",
+    "documentacion/sql/data definition/12. NOT NULL constraint.md",
+    "documentacion/sql/data definition/11. UNIQUE Constraint.md",
+    "documentacion/sql/data definition/10. CHECK Constraint.md",
+    "documentacion/sql/data definition/9. FOREING KEY.md",
+    "documentacion/sql/data definition/8. PRIMARY KEY.md",
+    "documentacion/sql/estructuras de control",
+    "documentacion/Entidad Relacion/image/er.png",
+    "documentacion/Entidad Relacion/image/cardinalidad.png",
+    "documentacion/Entidad Relacion/image",
+    "documentacion/er/Nueva carpeta",
+    "documentacion/er",
+    "documentacion/Nueva carpeta",
+    "documentacion/Entidad Relacion",
+    "documentacion/ingles/canvas/3.1 Verbos Regulares.canvas",
+    "documentacion/ingles/canvas/3.2 Verbos Irregulares.canvas",
+    "documentacion/java/0.00 Canvas.canvas",
+    "documentacion/ingles/canvas/11. Pasado simple.canvas",
+    "documentacion/ingles/canvas/10. Would.canvas",
+    "documentacion/ingles/canvas/9. Palabras compuestas.canvas",
+    "documentacion/ingles/canvas/8. THE.canvas",
+    "documentacion/ingles/canvas/7. Numeros.canvas",
+    "documentacion/ingles/canvas/6. Articulos indefinidos A y AN.canvas",
+    "documentacion/ingles/canvas/5. Futuro simple.canvas",
+    "documentacion/ingles/canvas",
+    "documentacion/ingles/notes",
+    "documentacion/ingles",
+    "documentacion/java/6. Metodos",
     "documentacion/sql/image/inner.png",
     "documentacion/sql/image/inner-join.png",
     "documentacion/sql/image/cross.png",
-    "documentacion/sql/image/cross.png.crdownload",
     "documentacion/sql/image/full.png",
-    "documentacion/sql/image/full.png.crdownload",
     "documentacion/sql/image/right.png",
-    "documentacion/sql/image/right.png.crdownload",
     "documentacion/sql/image/left.png",
-    "documentacion/sql/image/left.png.crdownload",
-    "documentacion/sql/image/inner.png.crdownload",
     "documentacion/sql/image/outer join.jpg",
-    "documentacion/sql/canvas/Primary and Foreign Key.canvas",
-    "documentacion/sql/image/4FN.png",
-    "documentacion/sql/canvas/4FN.canvas",
-    "documentacion/sql/canvas/3FN.canvas",
-    "documentacion/sql/canvas/1FN.canvas",
-    "documentacion/sql/canvas/2FN.canvas",
-    "documentacion/sql/image/3FN.png",
-    "documentacion/sql/image/1FN.png"
+    "documentacion/sql/image/4FN.png"
   ]
 }
