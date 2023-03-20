@@ -4,59 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "ecbade726f206f2e",
+        "id": "cfa1990573bb5901",
         "type": "tabs",
         "children": [
           {
-            "id": "4d51bd6348fb33c4",
+            "id": "bd8a79e20d9bed3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/sql/7. Funciones Escalares.md",
+                "file": "documentacion/oracle/25. COUNT.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d54cd3e86b21bf9c",
+            "id": "d0fa05293f9912c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/sql/8. Tablas Temporales.md",
+                "file": "documentacion/oracle/26. FUNCIONES DE GRUPO.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "db31f9e0b540e1e6",
+            "id": "cb5491ae2fa58aa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/sql/9. Vistas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eec621eddd14462a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documentacion/sql/data definition/8. PRIMARY KEY.md",
+                "file": "documentacion/oracle/25. COUNT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentacion/sql/data definition/8. PRIMARY KEY.md",
+                "file": "documentacion/oracle/25. COUNT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentacion/sql/data definition/8. PRIMARY KEY.md",
+                "file": "documentacion/oracle/25. COUNT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentacion/sql/data definition/8. PRIMARY KEY.md"
+                "file": "documentacion/oracle/25. COUNT.md"
               }
             }
           },
@@ -193,34 +181,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eec621eddd14462a",
+  "active": "cb5491ae2fa58aa6",
   "lastOpenFiles": [
-    "documentacion/sql/10. Triggers.md",
-    "documentacion/sql/9. Vistas.md",
-    "documentacion/sql/8. Tablas Temporales.md",
-    "documentacion/sql/7. Funciones Escalares.md",
-    "documentacion/sql/6. Transacciones.md",
-    "documentacion/sql/5. Store Procedures.md",
-    "documentacion/sql/2. Operadores Aritmeticos.md",
-    "documentacion/sql/1. Tipo de Datos.md",
-    "documentacion/sql/4. Normalizacion.md",
-    "documentacion/sql/estructuras de control/6. TRY-CATCH.md",
-    "documentacion/sql/estructuras de control/4. CASE.md",
-    "documentacion/sql/estructuras de control/2. EXISTS.md",
-    "documentacion/sql/estructuras de control/1. IF ELSE.md",
-    "documentacion/sql/data manipulation/9. Except.md",
-    "documentacion/sql/data manipulation/8. Intersect.md",
-    "documentacion/sql/data manipulation/7. Union.md",
-    "documentacion/sql/data manipulation/6. SubQuery.md",
-    "documentacion/sql/data manipulation/5. Having.md",
-    "documentacion/sql/data manipulation/4. Group By.md",
-    "documentacion/sql/data manipulation/3. Joins.md",
-    "documentacion/sql/data manipulation/2. Sentencia SELECT.md",
-    "documentacion/sql/data definition/12. NOT NULL constraint.md",
-    "documentacion/sql/data definition/11. UNIQUE Constraint.md",
-    "documentacion/sql/data definition/10. CHECK Constraint.md",
-    "documentacion/sql/data definition/9. FOREING KEY.md",
-    "documentacion/sql/data definition/8. PRIMARY KEY.md",
+    "documentacion/oracle/27. GROUP BY.md",
+    "documentacion/oracle/26. FUNCIONES DE GRUPO.md",
+    "documentacion/oracle/25. COUNT.md",
+    "documentacion/oracle/24. LIKE.md",
+    "documentacion/oracle/23. IN.md",
+    "documentacion/oracle/22. BETWEEN.md",
+    "documentacion/oracle/21. OPERADORES LOGICOS.md",
+    "documentacion/oracle/6. OPERADORES.md",
+    "documentacion/oracle/20. ORDER BY.md",
+    "documentacion/oracle/19. FUNCIONES FECHA Y HORA.md",
+    "documentacion/oracle/18. FUNCIONES MATEMATICAS.md",
+    "documentacion/oracle/16. FUNCIONES STRING.md",
+    "documentacion/oracle/17. DUAL.md",
+    "documentacion/oracle/15. ALIAS.md",
+    "documentacion/oracle/14. DEFAULT.md",
+    "documentacion/oracle/8. UPDATE.md",
+    "documentacion/oracle/7. DELETE TABLE.md",
+    "documentacion/oracle/1. TABLE.md",
+    "documentacion/oracle/5. WHERE.md",
+    "documentacion/oracle/4 SELECT.md",
+    "documentacion/oracle/3. INSERT INTO.md",
+    "documentacion/oracle/13. TIPO NUMERICOS.md",
+    "documentacion/oracle/12. TIPOS ALFANUMERICOS.md",
+    "documentacion/oracle/10. PRIMARY KEY.md",
+    "documentacion/oracle/11. TRUNCATE TABLE.md",
+    "documentacion/oracle/9. NULL.md",
+    "documentacion/oracle",
     "documentacion/sql/estructuras de control",
     "documentacion/Entidad Relacion/image/er.png",
     "documentacion/Entidad Relacion/image/cardinalidad.png",
@@ -242,7 +231,6 @@
     "documentacion/ingles/canvas",
     "documentacion/ingles/notes",
     "documentacion/ingles",
-    "documentacion/java/6. Metodos",
     "documentacion/sql/image/inner.png",
     "documentacion/sql/image/inner-join.png",
     "documentacion/sql/image/cross.png",
