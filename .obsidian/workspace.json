@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cfa1990573bb5901",
+        "id": "b6bd8c1290673999",
         "type": "tabs",
         "children": [
           {
-            "id": "bd8a79e20d9bed3d",
+            "id": "1d38e62dbdd90bfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/oracle/25. COUNT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0fa05293f9912c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documentacion/oracle/26. FUNCIONES DE GRUPO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb5491ae2fa58aa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documentacion/oracle/25. COUNT.md",
+                "file": "documentacion/oracle/57. VISTAS (VIEW).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "list",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 270.5
   },
   "right": {
     "id": "e06b60978ee37432",
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentacion/oracle/25. COUNT.md",
+                "file": "documentacion/oracle/57. VISTAS (VIEW).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentacion/oracle/25. COUNT.md",
+                "file": "documentacion/oracle/57. VISTAS (VIEW).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentacion/oracle/25. COUNT.md"
+                "file": "documentacion/oracle/57. VISTAS (VIEW).md"
               }
             }
           },
@@ -181,34 +156,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb5491ae2fa58aa6",
+  "active": "1d38e62dbdd90bfe",
   "lastOpenFiles": [
-    "documentacion/oracle/27. GROUP BY.md",
-    "documentacion/oracle/26. FUNCIONES DE GRUPO.md",
-    "documentacion/oracle/25. COUNT.md",
-    "documentacion/oracle/24. LIKE.md",
-    "documentacion/oracle/23. IN.md",
-    "documentacion/oracle/22. BETWEEN.md",
-    "documentacion/oracle/21. OPERADORES LOGICOS.md",
-    "documentacion/oracle/6. OPERADORES.md",
-    "documentacion/oracle/20. ORDER BY.md",
-    "documentacion/oracle/19. FUNCIONES FECHA Y HORA.md",
-    "documentacion/oracle/18. FUNCIONES MATEMATICAS.md",
-    "documentacion/oracle/16. FUNCIONES STRING.md",
-    "documentacion/oracle/17. DUAL.md",
-    "documentacion/oracle/15. ALIAS.md",
-    "documentacion/oracle/14. DEFAULT.md",
-    "documentacion/oracle/8. UPDATE.md",
-    "documentacion/oracle/7. DELETE TABLE.md",
-    "documentacion/oracle/1. TABLE.md",
-    "documentacion/oracle/5. WHERE.md",
-    "documentacion/oracle/4 SELECT.md",
-    "documentacion/oracle/3. INSERT INTO.md",
-    "documentacion/oracle/13. TIPO NUMERICOS.md",
-    "documentacion/oracle/12. TIPOS ALFANUMERICOS.md",
+    "documentacion/oracle/56. CREAR TABLA A PARTIR DE OTRA.md",
+    "documentacion/oracle/57. VISTAS (VIEW).md",
+    "documentacion/oracle/55. SUBQUERY INSERT.md",
+    "documentacion/oracle/54. SUBQUERY UPDATE DELETE.md",
+    "documentacion/oracle/53. SUBQUERY SIMILAR.md",
+    "documentacion/oracle/52. SUBQUERY CORRELACIONADA.md",
+    "documentacion/oracle/51. SUBQUERY ANY,  SOME, ALL.md",
+    "documentacion/oracle/50. SUBQUERY IN.md",
+    "documentacion/oracle/49. SUBQUERY.md",
+    "documentacion/oracle/48. ALTER TABLE DROP.md",
+    "documentacion/oracle/47. ALTER TABLE MODIFY.md",
+    "documentacion/oracle/46. ALTER TABLE ADD.md",
+    "documentacion/oracle/45. MINUS.md",
+    "documentacion/oracle/44. INTERSECT.md",
+    "documentacion/oracle/43. UNION.md",
+    "documentacion/oracle/42. FOREIGN KEY.md",
+    "documentacion/sql/data definition/9. FOREING KEY.md",
+    "documentacion/oracle/41. Ejemplo JOIN.md",
     "documentacion/oracle/10. PRIMARY KEY.md",
-    "documentacion/oracle/11. TRUNCATE TABLE.md",
-    "documentacion/oracle/9. NULL.md",
+    "documentacion/oracle/40. JOIN.md",
+    "documentacion/oracle/33. CONSTRAINT PK.md",
+    "documentacion/sql/data manipulation/3. Joins.md",
+    "documentacion/sql/data manipulation/2. Sentencia SELECT.md",
+    "documentacion/sql/data manipulation/1. INSERT UPDATE.md",
+    "documentacion/sql/10. Triggers.md",
+    "documentacion/sql/9. Vistas.md",
+    "documentacion/ingles/canvas/3. verbos.canvas",
+    "documentacion/ingles/canvas/3.1 Verbos Regulares.canvas",
+    "documentacion/ingles/canvas/3.2 Verbos Irregulares.canvas",
     "documentacion/oracle",
     "documentacion/sql/estructuras de control",
     "documentacion/Entidad Relacion/image/er.png",
@@ -218,8 +196,6 @@
     "documentacion/er",
     "documentacion/Nueva carpeta",
     "documentacion/Entidad Relacion",
-    "documentacion/ingles/canvas/3.1 Verbos Regulares.canvas",
-    "documentacion/ingles/canvas/3.2 Verbos Irregulares.canvas",
     "documentacion/java/0.00 Canvas.canvas",
     "documentacion/ingles/canvas/11. Pasado simple.canvas",
     "documentacion/ingles/canvas/10. Would.canvas",
@@ -227,7 +203,6 @@
     "documentacion/ingles/canvas/8. THE.canvas",
     "documentacion/ingles/canvas/7. Numeros.canvas",
     "documentacion/ingles/canvas/6. Articulos indefinidos A y AN.canvas",
-    "documentacion/ingles/canvas/5. Futuro simple.canvas",
     "documentacion/ingles/canvas",
     "documentacion/ingles/notes",
     "documentacion/ingles",
