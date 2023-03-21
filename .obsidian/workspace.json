@@ -4,22 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "b6bd8c1290673999",
+        "id": "20669325cc816ac9",
         "type": "tabs",
         "children": [
           {
-            "id": "1d38e62dbdd90bfe",
+            "id": "02b4e179e931f306",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/oracle/57. VISTAS (VIEW).md",
+                "file": "documentacion/oracle/68. IF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2819fe594a0b48d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "documentacion/oracle/69. CASE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91e3b5fa69a090c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "documentacion/oracle/70. LOOP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e55aaa93959848b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "documentacion/oracle/71. FOR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8171981217bd3aed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "documentacion/oracle/72. WHILE LOOP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3b11e8708ac9d13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "documentacion/oracle/73. TRIGGER.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentacion/oracle/57. VISTAS (VIEW).md",
+                "file": "documentacion/oracle/73. TRIGGER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentacion/oracle/57. VISTAS (VIEW).md",
+                "file": "documentacion/oracle/73. TRIGGER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentacion/oracle/57. VISTAS (VIEW).md"
+                "file": "documentacion/oracle/73. TRIGGER.md"
               }
             }
           },
@@ -156,34 +217,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1d38e62dbdd90bfe",
+  "active": "d3b11e8708ac9d13",
   "lastOpenFiles": [
-    "documentacion/oracle/56. CREAR TABLA A PARTIR DE OTRA.md",
+    "documentacion/oracle/72. WHILE LOOP.md",
+    "documentacion/oracle/73. TRIGGER.md",
+    "documentacion/oracle/71. FOR.md",
+    "documentacion/oracle/70. LOOP.md",
+    "documentacion/oracle/69. CASE.md",
+    "documentacion/oracle/68. IF.md",
+    "documentacion/oracle/67. FUNCIONES.md",
+    "documentacion/oracle/66. PROCEDURE VARIABLES.md",
+    "documentacion/oracle/65. PROCEDURE PARAMETROS DE ENTRADA.md",
+    "documentacion/oracle/6. OPERADORES.md",
+    "documentacion/oracle/2. TIPO DE DATOS.md",
+    "documentacion/oracle/64. PROCEDURE.md",
+    "documentacion/oracle/63. VISTA MATERIALIZADA.md",
+    "documentacion/oracle/62. VISTAS FORCE.md",
+    "documentacion/oracle/61. VISTAS WITH CHECK OPTION.md",
+    "documentacion/oracle/60. ALTER VIEW.md",
+    "documentacion/oracle/59. VISTAS CREATE OR REPLACE VIEW.md",
+    "documentacion/oracle/58. VISTAS READ ONLY.md",
     "documentacion/oracle/57. VISTAS (VIEW).md",
+    "documentacion/uml/uml.canvas",
+    "documentacion/uml/1.2.1 Multiplicidad.md",
+    "documentacion/uml/1.2. Composición.md",
+    "documentacion/uml/1.1. Agregación.md",
+    "documentacion/uml/1.0. Asociación.md",
+    "documentacion/uml/0. Diagrama de Clases.md",
+    "documentacion/oracle/56. CREAR TABLA A PARTIR DE OTRA.md",
     "documentacion/oracle/55. SUBQUERY INSERT.md",
-    "documentacion/oracle/54. SUBQUERY UPDATE DELETE.md",
-    "documentacion/oracle/53. SUBQUERY SIMILAR.md",
-    "documentacion/oracle/52. SUBQUERY CORRELACIONADA.md",
-    "documentacion/oracle/51. SUBQUERY ANY,  SOME, ALL.md",
-    "documentacion/oracle/50. SUBQUERY IN.md",
-    "documentacion/oracle/49. SUBQUERY.md",
-    "documentacion/oracle/48. ALTER TABLE DROP.md",
-    "documentacion/oracle/47. ALTER TABLE MODIFY.md",
-    "documentacion/oracle/46. ALTER TABLE ADD.md",
-    "documentacion/oracle/45. MINUS.md",
-    "documentacion/oracle/44. INTERSECT.md",
-    "documentacion/oracle/43. UNION.md",
-    "documentacion/oracle/42. FOREIGN KEY.md",
-    "documentacion/sql/data definition/9. FOREING KEY.md",
-    "documentacion/oracle/41. Ejemplo JOIN.md",
-    "documentacion/oracle/10. PRIMARY KEY.md",
-    "documentacion/oracle/40. JOIN.md",
-    "documentacion/oracle/33. CONSTRAINT PK.md",
-    "documentacion/sql/data manipulation/3. Joins.md",
-    "documentacion/sql/data manipulation/2. Sentencia SELECT.md",
-    "documentacion/sql/data manipulation/1. INSERT UPDATE.md",
-    "documentacion/sql/10. Triggers.md",
-    "documentacion/sql/9. Vistas.md",
     "documentacion/ingles/canvas/3. verbos.canvas",
     "documentacion/ingles/canvas/3.1 Verbos Regulares.canvas",
     "documentacion/ingles/canvas/3.2 Verbos Irregulares.canvas",
@@ -202,7 +264,6 @@
     "documentacion/ingles/canvas/9. Palabras compuestas.canvas",
     "documentacion/ingles/canvas/8. THE.canvas",
     "documentacion/ingles/canvas/7. Numeros.canvas",
-    "documentacion/ingles/canvas/6. Articulos indefinidos A y AN.canvas",
     "documentacion/ingles/canvas",
     "documentacion/ingles/notes",
     "documentacion/ingles",
