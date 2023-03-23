@@ -8,79 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "02b4e179e931f306",
+            "id": "067c982f01c2df16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/oracle/68. IF.md",
+                "file": "documentacion/oracle/79. TRIGGER WHEN.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e2819fe594a0b48d",
+            "id": "dfc0849c11a02703",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/oracle/69. CASE.md",
+                "file": "documentacion/oracle/79. TRIGGER WHEN.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "91e3b5fa69a090c3",
+            "id": "cc880d56802e86e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/oracle/70. LOOP.md",
+                "file": "documentacion/oracle/80. TRIGGER UPDATING.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6e55aaa93959848b",
+            "id": "64eba680f01a88b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/oracle/71. FOR.md",
+                "file": "documentacion/oracle/81. TRIGGER ENABLE, DISABLE.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8171981217bd3aed",
+            "id": "45d1357a44dd3928",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/oracle/72. WHILE LOOP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3b11e8708ac9d13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documentacion/oracle/73. TRIGGER.md",
+                "file": "documentacion/oracle/81. DROP TRIGGER.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentacion/oracle/73. TRIGGER.md",
+                "file": "documentacion/oracle/81. DROP TRIGGER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentacion/oracle/73. TRIGGER.md",
+                "file": "documentacion/oracle/81. DROP TRIGGER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentacion/oracle/73. TRIGGER.md"
+                "file": "documentacion/oracle/81. DROP TRIGGER.md"
               }
             }
           },
@@ -217,35 +205,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d3b11e8708ac9d13",
+  "active": "45d1357a44dd3928",
   "lastOpenFiles": [
-    "documentacion/oracle/72. WHILE LOOP.md",
+    "documentacion/oracle/81. TRIGGER ENABLE, DISABLE.md",
+    "documentacion/oracle/81. DROP TRIGGER.md",
+    "documentacion/oracle/80. TRIGGER UPDATING.md",
+    "documentacion/oracle/79. TRIGGER WHEN.md",
+    "documentacion/oracle/74. USER_TRIGGERS.md",
+    "documentacion/oracle/75. DISPARADOR DE BORRADO.md",
+    "documentacion/oracle/76. UPDATE TRIGGER.md",
+    "documentacion/oracle/77. TRIGGER OLD, NEW.md",
+    "documentacion/oracle/78. TRIGGER MULTIPLES EVENTOS.md",
     "documentacion/oracle/73. TRIGGER.md",
-    "documentacion/oracle/71. FOR.md",
-    "documentacion/oracle/70. LOOP.md",
-    "documentacion/oracle/69. CASE.md",
-    "documentacion/oracle/68. IF.md",
-    "documentacion/oracle/67. FUNCIONES.md",
-    "documentacion/oracle/66. PROCEDURE VARIABLES.md",
-    "documentacion/oracle/65. PROCEDURE PARAMETROS DE ENTRADA.md",
-    "documentacion/oracle/6. OPERADORES.md",
-    "documentacion/oracle/2. TIPO DE DATOS.md",
-    "documentacion/oracle/64. PROCEDURE.md",
+    "documentacion/oracle/57. VISTAS (VIEW).md",
     "documentacion/oracle/63. VISTA MATERIALIZADA.md",
     "documentacion/oracle/62. VISTAS FORCE.md",
     "documentacion/oracle/61. VISTAS WITH CHECK OPTION.md",
     "documentacion/oracle/60. ALTER VIEW.md",
     "documentacion/oracle/59. VISTAS CREATE OR REPLACE VIEW.md",
     "documentacion/oracle/58. VISTAS READ ONLY.md",
-    "documentacion/oracle/57. VISTAS (VIEW).md",
+    "documentacion/oracle/1. TABLE.md",
+    "documentacion/oracle/11. TRUNCATE TABLE.md",
+    "documentacion/oracle/72. WHILE LOOP.md",
+    "documentacion/oracle/71. FOR.md",
+    "documentacion/oracle/70. LOOP.md",
+    "documentacion/oracle/69. CASE.md",
+    "documentacion/oracle/68. IF.md",
+    "documentacion/oracle/67. FUNCIONES.md",
+    "documentacion/oracle/66. PROCEDURE VARIABLES.md",
     "documentacion/uml/uml.canvas",
-    "documentacion/uml/1.2.1 Multiplicidad.md",
-    "documentacion/uml/1.2. Composición.md",
-    "documentacion/uml/1.1. Agregación.md",
-    "documentacion/uml/1.0. Asociación.md",
-    "documentacion/uml/0. Diagrama de Clases.md",
-    "documentacion/oracle/56. CREAR TABLA A PARTIR DE OTRA.md",
-    "documentacion/oracle/55. SUBQUERY INSERT.md",
     "documentacion/ingles/canvas/3. verbos.canvas",
     "documentacion/ingles/canvas/3.1 Verbos Regulares.canvas",
     "documentacion/ingles/canvas/3.2 Verbos Irregulares.canvas",
