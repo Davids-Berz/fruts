@@ -8,67 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "067c982f01c2df16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documentacion/oracle/79. TRIGGER WHEN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfc0849c11a02703",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documentacion/oracle/79. TRIGGER WHEN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc880d56802e86e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documentacion/oracle/80. TRIGGER UPDATING.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64eba680f01a88b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documentacion/oracle/81. TRIGGER ENABLE, DISABLE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "45d1357a44dd3928",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/oracle/81. DROP TRIGGER.md",
+                "file": "documentacion/oracle/69. CASE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2f05465edd0f23d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ejercicios/oracle/01. Ejercicios DATE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ba75f4b28b01b7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ejercicios/oracle/02. Ejercicio Completo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentacion/oracle/81. DROP TRIGGER.md",
+                "file": "Ejercicios/oracle/02. Ejercicio Completo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentacion/oracle/81. DROP TRIGGER.md",
+                "file": "Ejercicios/oracle/02. Ejercicio Completo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentacion/oracle/81. DROP TRIGGER.md"
+                "file": "Ejercicios/oracle/02. Ejercicio Completo.md"
               }
             }
           },
@@ -205,34 +181,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45d1357a44dd3928",
+  "active": "4ba75f4b28b01b7b",
   "lastOpenFiles": [
-    "documentacion/oracle/81. TRIGGER ENABLE, DISABLE.md",
-    "documentacion/oracle/81. DROP TRIGGER.md",
-    "documentacion/oracle/80. TRIGGER UPDATING.md",
-    "documentacion/oracle/79. TRIGGER WHEN.md",
-    "documentacion/oracle/74. USER_TRIGGERS.md",
-    "documentacion/oracle/75. DISPARADOR DE BORRADO.md",
+    "Ejercicios/oracle/01. Ejercicios DATE.md",
+    "Ejercicios/oracle/02. Ejercicio Completo.md",
+    "documentacion/oracle/69. CASE.md",
+    "documentacion/oracle/68. IF.md",
+    "documentacion/oracle/0. Introduccion.md",
+    "Ejercicios/oracle",
+    "documentacion/oracle/73. TRIGGER.md",
+    "Ejercicios",
     "documentacion/oracle/76. UPDATE TRIGGER.md",
+    "documentacion/oracle/79. TRIGGER WHEN.md",
+    "documentacion/oracle/82. TRIGGER ENABLE, DISABLE.md",
+    "documentacion/Untitled.md",
     "documentacion/oracle/77. TRIGGER OLD, NEW.md",
     "documentacion/oracle/78. TRIGGER MULTIPLES EVENTOS.md",
-    "documentacion/oracle/73. TRIGGER.md",
+    "documentacion/oracle/80. TRIGGER UPDATING.md",
+    "documentacion/oracle/81. DROP TRIGGER.md",
+    "documentacion/oracle/2. TIPO DE DATOS.md",
+    "documentacion/oracle/17. DUAL.md",
+    "documentacion/oracle/16. FUNCIONES STRING.md",
+    "documentacion/oracle/15. ALIAS.md",
+    "documentacion/oracle/14. DEFAULT.md",
+    "documentacion/oracle/13. TIPO NUMERICOS.md",
+    "documentacion/oracle/74. USER_TRIGGERS.md",
+    "documentacion/oracle/75. DISPARADOR DE BORRADO.md",
     "documentacion/oracle/57. VISTAS (VIEW).md",
     "documentacion/oracle/63. VISTA MATERIALIZADA.md",
     "documentacion/oracle/62. VISTAS FORCE.md",
     "documentacion/oracle/61. VISTAS WITH CHECK OPTION.md",
-    "documentacion/oracle/60. ALTER VIEW.md",
-    "documentacion/oracle/59. VISTAS CREATE OR REPLACE VIEW.md",
-    "documentacion/oracle/58. VISTAS READ ONLY.md",
-    "documentacion/oracle/1. TABLE.md",
-    "documentacion/oracle/11. TRUNCATE TABLE.md",
-    "documentacion/oracle/72. WHILE LOOP.md",
-    "documentacion/oracle/71. FOR.md",
-    "documentacion/oracle/70. LOOP.md",
-    "documentacion/oracle/69. CASE.md",
-    "documentacion/oracle/68. IF.md",
-    "documentacion/oracle/67. FUNCIONES.md",
-    "documentacion/oracle/66. PROCEDURE VARIABLES.md",
     "documentacion/uml/uml.canvas",
     "documentacion/ingles/canvas/3. verbos.canvas",
     "documentacion/ingles/canvas/3.1 Verbos Regulares.canvas",
@@ -253,8 +231,6 @@
     "documentacion/ingles/canvas/8. THE.canvas",
     "documentacion/ingles/canvas/7. Numeros.canvas",
     "documentacion/ingles/canvas",
-    "documentacion/ingles/notes",
-    "documentacion/ingles",
     "documentacion/sql/image/inner.png",
     "documentacion/sql/image/inner-join.png",
     "documentacion/sql/image/cross.png",
