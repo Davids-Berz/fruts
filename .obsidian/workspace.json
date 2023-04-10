@@ -8,36 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bf6098b98e12a3e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documentacion/angular/11.1 ng g c --help.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "228b1d968983ab9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documentacion/angular/11.2 ng g s --help.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c0fb3edf09a915be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "documentacion/angular/11. ng g --help.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d45677cdd66ad13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "documentacion/angular/12. Input - Output.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a47e88f7b62ca18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "documentacion/angular/13. Observable.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentacion/angular/11. ng g --help.md",
+                "file": "documentacion/angular/13. Observable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentacion/angular/11. ng g --help.md",
+                "file": "documentacion/angular/13. Observable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentacion/angular/11. ng g --help.md"
+                "file": "documentacion/angular/13. Observable.md"
               }
             }
           },
@@ -181,11 +181,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0fb3edf09a915be",
+  "active": "2a47e88f7b62ca18",
   "lastOpenFiles": [
+    "documentacion/angular/12. Input - Output.md",
+    "documentacion/angular/13. Observable.md",
+    "documentacion/angular/11. ng g --help.md",
     "documentacion/angular/11.2 ng g s --help.md",
     "documentacion/angular/11.1 ng g c --help.md",
-    "documentacion/angular/11. ng g --help.md",
     "documentacion/angular/10. ngFor, ngIf.md",
     "documentacion/angular/9. BrowserModule.md",
     "documentacion/angular/8. Enlaces y Propiedades.md",
@@ -209,8 +211,6 @@
     "documentacion/oracle/76. UPDATE TRIGGER.md",
     "documentacion/oracle/79. TRIGGER WHEN.md",
     "documentacion/oracle/82. TRIGGER ENABLE, DISABLE.md",
-    "documentacion/Untitled.md",
-    "documentacion/oracle/77. TRIGGER OLD, NEW.md",
     "documentacion/uml/uml.canvas",
     "documentacion/ingles/canvas/3. verbos.canvas",
     "documentacion/ingles/canvas/3.1 Verbos Regulares.canvas",
