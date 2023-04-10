@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "20669325cc816ac9",
+        "id": "9abd884eb9e93c89",
         "type": "tabs",
         "children": [
           {
-            "id": "45d1357a44dd3928",
+            "id": "bf6098b98e12a3e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/oracle/69. CASE.md",
+                "file": "documentacion/angular/11.1 ng g c --help.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d2f05465edd0f23d",
+            "id": "228b1d968983ab9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ejercicios/oracle/01. Ejercicios DATE.md",
+                "file": "documentacion/angular/11.2 ng g s --help.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4ba75f4b28b01b7b",
+            "id": "c0fb3edf09a915be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ejercicios/oracle/02. Ejercicio Completo.md",
+                "file": "documentacion/angular/11. ng g --help.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ejercicios/oracle/02. Ejercicio Completo.md",
+                "file": "documentacion/angular/11. ng g --help.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ejercicios/oracle/02. Ejercicio Completo.md",
+                "file": "documentacion/angular/11. ng g --help.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ejercicios/oracle/02. Ejercicio Completo.md"
+                "file": "documentacion/angular/11. ng g --help.md"
               }
             }
           },
@@ -181,10 +181,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4ba75f4b28b01b7b",
+  "active": "c0fb3edf09a915be",
   "lastOpenFiles": [
-    "Ejercicios/oracle/01. Ejercicios DATE.md",
+    "documentacion/angular/11.2 ng g s --help.md",
+    "documentacion/angular/11.1 ng g c --help.md",
+    "documentacion/angular/11. ng g --help.md",
+    "documentacion/angular/10. ngFor, ngIf.md",
+    "documentacion/angular/9. BrowserModule.md",
+    "documentacion/angular/8. Enlaces y Propiedades.md",
+    "documentacion/angular/7. Plantillas de Decoracion.md",
+    "documentacion/angular/6. Plantillas.md",
+    "documentacion/angular/5. Interacción de componentes.md",
+    "documentacion/angular/4. Decorador.md",
+    "documentacion/angular/3. Componente.md",
+    "documentacion/angular/2. Estructura de Angular.md",
+    "documentacion/angular/1. Crear app Angular.md",
+    "documentacion/angular/0. Temas.md",
     "Ejercicios/oracle/02. Ejercicio Completo.md",
+    "documentacion/oracle/72. WHILE LOOP.md",
+    "Ejercicios/oracle/01. Ejercicios DATE.md",
     "documentacion/oracle/69. CASE.md",
     "documentacion/oracle/68. IF.md",
     "documentacion/oracle/0. Introduccion.md",
@@ -196,21 +211,6 @@
     "documentacion/oracle/82. TRIGGER ENABLE, DISABLE.md",
     "documentacion/Untitled.md",
     "documentacion/oracle/77. TRIGGER OLD, NEW.md",
-    "documentacion/oracle/78. TRIGGER MULTIPLES EVENTOS.md",
-    "documentacion/oracle/80. TRIGGER UPDATING.md",
-    "documentacion/oracle/81. DROP TRIGGER.md",
-    "documentacion/oracle/2. TIPO DE DATOS.md",
-    "documentacion/oracle/17. DUAL.md",
-    "documentacion/oracle/16. FUNCIONES STRING.md",
-    "documentacion/oracle/15. ALIAS.md",
-    "documentacion/oracle/14. DEFAULT.md",
-    "documentacion/oracle/13. TIPO NUMERICOS.md",
-    "documentacion/oracle/74. USER_TRIGGERS.md",
-    "documentacion/oracle/75. DISPARADOR DE BORRADO.md",
-    "documentacion/oracle/57. VISTAS (VIEW).md",
-    "documentacion/oracle/63. VISTA MATERIALIZADA.md",
-    "documentacion/oracle/62. VISTAS FORCE.md",
-    "documentacion/oracle/61. VISTAS WITH CHECK OPTION.md",
     "documentacion/uml/uml.canvas",
     "documentacion/ingles/canvas/3. verbos.canvas",
     "documentacion/ingles/canvas/3.1 Verbos Regulares.canvas",
