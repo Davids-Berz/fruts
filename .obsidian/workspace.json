@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fe9f044e4835c7f7",
+        "id": "72f734750c505075",
         "type": "tabs",
         "children": [
           {
-            "id": "fee5f4667094ee30",
+            "id": "a1b2dbc17fb13329",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documentacion/angular/5. Interacción de componentes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -64,6 +60,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "d006fc32f157af48",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentacion/angular/5. Interacción de componentes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentacion/angular/5. Interacción de componentes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "documentacion/angular/5. Interacción de componentes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,8 +156,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fee5f4667094ee30",
+  "active": "a1b2dbc17fb13329",
   "lastOpenFiles": [
+    "documentacion/SpringBoot/MVC/6. Anotaciones Para El Controlador.md",
+    "documentacion/SpringBoot/MVC/5. @Controller y @RestController.md",
+    "documentacion/SpringBoot/MVC/4. Arquitectura MVC.md",
+    "documentacion/SpringBoot/MVC/3. Creando proyecto SpringBoot.md",
+    "documentacion/SpringBoot/MVC/2. Anotacion @SpringBootApplication.md",
+    "documentacion/SpringBoot/MVC/1. Estructura de SpringBoot.md",
+    "documentacion/SpringBoot/MVC",
+    "documentacion/SpringBoot",
+    "documentacion/js/20. Fetch Api.md",
+    "documentacion/angular/5. Interacción de componentes.md",
     "documentacion/angular/4. Decorador.md",
     "documentacion/angular/3. Componente.md",
     "documentacion/angular/2. Estructura de Angular.md",
@@ -176,14 +186,6 @@
     "documentacion/angular/11.1 ng g c --help.md",
     "documentacion/angular/10. ngFor, ngIf.md",
     "documentacion/angular/9. BrowserModule.md",
-    "documentacion/angular/8. Enlaces y Propiedades.md",
-    "documentacion/angular/7. Plantillas de Decoracion.md",
-    "documentacion/angular/6. Plantillas.md",
-    "documentacion/angular/5. Interacción de componentes.md",
-    "documentacion/angular/0. Temas.md",
-    "Ejercicios/oracle/02. Ejercicio Completo.md",
-    "documentacion/oracle/72. WHILE LOOP.md",
-    "Ejercicios/oracle/01. Ejercicios DATE.md",
     "Ejercicios/oracle",
     "Ejercicios",
     "documentacion/uml/uml.canvas",
@@ -198,14 +200,12 @@
     "documentacion/er/Nueva carpeta",
     "documentacion/er",
     "documentacion/Nueva carpeta",
-    "documentacion/Entidad Relacion",
     "documentacion/java/0.00 Canvas.canvas",
     "documentacion/ingles/canvas/11. Pasado simple.canvas",
     "documentacion/ingles/canvas/10. Would.canvas",
     "documentacion/ingles/canvas/9. Palabras compuestas.canvas",
     "documentacion/ingles/canvas/8. THE.canvas",
     "documentacion/ingles/canvas/7. Numeros.canvas",
-    "documentacion/ingles/canvas",
     "documentacion/sql/image/inner.png",
     "documentacion/sql/image/inner-join.png",
     "documentacion/sql/image/cross.png",
