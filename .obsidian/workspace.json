@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "72f734750c505075",
+        "id": "b3bbe74fd6339da6",
         "type": "tabs",
         "children": [
           {
-            "id": "a1b2dbc17fb13329",
+            "id": "34a958626ecc41ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "documentacion/Preguntas/2. Java.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "documentacion/Preguntas/2. Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "documentacion/Preguntas/2. Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "documentacion/Preguntas/2. Java.md"
+              }
             }
           },
           {
@@ -156,10 +164,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a1b2dbc17fb13329",
+  "active": "34a958626ecc41ff",
   "lastOpenFiles": [
-    "documentacion/SpringBoot/MVC/6. Anotaciones Para El Controlador.md",
+    "documentacion/Preguntas/1. Spring.md",
+    "documentacion/Preguntas/2. Java.md",
+    "documentacion/Preguntas",
     "documentacion/SpringBoot/MVC/5. @Controller y @RestController.md",
+    "documentacion/SpringBoot/MVC/6. Anotaciones Para El Controlador.md",
+    "documentacion/Untitled.md",
+    "documentacion/PLSQL/9. Procedimientos Almacenados.md",
+    "documentacion/PLSQL/8. Bidimensionales.md",
+    "documentacion/PLSQL/7. Array.md",
+    "documentacion/PLSQL/6. Loops.md",
+    "documentacion/PLSQL/5. Condicionales.md",
+    "documentacion/PLSQL/4. Constante.md",
+    "documentacion/PLSQL/3. Variables.md",
+    "documentacion/PLSQL/2. Log.md",
+    "documentacion/PLSQL/1. Conceptos de PLSQL.md",
+    "documentacion/oracle/82. TRIGGER ENABLE, DISABLE.md",
+    "documentacion/PLSQL",
+    "documentacion/oracle/81. DROP TRIGGER.md",
     "documentacion/SpringBoot/MVC/4. Arquitectura MVC.md",
     "documentacion/SpringBoot/MVC/3. Creando proyecto SpringBoot.md",
     "documentacion/SpringBoot/MVC/2. Anotacion @SpringBootApplication.md",
@@ -172,20 +196,6 @@
     "documentacion/angular/3. Componente.md",
     "documentacion/angular/2. Estructura de Angular.md",
     "documentacion/angular/1. Crear app Angular.md",
-    "documentacion/angular/13. Observable.md",
-    "documentacion/oracle/8. UPDATE.md",
-    "documentacion/oracle/9. NULL.md",
-    "documentacion/oracle/6. OPERADORES.md",
-    "documentacion/oracle/4 SELECT.md",
-    "documentacion/oracle/2. TIPO DE DATOS.md",
-    "documentacion/oracle/1. TABLE.md",
-    "documentacion/oracle/0. Introduccion.md",
-    "documentacion/angular/12. Input - Output.md",
-    "documentacion/angular/11. ng g --help.md",
-    "documentacion/angular/11.2 ng g s --help.md",
-    "documentacion/angular/11.1 ng g c --help.md",
-    "documentacion/angular/10. ngFor, ngIf.md",
-    "documentacion/angular/9. BrowserModule.md",
     "Ejercicios/oracle",
     "Ejercicios",
     "documentacion/uml/uml.canvas",
@@ -198,8 +208,6 @@
     "documentacion/Entidad Relacion/image/cardinalidad.png",
     "documentacion/Entidad Relacion/image",
     "documentacion/er/Nueva carpeta",
-    "documentacion/er",
-    "documentacion/Nueva carpeta",
     "documentacion/java/0.00 Canvas.canvas",
     "documentacion/ingles/canvas/11. Pasado simple.canvas",
     "documentacion/ingles/canvas/10. Would.canvas",
