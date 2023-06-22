@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b3bbe74fd6339da6",
+        "id": "231405cf61524da1",
         "type": "tabs",
         "children": [
           {
-            "id": "34a958626ecc41ff",
+            "id": "87ba8996c26db98a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/Preguntas/2. Java.md",
+                "file": "documentacion/Oracle Certificado/003-Retrieving Data/03. Comando Describe.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 355.5
   },
   "right": {
     "id": "e06b60978ee37432",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentacion/Preguntas/2. Java.md",
+                "file": "documentacion/Oracle Certificado/003-Retrieving Data/03. Comando Describe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentacion/Preguntas/2. Java.md",
+                "file": "documentacion/Oracle Certificado/003-Retrieving Data/03. Comando Describe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentacion/Preguntas/2. Java.md"
+                "file": "documentacion/Oracle Certificado/003-Retrieving Data/03. Comando Describe.md"
               }
             }
           },
@@ -164,50 +164,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "34a958626ecc41ff",
+  "active": "87ba8996c26db98a",
   "lastOpenFiles": [
-    "documentacion/Preguntas/1. Spring.md",
-    "documentacion/Preguntas/2. Java.md",
-    "documentacion/Preguntas",
-    "documentacion/SpringBoot/MVC/5. @Controller y @RestController.md",
-    "documentacion/SpringBoot/MVC/6. Anotaciones Para El Controlador.md",
-    "documentacion/Untitled.md",
-    "documentacion/PLSQL/9. Procedimientos Almacenados.md",
-    "documentacion/PLSQL/8. Bidimensionales.md",
-    "documentacion/PLSQL/7. Array.md",
-    "documentacion/PLSQL/6. Loops.md",
-    "documentacion/PLSQL/5. Condicionales.md",
-    "documentacion/PLSQL/4. Constante.md",
-    "documentacion/PLSQL/3. Variables.md",
-    "documentacion/PLSQL/2. Log.md",
+    "documentacion/Oracle Certificado/003-Retrieving Data/02. Valor Null.md",
+    "documentacion/Oracle Certificado/003-Retrieving Data/03. Comando Describe.md",
+    "documentacion/Oracle Certificado/003-Retrieving Data/01. Tipo de Datos.md",
+    "documentacion/oracle/2. TIPO DE DATOS.md",
+    "documentacion/Oracle Certificado/001-Database Concepts/21. Que es SQL.md",
+    "documentacion/sql/0. Introduccion.md",
     "documentacion/PLSQL/1. Conceptos de PLSQL.md",
-    "documentacion/oracle/82. TRIGGER ENABLE, DISABLE.md",
-    "documentacion/PLSQL",
-    "documentacion/oracle/81. DROP TRIGGER.md",
-    "documentacion/SpringBoot/MVC/4. Arquitectura MVC.md",
-    "documentacion/SpringBoot/MVC/3. Creando proyecto SpringBoot.md",
-    "documentacion/SpringBoot/MVC/2. Anotacion @SpringBootApplication.md",
-    "documentacion/SpringBoot/MVC/1. Estructura de SpringBoot.md",
-    "documentacion/SpringBoot/MVC",
-    "documentacion/SpringBoot",
-    "documentacion/js/20. Fetch Api.md",
-    "documentacion/angular/5. Interacción de componentes.md",
-    "documentacion/angular/4. Decorador.md",
-    "documentacion/angular/3. Componente.md",
-    "documentacion/angular/2. Estructura de Angular.md",
-    "documentacion/angular/1. Crear app Angular.md",
-    "Ejercicios/oracle",
-    "Ejercicios",
+    "documentacion/Oracle Certificado/001-Database Concepts/20. Que es el Esquema HR.md",
+    "documentacion/Oracle Certificado/001-Database Concepts/19. Que son los Enlaces de Base de Datos.md",
+    "documentacion/Oracle Certificado/001-Database Concepts/18. Que son los Paquetes.md",
+    "documentacion/Oracle Certificado/001-Database Concepts/17. Que son los Triggers.md",
+    "documentacion/Oracle Certificado/001-Database Concepts/16. Que es PLSQL.md",
+    "documentacion/Oracle Certificado/001-Database Concepts/15. Que son las Funciones y los Procedimientos.md",
+    "documentacion/Oracle Certificado/001-Database Concepts/14. Que es una vista materializada.md",
+    "documentacion/Oracle Certificado/001-Database Concepts/13. Que son los sinonimos.md",
+    "documentacion/Oracle Certificado/001-Database Concepts/12. Que son las secuencias.md",
+    "documentacion/Oracle Certificado/001-Database Concepts/11. Que son los indices.md",
+    "documentacion/Oracle Certificado/001-Database Concepts/10. Restricciones.md",
+    "documentacion/Oracle Certificado/001-Database Concepts/09. Views.md",
+    "documentacion/Oracle Certificado/001-Database Concepts/08. Que son los non schema objects.md",
+    "documentacion/Oracle Certificado/001-Database Concepts/07. Que son los Schema Objects.md",
+    "documentacion/Oracle Certificado/001-Database Concepts/02. Por que Oracle.md",
+    "documentacion/Oracle Certificado/001-Database Concepts/06. Arquitectura de base de datos Conectable.md",
+    "documentacion/Oracle Certificado/001-Database Concepts/Untitled",
+    "documentacion/Oracle Certificado/001-Database Concepts/05. Entidad-Relacion ER.md",
+    "documentacion/Oracle Certificado/001-Database Concepts/04. Que es una base de datos relacional.md",
+    "documentacion/Oracle Certificado/001-Database Concepts/03. Que es una Tabla.md",
+    "documentacion/Oracle Certificado/025-Appendix",
+    "documentacion/Oracle Certificado/024-Privileges and Roles",
+    "documentacion/Oracle Certificado/023-Indexes",
+    "documentacion/Oracle Certificado/022-Synonyms",
+    "documentacion/Oracle Certificado/021-Sequences",
+    "documentacion/Oracle Certificado/020-Data Dictionary Views",
+    "documentacion/Oracle Certificado/019-Database Views",
+    "documentacion/Oracle Certificado/018-Constraints",
+    "documentacion/Oracle Certificado/017-Flashback Technologies",
     "documentacion/uml/uml.canvas",
     "documentacion/ingles/canvas/3. verbos.canvas",
     "documentacion/ingles/canvas/3.1 Verbos Regulares.canvas",
     "documentacion/ingles/canvas/3.2 Verbos Irregulares.canvas",
-    "documentacion/oracle",
-    "documentacion/sql/estructuras de control",
     "documentacion/Entidad Relacion/image/er.png",
     "documentacion/Entidad Relacion/image/cardinalidad.png",
-    "documentacion/Entidad Relacion/image",
-    "documentacion/er/Nueva carpeta",
     "documentacion/java/0.00 Canvas.canvas",
     "documentacion/ingles/canvas/11. Pasado simple.canvas",
     "documentacion/ingles/canvas/10. Would.canvas",
