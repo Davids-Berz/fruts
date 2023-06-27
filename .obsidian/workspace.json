@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/Oracle Certificado/003-Retrieving Data/03. Comando Describe.md",
+                "file": "documentacion/Oracle Certificado/013-Using Subqueries/01. Subqueries.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentacion/Oracle Certificado/003-Retrieving Data/03. Comando Describe.md",
+                "file": "documentacion/Oracle Certificado/013-Using Subqueries/01. Subqueries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentacion/Oracle Certificado/003-Retrieving Data/03. Comando Describe.md",
+                "file": "documentacion/Oracle Certificado/013-Using Subqueries/01. Subqueries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentacion/Oracle Certificado/003-Retrieving Data/03. Comando Describe.md"
+                "file": "documentacion/Oracle Certificado/013-Using Subqueries/01. Subqueries.md"
               }
             }
           },
@@ -166,33 +166,36 @@
   },
   "active": "87ba8996c26db98a",
   "lastOpenFiles": [
-    "documentacion/Oracle Certificado/003-Retrieving Data/02. Valor Null.md",
-    "documentacion/Oracle Certificado/003-Retrieving Data/03. Comando Describe.md",
-    "documentacion/Oracle Certificado/003-Retrieving Data/01. Tipo de Datos.md",
+    "documentacion/Oracle Certificado/009-Conditional Expression/02. Decode.md",
+    "documentacion/Oracle Certificado/013-Using Subqueries/01. Subqueries.md",
+    "documentacion/Oracle Certificado/012-Joining Multiple Tables/18. Cardinalidad.md",
+    "image/cardinalidad.png.md",
+    "image",
+    "documentacion/Entidad Relacion/image/cardinalidad.png",
+    "documentacion/Entidad Relacion/2. Cardinalidad.md",
+    "documentacion/Entidad Relacion/1. Entidad Relacion.md",
+    "documentacion/oracle/3. INSERT INTO.md",
     "documentacion/oracle/2. TIPO DE DATOS.md",
-    "documentacion/Oracle Certificado/001-Database Concepts/21. Que es SQL.md",
-    "documentacion/sql/0. Introduccion.md",
-    "documentacion/PLSQL/1. Conceptos de PLSQL.md",
-    "documentacion/Oracle Certificado/001-Database Concepts/20. Que es el Esquema HR.md",
-    "documentacion/Oracle Certificado/001-Database Concepts/19. Que son los Enlaces de Base de Datos.md",
-    "documentacion/Oracle Certificado/001-Database Concepts/18. Que son los Paquetes.md",
-    "documentacion/Oracle Certificado/001-Database Concepts/17. Que son los Triggers.md",
-    "documentacion/Oracle Certificado/001-Database Concepts/16. Que es PLSQL.md",
-    "documentacion/Oracle Certificado/001-Database Concepts/15. Que son las Funciones y los Procedimientos.md",
-    "documentacion/Oracle Certificado/001-Database Concepts/14. Que es una vista materializada.md",
-    "documentacion/Oracle Certificado/001-Database Concepts/13. Que son los sinonimos.md",
-    "documentacion/Oracle Certificado/001-Database Concepts/12. Que son las secuencias.md",
-    "documentacion/Oracle Certificado/001-Database Concepts/11. Que son los indices.md",
-    "documentacion/Oracle Certificado/001-Database Concepts/10. Restricciones.md",
-    "documentacion/Oracle Certificado/001-Database Concepts/09. Views.md",
-    "documentacion/Oracle Certificado/001-Database Concepts/08. Que son los non schema objects.md",
-    "documentacion/Oracle Certificado/001-Database Concepts/07. Que son los Schema Objects.md",
-    "documentacion/Oracle Certificado/001-Database Concepts/02. Por que Oracle.md",
-    "documentacion/Oracle Certificado/001-Database Concepts/06. Arquitectura de base de datos Conectable.md",
+    "documentacion/oracle/1. TABLE.md",
+    "documentacion/oracle/0. Introduccion.md",
+    "documentacion/Oracle Certificado/012-Joining Multiple Tables/17. Entity Relationship.md",
+    "documentacion/Oracle Certificado/012-Joining Multiple Tables/01. Join.md",
+    "documentacion/Oracle Certificado/012-Joining Multiple Tables/08. Non equijoins.md",
+    "documentacion/Oracle Certificado/012-Joining Multiple Tables/16. Diferencia entre Equijoins y non Equijoins.md",
+    "documentacion/Oracle Certificado/012-Joining Multiple Tables/15. Diferencia entre Inner join y Outer Join.md",
+    "documentacion/Oracle Certificado/012-Joining Multiple Tables/14. Non Ansi Standard Sintax.md",
+    "documentacion/Oracle Certificado/012-Joining Multiple Tables/13. Cross Join.md",
+    "documentacion/Oracle Certificado/012-Joining Multiple Tables/11. Right Outer Join.md",
+    "documentacion/Oracle Certificado/012-Joining Multiple Tables/12. Full Outer Join.md",
+    "documentacion/Oracle Certificado/012-Joining Multiple Tables/10. Left Outer Join.md",
+    "documentacion/Oracle Certificado/012-Joining Multiple Tables/09. Outer Join.md",
+    "documentacion/Oracle Certificado/012-Joining Multiple Tables/07. Self Join.md",
+    "documentacion/Oracle Certificado/012-Joining Multiple Tables/06. Restricting Join.md",
+    "documentacion/Oracle Certificado/012-Joining Multiple Tables/05. Multiple Join.md",
+    "documentacion/Oracle Certificado/012-Joining Multiple Tables/04. Inner Join.md",
+    "documentacion/Oracle Certificado/012-Joining Multiple Tables/03. Ambiguedad.md",
+    "documentacion/Oracle Certificado/010-Group Functions/Untitled",
     "documentacion/Oracle Certificado/001-Database Concepts/Untitled",
-    "documentacion/Oracle Certificado/001-Database Concepts/05. Entidad-Relacion ER.md",
-    "documentacion/Oracle Certificado/001-Database Concepts/04. Que es una base de datos relacional.md",
-    "documentacion/Oracle Certificado/001-Database Concepts/03. Que es una Tabla.md",
     "documentacion/Oracle Certificado/025-Appendix",
     "documentacion/Oracle Certificado/024-Privileges and Roles",
     "documentacion/Oracle Certificado/023-Indexes",
@@ -200,14 +203,11 @@
     "documentacion/Oracle Certificado/021-Sequences",
     "documentacion/Oracle Certificado/020-Data Dictionary Views",
     "documentacion/Oracle Certificado/019-Database Views",
-    "documentacion/Oracle Certificado/018-Constraints",
-    "documentacion/Oracle Certificado/017-Flashback Technologies",
     "documentacion/uml/uml.canvas",
     "documentacion/ingles/canvas/3. verbos.canvas",
     "documentacion/ingles/canvas/3.1 Verbos Regulares.canvas",
     "documentacion/ingles/canvas/3.2 Verbos Irregulares.canvas",
     "documentacion/Entidad Relacion/image/er.png",
-    "documentacion/Entidad Relacion/image/cardinalidad.png",
     "documentacion/java/0.00 Canvas.canvas",
     "documentacion/ingles/canvas/11. Pasado simple.canvas",
     "documentacion/ingles/canvas/10. Would.canvas",
