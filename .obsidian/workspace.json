@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/Oracle Certificado/013-Using Subqueries/01. Subqueries.md",
+                "file": "documentacion/Oracle Certificado/013-Using Subqueries/07. Scalar Subqueries.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentacion/Oracle Certificado/013-Using Subqueries/01. Subqueries.md",
+                "file": "documentacion/Oracle Certificado/013-Using Subqueries/07. Scalar Subqueries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentacion/Oracle Certificado/013-Using Subqueries/01. Subqueries.md",
+                "file": "documentacion/Oracle Certificado/013-Using Subqueries/07. Scalar Subqueries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentacion/Oracle Certificado/013-Using Subqueries/01. Subqueries.md"
+                "file": "documentacion/Oracle Certificado/013-Using Subqueries/07. Scalar Subqueries.md"
               }
             }
           },
@@ -166,8 +166,15 @@
   },
   "active": "87ba8996c26db98a",
   "lastOpenFiles": [
-    "documentacion/Oracle Certificado/009-Conditional Expression/02. Decode.md",
+    "documentacion/Oracle Certificado/013-Using Subqueries/06. Join Subqueries.md",
+    "documentacion/Oracle Certificado/013-Using Subqueries/07. Scalar Subqueries.md",
+    "documentacion/Oracle Certificado/012-Joining Multiple Tables/02. Using.md",
+    "documentacion/Oracle Certificado/013-Using Subqueries/05. non pairwise comparison subqueries.md",
+    "documentacion/Oracle Certificado/013-Using Subqueries/03. Multiple Row Subqueries.md",
+    "documentacion/Oracle Certificado/013-Using Subqueries/04. Multiple Column Subqueries.md",
+    "documentacion/Oracle Certificado/013-Using Subqueries/02. Single Row Subqueries.md",
     "documentacion/Oracle Certificado/013-Using Subqueries/01. Subqueries.md",
+    "documentacion/Oracle Certificado/009-Conditional Expression/02. Decode.md",
     "documentacion/Oracle Certificado/012-Joining Multiple Tables/18. Cardinalidad.md",
     "image/cardinalidad.png.md",
     "image",
@@ -187,13 +194,6 @@
     "documentacion/Oracle Certificado/012-Joining Multiple Tables/13. Cross Join.md",
     "documentacion/Oracle Certificado/012-Joining Multiple Tables/11. Right Outer Join.md",
     "documentacion/Oracle Certificado/012-Joining Multiple Tables/12. Full Outer Join.md",
-    "documentacion/Oracle Certificado/012-Joining Multiple Tables/10. Left Outer Join.md",
-    "documentacion/Oracle Certificado/012-Joining Multiple Tables/09. Outer Join.md",
-    "documentacion/Oracle Certificado/012-Joining Multiple Tables/07. Self Join.md",
-    "documentacion/Oracle Certificado/012-Joining Multiple Tables/06. Restricting Join.md",
-    "documentacion/Oracle Certificado/012-Joining Multiple Tables/05. Multiple Join.md",
-    "documentacion/Oracle Certificado/012-Joining Multiple Tables/04. Inner Join.md",
-    "documentacion/Oracle Certificado/012-Joining Multiple Tables/03. Ambiguedad.md",
     "documentacion/Oracle Certificado/010-Group Functions/Untitled",
     "documentacion/Oracle Certificado/001-Database Concepts/Untitled",
     "documentacion/Oracle Certificado/025-Appendix",
