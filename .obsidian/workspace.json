@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/Oracle Certificado/013-Using Subqueries/07. Scalar Subqueries.md",
+                "file": "documentacion/Oracle Certificado/016-DML Statements/13. For Update.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentacion/Oracle Certificado/013-Using Subqueries/07. Scalar Subqueries.md",
+                "file": "documentacion/Oracle Certificado/016-DML Statements/13. For Update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentacion/Oracle Certificado/013-Using Subqueries/07. Scalar Subqueries.md",
+                "file": "documentacion/Oracle Certificado/016-DML Statements/13. For Update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentacion/Oracle Certificado/013-Using Subqueries/07. Scalar Subqueries.md"
+                "file": "documentacion/Oracle Certificado/016-DML Statements/13. For Update.md"
               }
             }
           },
@@ -166,43 +166,45 @@
   },
   "active": "87ba8996c26db98a",
   "lastOpenFiles": [
-    "documentacion/Oracle Certificado/013-Using Subqueries/06. Join Subqueries.md",
-    "documentacion/Oracle Certificado/013-Using Subqueries/07. Scalar Subqueries.md",
-    "documentacion/Oracle Certificado/012-Joining Multiple Tables/02. Using.md",
-    "documentacion/Oracle Certificado/013-Using Subqueries/05. non pairwise comparison subqueries.md",
-    "documentacion/Oracle Certificado/013-Using Subqueries/03. Multiple Row Subqueries.md",
-    "documentacion/Oracle Certificado/013-Using Subqueries/04. Multiple Column Subqueries.md",
-    "documentacion/Oracle Certificado/013-Using Subqueries/02. Single Row Subqueries.md",
-    "documentacion/Oracle Certificado/013-Using Subqueries/01. Subqueries.md",
-    "documentacion/Oracle Certificado/009-Conditional Expression/02. Decode.md",
-    "documentacion/Oracle Certificado/012-Joining Multiple Tables/18. Cardinalidad.md",
-    "image/cardinalidad.png.md",
+    "documentacion/Oracle Certificado/016-DML Statements/12. Savepoint.md",
+    "documentacion/Oracle Certificado/016-DML Statements/13. For Update.md",
+    "documentacion/Oracle Certificado/016-DML Statements/10. TCL Commit RollBack.md",
+    "documentacion/Oracle Certificado/016-DML Statements/11. Row Lock.md",
+    "documentacion/Oracle Certificado/016-DML Statements/09. Merge.md",
+    "documentacion/Oracle Certificado/016-DML Statements/08. Delete.md",
+    "documentacion/oracle/57. VISTAS (VIEW).md",
+    "documentacion/oracle/7. DELETE TABLE.md",
+    "documentacion/Oracle Certificado/016-DML Statements/07. Update.md",
+    "documentacion/oracle/8. UPDATE.md",
+    "documentacion/Oracle Certificado/016-DML Statements/06. Pivoting Insert.md",
+    "documentacion/Oracle Certificado/016-DML Statements/05. Conditional Insert First.md",
+    "documentacion/Oracle Certificado/016-DML Statements/04. Contional Insert All.md",
+    "documentacion/Oracle Certificado/016-DML Statements/03. Multi Table Insert.md",
+    "documentacion/Oracle Certificado/016-DML Statements/02. Insert.md",
+    "documentacion/oracle/3. INSERT INTO.md",
+    "documentacion/oracle/1. TABLE.md",
+    "documentacion/Oracle Certificado/016-DML Statements/01. DML.md",
+    "documentacion/Oracle Certificado/015-DDL Statements/12. Rename Statement.md",
+    "documentacion/oracle/38. ALTER TABLE.md",
+    "documentacion/Oracle Certificado/015-DDL Statements/11. Comment Statement.md",
+    "documentacion/Oracle Certificado/015-DDL Statements/10. Truncate Table.md",
+    "documentacion/oracle/11. TRUNCATE TABLE.md",
+    "documentacion/Oracle Certificado/015-DDL Statements/09. Flashback Table.md",
+    "documentacion/Oracle Certificado/015-DDL Statements/08. Drop Table.md",
+    "documentacion/Oracle Certificado/015-DDL Statements/07. Read Only.md",
+    "documentacion/Oracle Certificado/015-DDL Statements/Untitled",
+    "documentacion/Oracle Certificado/026-assets/01-img/union.webp",
+    "documentacion/Oracle Certificado/026-assets/01-img/union.webp.crdownload",
+    "documentacion/Oracle Certificado/026-assets/01-img/minus.webp",
+    "documentacion/Oracle Certificado/026-assets/01-img/minus.webp.crdownload",
+    "documentacion/Oracle Certificado/026-assets/01-img",
+    "documentacion/Oracle Certificado/026-assets",
     "image",
     "documentacion/Entidad Relacion/image/cardinalidad.png",
-    "documentacion/Entidad Relacion/2. Cardinalidad.md",
-    "documentacion/Entidad Relacion/1. Entidad Relacion.md",
-    "documentacion/oracle/3. INSERT INTO.md",
-    "documentacion/oracle/2. TIPO DE DATOS.md",
-    "documentacion/oracle/1. TABLE.md",
-    "documentacion/oracle/0. Introduccion.md",
-    "documentacion/Oracle Certificado/012-Joining Multiple Tables/17. Entity Relationship.md",
-    "documentacion/Oracle Certificado/012-Joining Multiple Tables/01. Join.md",
-    "documentacion/Oracle Certificado/012-Joining Multiple Tables/08. Non equijoins.md",
-    "documentacion/Oracle Certificado/012-Joining Multiple Tables/16. Diferencia entre Equijoins y non Equijoins.md",
-    "documentacion/Oracle Certificado/012-Joining Multiple Tables/15. Diferencia entre Inner join y Outer Join.md",
-    "documentacion/Oracle Certificado/012-Joining Multiple Tables/14. Non Ansi Standard Sintax.md",
-    "documentacion/Oracle Certificado/012-Joining Multiple Tables/13. Cross Join.md",
-    "documentacion/Oracle Certificado/012-Joining Multiple Tables/11. Right Outer Join.md",
-    "documentacion/Oracle Certificado/012-Joining Multiple Tables/12. Full Outer Join.md",
     "documentacion/Oracle Certificado/010-Group Functions/Untitled",
     "documentacion/Oracle Certificado/001-Database Concepts/Untitled",
     "documentacion/Oracle Certificado/025-Appendix",
     "documentacion/Oracle Certificado/024-Privileges and Roles",
-    "documentacion/Oracle Certificado/023-Indexes",
-    "documentacion/Oracle Certificado/022-Synonyms",
-    "documentacion/Oracle Certificado/021-Sequences",
-    "documentacion/Oracle Certificado/020-Data Dictionary Views",
-    "documentacion/Oracle Certificado/019-Database Views",
     "documentacion/uml/uml.canvas",
     "documentacion/ingles/canvas/3. verbos.canvas",
     "documentacion/ingles/canvas/3.1 Verbos Regulares.canvas",
@@ -219,8 +221,6 @@
     "documentacion/sql/image/cross.png",
     "documentacion/sql/image/full.png",
     "documentacion/sql/image/right.png",
-    "documentacion/sql/image/left.png",
-    "documentacion/sql/image/outer join.jpg",
-    "documentacion/sql/image/4FN.png"
+    "documentacion/sql/image/left.png"
   ]
 }
