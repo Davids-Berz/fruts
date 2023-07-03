@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/Oracle Certificado/018-Constraints/01. Constraint.md",
+                "file": "documentacion/oracle/39. INDICES.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentacion/Oracle Certificado/018-Constraints/01. Constraint.md",
+                "file": "documentacion/oracle/39. INDICES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentacion/Oracle Certificado/018-Constraints/01. Constraint.md",
+                "file": "documentacion/oracle/39. INDICES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentacion/Oracle Certificado/018-Constraints/01. Constraint.md"
+                "file": "documentacion/oracle/39. INDICES.md"
               }
             }
           },
@@ -166,32 +166,32 @@
   },
   "active": "87ba8996c26db98a",
   "lastOpenFiles": [
-    "documentacion/Oracle Certificado/017-Flashback Technologies/08. Tracking Changes.md",
-    "documentacion/Oracle Certificado/018-Constraints/01. Constraint.md",
-    "documentacion/Oracle Certificado/017-Flashback Technologies/07. Purge.md",
-    "documentacion/Oracle Certificado/017-Flashback Technologies/06. To Restore Point.md",
-    "documentacion/Oracle Certificado/017-Flashback Technologies/05. Create Restore Point.md",
-    "documentacion/Oracle Certificado/017-Flashback Technologies/04. To Timestamp.md",
-    "documentacion/Oracle Certificado/017-Flashback Technologies/03. To SCN.md",
-    "documentacion/Oracle Certificado/017-Flashback Technologies/02. To Before Drop.md",
-    "documentacion/Oracle Certificado/017-Flashback Technologies/01. FlashBack.md",
-    "documentacion/Oracle Certificado/015-DDL Statements/09. Flashback Table.md",
-    "documentacion/Oracle Certificado/016-DML Statements/13. For Update.md",
-    "documentacion/Oracle Certificado/016-DML Statements/12. Savepoint.md",
-    "documentacion/Oracle Certificado/016-DML Statements/10. TCL Commit RollBack.md",
-    "documentacion/Oracle Certificado/016-DML Statements/11. Row Lock.md",
-    "documentacion/Oracle Certificado/016-DML Statements/09. Merge.md",
-    "documentacion/Oracle Certificado/016-DML Statements/08. Delete.md",
+    "documentacion/oracle/50. SUBQUERY IN.md",
+    "documentacion/oracle/51. SUBQUERY ANY,  SOME, ALL.md",
+    "documentacion/oracle/52. SUBQUERY CORRELACIONADA.md",
+    "documentacion/oracle/49. SUBQUERY.md",
+    "documentacion/Oracle Certificado/022-Synonyms/03. User_Synonym.md",
+    "documentacion/Oracle Certificado/022-Synonyms/02. Crear, usar y eliminar un sinonimo.md",
+    "documentacion/Oracle Certificado/022-Synonyms/01.  Que es un sinonimo.md",
+    "documentacion/Oracle Certificado/021-Sequences/07. Identity Column.md",
+    "documentacion/Oracle Certificado/021-Sequences/06. User_Sequence.md",
+    "documentacion/Oracle Certificado/021-Sequences/05. Sequence Caching.md",
+    "documentacion/Oracle Certificado/021-Sequences/04. Drop Sequence.md",
+    "documentacion/Oracle Certificado/021-Sequences/03. Alter Sequence.md",
+    "documentacion/Oracle Certificado/021-Sequences/02. Crear Secuencia.md",
+    "documentacion/Oracle Certificado/021-Sequences/01. Que es una Secuencia.md",
+    "documentacion/Oracle Certificado/020-Data Dictionary Views/01. Que es Data Dictionary Views.md",
+    "documentacion/Oracle Certificado/019-Database Views/07. Drop Views.md",
+    "documentacion/Oracle Certificado/019-Database Views/06. With Read Only.md",
+    "documentacion/Oracle Certificado/019-Database Views/05. With Check Option Constraint.md",
+    "documentacion/Oracle Certificado/019-Database Views/04. Modificar View.md",
+    "documentacion/oracle/60. ALTER VIEW.md",
     "documentacion/oracle/57. VISTAS (VIEW).md",
-    "documentacion/oracle/7. DELETE TABLE.md",
-    "documentacion/Oracle Certificado/016-DML Statements/07. Update.md",
-    "documentacion/oracle/8. UPDATE.md",
-    "documentacion/Oracle Certificado/016-DML Statements/06. Pivoting Insert.md",
-    "documentacion/Oracle Certificado/016-DML Statements/05. Conditional Insert First.md",
-    "documentacion/Oracle Certificado/016-DML Statements/04. Contional Insert All.md",
-    "documentacion/Oracle Certificado/016-DML Statements/03. Multi Table Insert.md",
-    "documentacion/Oracle Certificado/016-DML Statements/02. Insert.md",
-    "documentacion/oracle/3. INSERT INTO.md",
+    "documentacion/oracle/61. VISTAS WITH CHECK OPTION.md",
+    "documentacion/oracle/58. VISTAS READ ONLY.md",
+    "documentacion/oracle/63. VISTA MATERIALIZADA.md",
+    "documentacion/Oracle Certificado/019-Database Views/03. Complex View.md",
+    "documentacion/Oracle Certificado/019-Database Views/02. Tipo de Views.md",
     "documentacion/Oracle Certificado/015-DDL Statements/Untitled",
     "documentacion/Oracle Certificado/026-assets/01-img/union.webp",
     "documentacion/Oracle Certificado/026-assets/01-img/union.webp.crdownload",
