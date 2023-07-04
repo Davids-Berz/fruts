@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "231405cf61524da1",
+        "id": "d01980f6676f5811",
         "type": "tabs",
         "children": [
           {
-            "id": "87ba8996c26db98a",
+            "id": "d17f8735093241b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/oracle/39. INDICES.md",
+                "file": "documentacion/Oracle Certificado/023-Indexes/06. User_Indexes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentacion/oracle/39. INDICES.md",
+                "file": "documentacion/Oracle Certificado/023-Indexes/06. User_Indexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentacion/oracle/39. INDICES.md",
+                "file": "documentacion/Oracle Certificado/023-Indexes/06. User_Indexes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentacion/oracle/39. INDICES.md"
+                "file": "documentacion/Oracle Certificado/023-Indexes/06. User_Indexes.md"
               }
             }
           },
@@ -164,8 +164,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "87ba8996c26db98a",
+  "active": "d17f8735093241b2",
   "lastOpenFiles": [
+    "documentacion/oracle/39. INDICES.md",
+    "documentacion/Oracle Certificado/023-Indexes/06. User_Indexes.md",
+    "documentacion/Oracle Certificado/023-Indexes/05. Indice de Bitmap.md",
+    "documentacion/Oracle Certificado/023-Indexes/04. Indice de Texto Completo(CLOB).md",
+    "documentacion/Oracle Certificado/023-Indexes/03. Indices Unicos.md",
+    "documentacion/Oracle Certificado/023-Indexes/02. Indice de Arbol B.md",
+    "documentacion/Oracle Certificado/023-Indexes/01. Indices.md",
     "documentacion/oracle/50. SUBQUERY IN.md",
     "documentacion/oracle/51. SUBQUERY ANY,  SOME, ALL.md",
     "documentacion/oracle/52. SUBQUERY CORRELACIONADA.md",
@@ -185,13 +192,6 @@
     "documentacion/Oracle Certificado/019-Database Views/06. With Read Only.md",
     "documentacion/Oracle Certificado/019-Database Views/05. With Check Option Constraint.md",
     "documentacion/Oracle Certificado/019-Database Views/04. Modificar View.md",
-    "documentacion/oracle/60. ALTER VIEW.md",
-    "documentacion/oracle/57. VISTAS (VIEW).md",
-    "documentacion/oracle/61. VISTAS WITH CHECK OPTION.md",
-    "documentacion/oracle/58. VISTAS READ ONLY.md",
-    "documentacion/oracle/63. VISTA MATERIALIZADA.md",
-    "documentacion/Oracle Certificado/019-Database Views/03. Complex View.md",
-    "documentacion/Oracle Certificado/019-Database Views/02. Tipo de Views.md",
     "documentacion/Oracle Certificado/015-DDL Statements/Untitled",
     "documentacion/Oracle Certificado/026-assets/01-img/union.webp",
     "documentacion/Oracle Certificado/026-assets/01-img/union.webp.crdownload",
