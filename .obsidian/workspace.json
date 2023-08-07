@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d01980f6676f5811",
+        "id": "9a88e9a0ba9c44a5",
         "type": "tabs",
         "children": [
           {
-            "id": "d17f8735093241b2",
+            "id": "8dee2ee898af1b43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documentacion/Oracle Certificado/023-Indexes/06. User_Indexes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentacion/Oracle Certificado/023-Indexes/06. User_Indexes.md",
+                "file": "documentacion/angular/02. Modulos/04. Rutas Path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentacion/Oracle Certificado/023-Indexes/06. User_Indexes.md",
+                "file": "documentacion/angular/02. Modulos/04. Rutas Path.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentacion/Oracle Certificado/023-Indexes/06. User_Indexes.md"
+                "file": "documentacion/angular/02. Modulos/04. Rutas Path.md"
               }
             }
           },
@@ -164,34 +160,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d17f8735093241b2",
+  "active": "ace84704538d09c4",
   "lastOpenFiles": [
-    "documentacion/oracle/39. INDICES.md",
-    "documentacion/Oracle Certificado/023-Indexes/06. User_Indexes.md",
-    "documentacion/Oracle Certificado/023-Indexes/05. Indice de Bitmap.md",
-    "documentacion/Oracle Certificado/023-Indexes/04. Indice de Texto Completo(CLOB).md",
-    "documentacion/Oracle Certificado/023-Indexes/03. Indices Unicos.md",
+    "documentacion/angular/03. Input Output",
+    "documentacion/angular/03. Input Output.md",
+    "documentacion/angular/02. Modulos/04. Rutas Path.md",
+    "documentacion/angular/02. Modulos/03. Rutas Hijas.md",
+    "documentacion/angular/02. Modulos/02. Modulos Personalizados.md",
+    "documentacion/angular/02. Modulos/00. NG MODULE.md",
+    "documentacion/angular/01. Angular CLI/11.3 ng g m --help.md",
+    "documentacion/angular/01. Angular CLI/11.2 ng g s --help.md",
+    "documentacion/angular/01. Angular CLI/12. Input - Output.md",
+    "documentacion/angular/01. Angular CLI/11.1 ng g c --help.md",
+    "documentacion/angular/01. Angular CLI/11. ng g --help.md",
+    "documentacion/angular/02. Modulos/01. Modulos.md",
+    "documentacion/angular/02. Modulos",
+    "documentacion/Oracle Certificado/023-Indexes/07. UNIQUE & BITMAP.md",
+    "documentacion/angular/01. Angular CLI/0. Temas.md",
+    "documentacion/angular/01. Angular CLI",
+    "documentacion/angular/01. Angular CLI/10. ngFor, ngIf.md",
+    "documentacion/angular/01. Angular CLI/3. Componente.md",
+    "documentacion/angular/01. Angular CLI/1. Crear app Angular.md",
+    "documentacion/angular/01. Angular CLI/2. Estructura de Angular.md",
+    "documentacion/angular/01. Angular CLI/9. BrowserModule.md",
+    "documentacion/angular/01. Angular CLI/8. Enlaces y Propiedades.md",
+    "documentacion/angular/01. Angular CLI/7. Plantillas de Decoracion.md",
+    "documentacion/angular/01. Angular CLI/6. Plantillas.md",
+    "documentacion/angular/01. Angular CLI/5. Interacción de componentes.md",
+    "documentacion/angular/01. Angular CLI/4. Decorador.md",
     "documentacion/Oracle Certificado/023-Indexes/02. Indice de Arbol B.md",
     "documentacion/Oracle Certificado/023-Indexes/01. Indices.md",
-    "documentacion/oracle/50. SUBQUERY IN.md",
-    "documentacion/oracle/51. SUBQUERY ANY,  SOME, ALL.md",
-    "documentacion/oracle/52. SUBQUERY CORRELACIONADA.md",
-    "documentacion/oracle/49. SUBQUERY.md",
-    "documentacion/Oracle Certificado/022-Synonyms/03. User_Synonym.md",
-    "documentacion/Oracle Certificado/022-Synonyms/02. Crear, usar y eliminar un sinonimo.md",
-    "documentacion/Oracle Certificado/022-Synonyms/01.  Que es un sinonimo.md",
-    "documentacion/Oracle Certificado/021-Sequences/07. Identity Column.md",
-    "documentacion/Oracle Certificado/021-Sequences/06. User_Sequence.md",
-    "documentacion/Oracle Certificado/021-Sequences/05. Sequence Caching.md",
-    "documentacion/Oracle Certificado/021-Sequences/04. Drop Sequence.md",
-    "documentacion/Oracle Certificado/021-Sequences/03. Alter Sequence.md",
-    "documentacion/Oracle Certificado/021-Sequences/02. Crear Secuencia.md",
-    "documentacion/Oracle Certificado/021-Sequences/01. Que es una Secuencia.md",
-    "documentacion/Oracle Certificado/020-Data Dictionary Views/01. Que es Data Dictionary Views.md",
-    "documentacion/Oracle Certificado/019-Database Views/07. Drop Views.md",
-    "documentacion/Oracle Certificado/019-Database Views/06. With Read Only.md",
-    "documentacion/Oracle Certificado/019-Database Views/05. With Check Option Constraint.md",
-    "documentacion/Oracle Certificado/019-Database Views/04. Modificar View.md",
     "documentacion/Oracle Certificado/015-DDL Statements/Untitled",
     "documentacion/Oracle Certificado/026-assets/01-img/union.webp",
     "documentacion/Oracle Certificado/026-assets/01-img/union.webp.crdownload",
@@ -203,8 +201,6 @@
     "documentacion/Entidad Relacion/image/cardinalidad.png",
     "documentacion/Oracle Certificado/010-Group Functions/Untitled",
     "documentacion/Oracle Certificado/001-Database Concepts/Untitled",
-    "documentacion/Oracle Certificado/025-Appendix",
-    "documentacion/Oracle Certificado/024-Privileges and Roles",
     "documentacion/uml/uml.canvas",
     "documentacion/ingles/canvas/3. verbos.canvas",
     "documentacion/ingles/canvas/3.1 Verbos Regulares.canvas",
