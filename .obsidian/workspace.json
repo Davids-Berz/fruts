@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1c6716b32f83594b",
+        "id": "550eea6615e95eca",
         "type": "tabs",
         "children": [
           {
-            "id": "3228df2a2268e490",
+            "id": "680efbd5c0b3daaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/angular/01. Angular CLI/11.1 ng g c --help.md",
+                "file": "documentacion/angular/05. Routes/6. Redireccionar rutas no encontradas.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 359.5
   },
   "right": {
     "id": "e06b60978ee37432",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentacion/angular/01. Angular CLI/11.1 ng g c --help.md",
+                "file": "documentacion/angular/05. Routes/6. Redireccionar rutas no encontradas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentacion/angular/01. Angular CLI/11.1 ng g c --help.md",
+                "file": "documentacion/angular/05. Routes/6. Redireccionar rutas no encontradas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentacion/angular/01. Angular CLI/11.1 ng g c --help.md"
+                "file": "documentacion/angular/05. Routes/6. Redireccionar rutas no encontradas.md"
               }
             }
           },
@@ -176,34 +176,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3228df2a2268e490",
+  "active": "680efbd5c0b3daaf",
   "lastOpenFiles": [
-    "documentacion/angular/01. Angular CLI/11. ng g --help.md",
+    "documentacion/angular/05. Routes/1. Introducción al Enrutamiento en Angular.md",
+    "documentacion/angular/05. Routes/6. Redireccionar rutas no encontradas.md",
+    "documentacion/angular/05. Routes/5. Guardas de Ruta en Angular.md",
+    "documentacion/angular/01. Angular CLI/9. BrowserModule.md",
+    "documentacion/angular/01. Angular CLI/8. Enlaces y Propiedades.md",
+    "documentacion/angular/01. Angular CLI/7. Plantillas de Decoracion.md",
+    "documentacion/angular/01. Angular CLI/6. Plantillas.md",
+    "documentacion/angular/01. Angular CLI/5. Interacción de componentes.md",
+    "documentacion/angular/01. Angular CLI/4. Decorador.md",
+    "documentacion/angular/01. Angular CLI/3. Componente.md",
+    "documentacion/angular/01. Angular CLI/2. Estructura de Angular.md",
+    "documentacion/angular/01. Angular CLI/1. Crear app Angular.md",
+    "documentacion/angular/05. Routes/4. Carga Diferida (Lazy Loading) en Angular.md",
+    "documentacion/angular/05. Routes/3. Rutas Anidadas y Parámetros en Angular.md",
+    "documentacion/angular/05. Routes/2. Configuración Básica de Rutas en Angular.md",
+    "documentacion/angular/04. Observable/01. Observable.md",
+    "documentacion/angular/03. Input Output/01. Input y Output.md",
+    "documentacion/angular/05. Routes",
     "documentacion/angular/02. Modulos/04. Rutas Path.md",
     "documentacion/angular/02. Modulos/03. Rutas Hijas.md",
     "documentacion/angular/02. Modulos/02. Modulos Personalizados.md",
     "documentacion/angular/02. Modulos/01. Modulos.md",
     "documentacion/angular/02. Modulos/00. NG MODULE.md",
-    "documentacion/angular/01. Angular CLI/4. Decorador.md",
-    "documentacion/angular/01. Angular CLI/3. Componente.md",
-    "documentacion/angular/01. Angular CLI/2. Estructura de Angular.md",
-    "documentacion/angular/01. Angular CLI/1. Crear app Angular.md",
-    "documentacion/angular/01. Angular CLI/0. Temas.md",
-    "documentacion/angular/01. Angular CLI/9. BrowserModule.md",
-    "documentacion/angular/01. Angular CLI/8. Enlaces y Propiedades.md",
+    "documentacion/Preguntas/2. Java.md",
     "documentacion/angular/01. Angular CLI/10. ngFor, ngIf.md",
-    "documentacion/ingles/notes/10. Verbos Regulares e Irregulares.md",
-    "documentacion/SpringBoot/MVC/6. Anotaciones Para El Controlador.md",
-    "documentacion/SpringBoot/MVC/5. @Controller y @RestController.md",
-    "documentacion/SpringBoot/MVC/3. Creando proyecto SpringBoot.md",
-    "documentacion/SpringBoot/MVC/2. Anotacion @SpringBootApplication.md",
-    "documentacion/tsc/9. Encapsulamiento.md",
-    "documentacion/tsc/8. Herencia.md",
-    "documentacion/tsc/1. Tipo de Datos.md",
-    "documentacion/tsc/0. Introduccion.md",
-    "image/cardinalidad.png.md",
-    "documentacion/angular/01. Angular CLI/7. Plantillas de Decoracion.md",
-    "documentacion/angular/01. Angular CLI/6. Plantillas.md",
+    "documentacion/angular/01. Angular CLI/11.1 ng g c --help.md",
+    "documentacion/angular/01. Angular CLI/0. Temas.md",
     "Untitled.canvas",
     "documentacion/angular/04. Observable",
     "documentacion/angular/03. Input Output",
@@ -216,7 +217,6 @@
     "documentacion/Oracle Certificado/026-assets/01-img/minus.webp.crdownload",
     "documentacion/Oracle Certificado/026-assets/01-img",
     "documentacion/Oracle Certificado/026-assets",
-    "image",
     "documentacion/Entidad Relacion/image/cardinalidad.png",
     "documentacion/uml/uml.canvas",
     "documentacion/ingles/canvas/3. verbos.canvas",
