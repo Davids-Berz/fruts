@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/angular/04. Observable/12. Funcion Unsuscribe.md",
+                "file": "documentacion/angular/06. Observables Avanzado/14. Patrón de Controlador de Vista.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentacion/angular/04. Observable/12. Funcion Unsuscribe.md",
+                "file": "documentacion/angular/06. Observables Avanzado/14. Patrón de Controlador de Vista.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentacion/angular/04. Observable/12. Funcion Unsuscribe.md",
+                "file": "documentacion/angular/06. Observables Avanzado/14. Patrón de Controlador de Vista.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentacion/angular/04. Observable/12. Funcion Unsuscribe.md"
+                "file": "documentacion/angular/06. Observables Avanzado/14. Patrón de Controlador de Vista.md"
               }
             }
           },
@@ -178,7 +178,22 @@
   },
   "active": "680efbd5c0b3daaf",
   "lastOpenFiles": [
-    "documentacion/angular/06. Observables Avanzados.md",
+    "documentacion/angular/06. Observables Avanzado/13. Patrón de Comando.md",
+    "documentacion/angular/06. Observables Avanzado/14. Patrón de Controlador de Vista.md",
+    "documentacion/angular/06. Observables Avanzado/12. Patrón de Repositorio.md",
+    "documentacion/angular/06. Observables Avanzado/11. Patron de Eventos.md",
+    "documentacion/angular/06. Observables Avanzado/10. Uso Avanzado de Observables en Angular.md",
+    "documentacion/angular/06. Observables Avanzado/9. Uso de Observables en Angular.md",
+    "documentacion/angular/06. Observables Avanzado/0. Temas.md",
+    "documentacion/angular/06. Observables Avanzado/8. Subjects.md",
+    "documentacion/angular/06. Observables Avanzado/7. Manejo de Errores en Observables.md",
+    "documentacion/angular/06. Observables Avanzado/6. Combinación de Observables.md",
+    "documentacion/angular/06. Observables Avanzado/5. Operadores de Filtrado.md",
+    "documentacion/angular/06. Observables Avanzado/4. Operadores de Transformación.md",
+    "documentacion/angular/06. Observables Avanzado/3. Suscripción a Observables.md",
+    "documentacion/angular/06. Observables Avanzado/2. Creación de Observables.md",
+    "documentacion/angular/06. Observables Avanzado/1. Introduccion a los Observables.md",
+    "documentacion/angular/04. Observable/01. Observable.md",
     "documentacion/angular/04. Observable/12. Funcion Unsuscribe.md",
     "documentacion/angular/04. Observable/11. Operador retry.md",
     "documentacion/angular/04. Observable/10. Funcion  DistinctUntilChanged.md",
@@ -189,21 +204,7 @@
     "documentacion/angular/04. Observable/05. Funcion Tap.md",
     "documentacion/angular/04. Observable/04. Funcion Merge.md",
     "documentacion/angular/04. Observable/03. Funcion Filter.md",
-    "documentacion/angular/04. Observable/02. Funcion Map.md",
-    "documentacion/angular/04. Observable/01. Observable.md",
-    "documentacion/angular/05. Routes/12. Explorar Técnicas de Optimización de Enrutamiento.md",
-    "documentacion/angular/05. Routes/11. CanLoad.md",
-    "documentacion/angular/05. Routes/9. Guardas CanActivateChild y Crear Más Resolvers en Angular.md",
-    "documentacion/angular/05. Routes/10. CanDeactivate.md",
-    "documentacion/angular/05. Routes/0. Temas.md",
-    "documentacion/angular/05. Routes/5. Guardas de Ruta en Angular.md",
-    "documentacion/angular/05. Routes/8. Servicios de Enrutamiento en Angular.md",
-    "documentacion/angular/05. Routes/7. RouterModule & Router Outlet.md",
-    "documentacion/angular/05. Routes/6. Redireccionar rutas no encontradas.md",
-    "documentacion/angular/01. Angular CLI/0. Temas.md",
-    "documentacion/angular/05. Routes/1. Introducción al Enrutamiento en Angular.md",
-    "documentacion/angular/01. Angular CLI/9. BrowserModule.md",
-    "documentacion/angular/01. Angular CLI/8. Enlaces y Propiedades.md",
+    "documentacion/angular/06. Observables Avanzado",
     "documentacion/angular/05. Routes",
     "Untitled.canvas",
     "documentacion/angular/04. Observable",
@@ -216,7 +217,6 @@
     "documentacion/Oracle Certificado/026-assets/01-img/minus.webp",
     "documentacion/Oracle Certificado/026-assets/01-img/minus.webp.crdownload",
     "documentacion/Oracle Certificado/026-assets/01-img",
-    "documentacion/Oracle Certificado/026-assets",
     "documentacion/Entidad Relacion/image/cardinalidad.png",
     "documentacion/uml/uml.canvas",
     "documentacion/ingles/canvas/3. verbos.canvas",
