@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/angular/05. Routes/6. Redireccionar rutas no encontradas.md",
+                "file": "documentacion/angular/04. Observable/12. Funcion Unsuscribe.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentacion/angular/05. Routes/6. Redireccionar rutas no encontradas.md",
+                "file": "documentacion/angular/04. Observable/12. Funcion Unsuscribe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentacion/angular/05. Routes/6. Redireccionar rutas no encontradas.md",
+                "file": "documentacion/angular/04. Observable/12. Funcion Unsuscribe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentacion/angular/05. Routes/6. Redireccionar rutas no encontradas.md"
+                "file": "documentacion/angular/04. Observable/12. Funcion Unsuscribe.md"
               }
             }
           },
@@ -178,33 +178,33 @@
   },
   "active": "680efbd5c0b3daaf",
   "lastOpenFiles": [
+    "documentacion/angular/06. Observables Avanzados.md",
+    "documentacion/angular/04. Observable/12. Funcion Unsuscribe.md",
+    "documentacion/angular/04. Observable/11. Operador retry.md",
+    "documentacion/angular/04. Observable/10. Funcion  DistinctUntilChanged.md",
+    "documentacion/angular/04. Observable/09. Funcion Delay.md",
+    "documentacion/angular/04. Observable/08. Funcion Take.md",
+    "documentacion/angular/04. Observable/07. Funcion SwitchMap.md",
+    "documentacion/angular/04. Observable/06. Funcion DebounceTime.md",
+    "documentacion/angular/04. Observable/05. Funcion Tap.md",
+    "documentacion/angular/04. Observable/04. Funcion Merge.md",
+    "documentacion/angular/04. Observable/03. Funcion Filter.md",
+    "documentacion/angular/04. Observable/02. Funcion Map.md",
+    "documentacion/angular/04. Observable/01. Observable.md",
+    "documentacion/angular/05. Routes/12. Explorar Técnicas de Optimización de Enrutamiento.md",
+    "documentacion/angular/05. Routes/11. CanLoad.md",
+    "documentacion/angular/05. Routes/9. Guardas CanActivateChild y Crear Más Resolvers en Angular.md",
+    "documentacion/angular/05. Routes/10. CanDeactivate.md",
     "documentacion/angular/05. Routes/0. Temas.md",
+    "documentacion/angular/05. Routes/5. Guardas de Ruta en Angular.md",
+    "documentacion/angular/05. Routes/8. Servicios de Enrutamiento en Angular.md",
+    "documentacion/angular/05. Routes/7. RouterModule & Router Outlet.md",
+    "documentacion/angular/05. Routes/6. Redireccionar rutas no encontradas.md",
     "documentacion/angular/01. Angular CLI/0. Temas.md",
     "documentacion/angular/05. Routes/1. Introducción al Enrutamiento en Angular.md",
-    "documentacion/angular/05. Routes/6. Redireccionar rutas no encontradas.md",
-    "documentacion/angular/05. Routes/5. Guardas de Ruta en Angular.md",
     "documentacion/angular/01. Angular CLI/9. BrowserModule.md",
     "documentacion/angular/01. Angular CLI/8. Enlaces y Propiedades.md",
-    "documentacion/angular/01. Angular CLI/7. Plantillas de Decoracion.md",
-    "documentacion/angular/01. Angular CLI/6. Plantillas.md",
-    "documentacion/angular/01. Angular CLI/5. Interacción de componentes.md",
-    "documentacion/angular/01. Angular CLI/4. Decorador.md",
-    "documentacion/angular/01. Angular CLI/3. Componente.md",
-    "documentacion/angular/01. Angular CLI/2. Estructura de Angular.md",
-    "documentacion/angular/01. Angular CLI/1. Crear app Angular.md",
-    "documentacion/angular/05. Routes/4. Carga Diferida (Lazy Loading) en Angular.md",
-    "documentacion/angular/05. Routes/3. Rutas Anidadas y Parámetros en Angular.md",
-    "documentacion/angular/05. Routes/2. Configuración Básica de Rutas en Angular.md",
-    "documentacion/angular/04. Observable/01. Observable.md",
-    "documentacion/angular/03. Input Output/01. Input y Output.md",
     "documentacion/angular/05. Routes",
-    "documentacion/angular/02. Modulos/04. Rutas Path.md",
-    "documentacion/angular/02. Modulos/03. Rutas Hijas.md",
-    "documentacion/angular/02. Modulos/02. Modulos Personalizados.md",
-    "documentacion/angular/02. Modulos/01. Modulos.md",
-    "documentacion/angular/02. Modulos/00. NG MODULE.md",
-    "documentacion/Preguntas/2. Java.md",
-    "documentacion/angular/01. Angular CLI/10. ngFor, ngIf.md",
     "Untitled.canvas",
     "documentacion/angular/04. Observable",
     "documentacion/angular/03. Input Output",
