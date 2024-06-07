@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/angular/02. Modulos/04. Rutas Path.md",
+                "file": "documentacion/angular/07. Redux/0. Temario.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a5ef9a44b3ce1a9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "documentacion/angular/07. Redux/1. Introducción a Redux.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 387.5
   },
   "right": {
     "id": "e06b60978ee37432",
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentacion/angular/02. Modulos/04. Rutas Path.md",
+                "file": "documentacion/angular/07. Redux/1. Introducción a Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentacion/angular/02. Modulos/04. Rutas Path.md",
+                "file": "documentacion/angular/07. Redux/1. Introducción a Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentacion/angular/02. Modulos/04. Rutas Path.md"
+                "file": "documentacion/angular/07. Redux/1. Introducción a Redux.md"
               }
             }
           },
@@ -176,34 +189,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ace84704538d09c4",
+  "active": "a5ef9a44b3ce1a9f",
   "lastOpenFiles": [
-    "documentacion/angular/02. Modulos/03. Rutas Hijas.md",
-    "documentacion/angular/02. Modulos/02. Modulos Personalizados.md",
-    "documentacion/angular/02. Modulos/01. Modulos.md",
-    "documentacion/angular/03. Input Output/01. Input y Output.md",
-    "documentacion/angular/06. Observables Avanzado/14. Patrón de Controlador de Vista.md",
-    "documentacion/angular/06. Observables Avanzado/13. Patrón de Comando.md",
-    "documentacion/angular/06. Observables Avanzado/12. Patrón de Repositorio.md",
-    "documentacion/angular/06. Observables Avanzado/11. Patron de Eventos.md",
-    "documentacion/angular/06. Observables Avanzado/10. Uso Avanzado de Observables en Angular.md",
-    "documentacion/angular/06. Observables Avanzado/9. Uso de Observables en Angular.md",
-    "documentacion/angular/06. Observables Avanzado/0. Temas.md",
-    "documentacion/angular/06. Observables Avanzado/8. Subjects.md",
-    "documentacion/angular/06. Observables Avanzado/7. Manejo de Errores en Observables.md",
-    "documentacion/angular/06. Observables Avanzado/6. Combinación de Observables.md",
-    "documentacion/angular/06. Observables Avanzado/5. Operadores de Filtrado.md",
+    "documentacion/angular/07. Redux/11. Recursos y Herramientas Adicionales.md",
+    "documentacion/angular/07. Redux/0. Temario.md",
+    "documentacion/angular/07. Redux/10. Casos de Uso Avanzados en NgRx.md",
+    "documentacion/angular/07. Redux/9. Testing en NgRx.md",
+    "documentacion/angular/07. Redux/8. Patrones y Mejores Prácticas.md",
+    "documentacion/angular/07. Redux/7. Middleware y DevTools.md",
+    "documentacion/angular/07. Redux/6. Selectors en NgRx.md",
+    "documentacion/angular/07. Redux/5. Efectos (Effects) en NgRx.md",
+    "documentacion/angular/07. Redux/4. Trabajando con el Store.md",
+    "documentacion/angular/07. Redux/3. Configuración de Redux en Angular con NgRx.md",
+    "documentacion/angular/07. Redux/2. Conceptos Básicos de Redux.md",
+    "documentacion/angular/07. Redux/1. Introducción a Redux.md",
     "documentacion/angular/06. Observables Avanzado/4. Operadores de Transformación.md",
-    "documentacion/angular/06. Observables Avanzado/3. Suscripción a Observables.md",
-    "documentacion/angular/06. Observables Avanzado/2. Creación de Observables.md",
-    "documentacion/angular/06. Observables Avanzado/1. Introduccion a los Observables.md",
-    "documentacion/angular/04. Observable/01. Observable.md",
-    "documentacion/angular/04. Observable/12. Funcion Unsuscribe.md",
-    "documentacion/angular/04. Observable/11. Operador retry.md",
-    "documentacion/angular/04. Observable/10. Funcion  DistinctUntilChanged.md",
-    "documentacion/angular/04. Observable/09. Funcion Delay.md",
-    "documentacion/angular/04. Observable/08. Funcion Take.md",
-    "documentacion/angular/04. Observable/07. Funcion SwitchMap.md",
+    "documentacion/angular/07. Redux",
+    "documentacion/angular/Untitled.md",
+    "documentacion/angular/05. Routes/5. Guardas de Ruta en Angular.md",
+    "documentacion/angular/05. Routes/4. Carga Diferida (Lazy Loading) en Angular.md",
+    "documentacion/angular/05. Routes/3. Rutas Anidadas y Parámetros en Angular.md",
+    "documentacion/angular/05. Routes/12. Explorar Técnicas de Optimización de Enrutamiento.md",
+    "documentacion/angular/05. Routes/13. Propiedad State.md",
+    "documentacion/angular/05. Routes/8. Servicios de Enrutamiento en Angular.md",
+    "documentacion/angular/05. Routes/7. RouterModule & Router Outlet.md",
+    "documentacion/angular/05. Routes/11. CanLoad.md",
+    "documentacion/angular/05. Routes/10. CanDeactivate.md",
+    "documentacion/angular/05. Routes/9. Guardas CanActivateChild y Crear Más Resolvers en Angular.md",
+    "documentacion/angular/05. Routes/6. Redireccionar rutas no encontradas.md",
+    "documentacion/angular/05. Routes/2. Configuración Básica de Rutas en Angular.md",
     "documentacion/angular/06. Observables Avanzado",
     "documentacion/angular/05. Routes",
     "Untitled.canvas",
@@ -216,7 +230,6 @@
     "documentacion/Oracle Certificado/026-assets/01-img/union.webp.crdownload",
     "documentacion/Oracle Certificado/026-assets/01-img/minus.webp",
     "documentacion/Oracle Certificado/026-assets/01-img/minus.webp.crdownload",
-    "documentacion/Oracle Certificado/026-assets/01-img",
     "documentacion/Entidad Relacion/image/cardinalidad.png",
     "documentacion/uml/uml.canvas",
     "documentacion/ingles/canvas/3. verbos.canvas",
