@@ -4,29 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "550eea6615e95eca",
+        "id": "e050be65a5bcd823",
         "type": "tabs",
         "children": [
           {
-            "id": "680efbd5c0b3daaf",
+            "id": "c9c1ea2ca20c62e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/angular/07. Redux/0. Temario.md",
+                "file": "TI/aws/seccion 1/aws.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a5ef9a44b3ce1a9f",
+            "id": "e17bf44a8035f669",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentacion/angular/07. Redux/1. Introducción a Redux.md",
-                "mode": "preview",
+                "file": "TI/aws/seccion 6/Almacenamiento de instancias - EC2.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -61,21 +61,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Principal",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "d5fec8108fc78dc1",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           },
           {
@@ -90,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 322.5
   },
   "right": {
     "id": "e06b60978ee37432",
@@ -106,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentacion/angular/07. Redux/1. Introducción a Redux.md",
+                "file": "TI/aws/seccion 6/Almacenamiento de instancias - EC2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentacion/angular/07. Redux/1. Introducción a Redux.md",
+                "file": "TI/aws/seccion 6/Almacenamiento de instancias - EC2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentacion/angular/07. Redux/1. Introducción a Redux.md"
+                "file": "TI/aws/seccion 6/Almacenamiento de instancias - EC2.md"
               }
             }
           },
@@ -171,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -186,66 +178,67 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a5ef9a44b3ce1a9f",
+  "active": "e17bf44a8035f669",
   "lastOpenFiles": [
-    "documentacion/angular/07. Redux/11. Recursos y Herramientas Adicionales.md",
-    "documentacion/angular/07. Redux/0. Temario.md",
-    "documentacion/angular/07. Redux/10. Casos de Uso Avanzados en NgRx.md",
-    "documentacion/angular/07. Redux/9. Testing en NgRx.md",
-    "documentacion/angular/07. Redux/8. Patrones y Mejores Prácticas.md",
-    "documentacion/angular/07. Redux/7. Middleware y DevTools.md",
-    "documentacion/angular/07. Redux/6. Selectors en NgRx.md",
-    "documentacion/angular/07. Redux/5. Efectos (Effects) en NgRx.md",
-    "documentacion/angular/07. Redux/4. Trabajando con el Store.md",
-    "documentacion/angular/07. Redux/3. Configuración de Redux en Angular con NgRx.md",
-    "documentacion/angular/07. Redux/2. Conceptos Básicos de Redux.md",
-    "documentacion/angular/07. Redux/1. Introducción a Redux.md",
-    "documentacion/angular/06. Observables Avanzado/4. Operadores de Transformación.md",
-    "documentacion/angular/07. Redux",
-    "documentacion/angular/Untitled.md",
-    "documentacion/angular/05. Routes/5. Guardas de Ruta en Angular.md",
-    "documentacion/angular/05. Routes/4. Carga Diferida (Lazy Loading) en Angular.md",
-    "documentacion/angular/05. Routes/3. Rutas Anidadas y Parámetros en Angular.md",
-    "documentacion/angular/05. Routes/12. Explorar Técnicas de Optimización de Enrutamiento.md",
-    "documentacion/angular/05. Routes/13. Propiedad State.md",
-    "documentacion/angular/05. Routes/8. Servicios de Enrutamiento en Angular.md",
-    "documentacion/angular/05. Routes/7. RouterModule & Router Outlet.md",
-    "documentacion/angular/05. Routes/11. CanLoad.md",
-    "documentacion/angular/05. Routes/10. CanDeactivate.md",
-    "documentacion/angular/05. Routes/9. Guardas CanActivateChild y Crear Más Resolvers en Angular.md",
-    "documentacion/angular/05. Routes/6. Redireccionar rutas no encontradas.md",
-    "documentacion/angular/05. Routes/2. Configuración Básica de Rutas en Angular.md",
-    "documentacion/angular/06. Observables Avanzado",
-    "documentacion/angular/05. Routes",
+    "TI/aws/seccion 1/introducción.md",
+    "documentacion/Oracle Certificado/001-Database Concepts/16. Que es PLSQL.md",
+    "documentacion/Oracle Certificado/001-Database Concepts/15. Que son las Funciones y los Procedimientos.md",
+    "documentacion/Oracle Certificado/001-Database Concepts/06. Arquitectura de base de datos Conectable.md",
+    "documentacion/Oracle Certificado/001-Database Concepts/01. Base de Datos.md",
+    "documentacion/java/48. JPA.md",
+    "documentacion/java/45. JSTL.md",
+    "documentacion/java/44. Filter Http.md",
+    "documentacion/java/43. Servlet Listener.md",
+    "documentacion/java/41. Cookies.md",
+    "documentacion/java/30. Patrones de Diseño.md",
+    "documentacion/java/1. Tipo de Datos/2. Tipo de Datos por Referencia.md",
+    "documentacion/java/1. Tipo de Datos/1. Tipo de Datos Primitivos.md",
+    "TI/aws/seccion 6/Almacenamiento de instancias - EC2.md",
+    "TI/aws/seccion 6/ebs/Ejemplo de Uso de EBS.md",
+    "TI/aws/seccion 6/ebs/Gestión de EBS.md",
+    "TI/aws/seccion 6/ebs/Adjuntar un Volumen EBS a una Instancia EC2.md",
+    "TI/aws/seccion 6/ebs/Montar el Volumen en la Instancia EC2.md",
+    "TI/aws/seccion 6/ebs/Tipos de Volúmenes EBS.md",
+    "TI/aws/seccion 6/ebs/Características Principales de EBS.md",
+    "TI/aws/seccion 1/aws.md",
+    "TI/aws/seccion 6/ebs",
+    "seccion 6/Almacenamiento de instancias] - EC2.md",
+    "seccion 6",
+    "TI/aws/seccion 5/Elastic Computer Clound - EC2.md",
+    "TI/aws/seccion 6",
+    "TI/aws/seccion 4/Identity and Access Management.md",
+    "TI/aws/seccion 3/Que es un Clound Computing.md",
+    "TI/aws/seccion 3/Modelo de Responsabilidad Compartida.md",
+    "TI/aws/seccion 5/utilizar ssh/windows",
+    "Configurar el Archivo `~",
+    "TI/aws/seccion 5/utilizar ssh/linux",
+    "TI/aws/seccion 5/utilizar ssh",
+    "TI/aws/seccion 1/src/responsabilidad-compartida.png",
+    "TI/aws/seccion 5/SSH/Untitled",
+    "TI/aws/seccion 5/SSH",
+    "TI/aws/seccion 5/grupos de seguridad",
+    "TI/aws/seccion 1/src/Shared_Responsibility_Model.png",
+    "Untitled 1.canvas",
     "Untitled.canvas",
-    "documentacion/angular/04. Observable",
-    "documentacion/angular/03. Input Output",
-    "documentacion/angular/02. Modulos",
-    "documentacion/angular/01. Angular CLI",
-    "documentacion/Oracle Certificado/015-DDL Statements/Untitled",
-    "documentacion/Oracle Certificado/026-assets/01-img/union.webp",
-    "documentacion/Oracle Certificado/026-assets/01-img/union.webp.crdownload",
-    "documentacion/Oracle Certificado/026-assets/01-img/minus.webp",
-    "documentacion/Oracle Certificado/026-assets/01-img/minus.webp.crdownload",
-    "documentacion/Entidad Relacion/image/cardinalidad.png",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "documentacion/liderazgo/Untitled.canvas",
+    "documentacion/Sabiduria Compartida/Untitled.canvas",
     "documentacion/uml/uml.canvas",
-    "documentacion/ingles/canvas/3. verbos.canvas",
-    "documentacion/ingles/canvas/3.1 Verbos Regulares.canvas",
-    "documentacion/ingles/canvas/3.2 Verbos Irregulares.canvas",
-    "documentacion/Entidad Relacion/image/er.png",
-    "documentacion/java/0.00 Canvas.canvas",
-    "documentacion/ingles/canvas/11. Pasado simple.canvas",
-    "documentacion/ingles/canvas/10. Would.canvas",
-    "documentacion/ingles/canvas/9. Palabras compuestas.canvas",
     "documentacion/ingles/canvas/8. THE.canvas",
+    "documentacion/ingles/canvas/7. Numeros.canvas",
+    "documentacion/ingles/canvas/9. Palabras compuestas.canvas",
+    "documentacion/ingles/canvas/10. Would.canvas",
+    "documentacion/ingles/canvas/11. Pasado simple.canvas",
+    "documentacion/Oracle Certificado/026-assets/01-img/union.webp",
+    "documentacion/Oracle Certificado/026-assets/01-img/minus.webp",
+    "documentacion/Entidad Relacion/image/cardinalidad.png",
+    "documentacion/Entidad Relacion/image/er.png",
     "documentacion/sql/image/inner.png",
     "documentacion/sql/image/inner-join.png",
-    "documentacion/sql/image/cross.png",
-    "documentacion/sql/image/full.png",
-    "documentacion/sql/image/right.png",
-    "documentacion/sql/image/left.png"
+    "documentacion/sql/image/cross.png"
   ]
 }

@@ -1,0 +1,80 @@
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.2.8",
+	"elements": [
+		{
+			"type": "frame",
+			"version": 217,
+			"versionNonce": 290505427,
+			"index": "a5",
+			"isDeleted": false,
+			"id": "h2F4BKfgi_DJpHWTEnHDH",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 645,
+			"y": 25.285714285714278,
+			"strokeColor": "#bbb",
+			"backgroundColor": "transparent",
+			"width": 1029.5714285714284,
+			"height": 563.2857142857142,
+			"seed": 2094255560,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1720457961787,
+			"link": null,
+			"locked": false,
+			"name": null,
+			"customData": {
+				"frameColor": {
+					"stroke": "#0D2D57",
+					"fill": "#164F9A",
+					"nameColor": "#3480E2"
+				}
+			}
+		}
+	],
+	"appState": {
+		"theme": "dark",
+		"viewBackgroundColor": "#f5faff",
+		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "solid",
+		"currentItemStrokeWidth": 2,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"scrollX": -591.9285714285714,
+		"scrollY": 53.95982142857143,
+		"zoom": {
+			"value": 1.75
+		},
+		"currentItemRoundness": "round",
+		"gridSize": null,
+		"gridColor": {
+			"Bold": "#8AC4FFFF",
+			"Regular": "#D1E8FFFF"
+		},
+		"currentStrokeOptions": null,
+		"previousGridSize": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true
+		},
+		"objectsSnapModeEnabled": false
+	},
+	"files": {}
+}

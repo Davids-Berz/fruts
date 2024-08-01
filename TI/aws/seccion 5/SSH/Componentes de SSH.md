@@ -1,0 +1,6 @@
+- **Cliente SSH**:
+    - Software que inicia la conexión SSH y se comunica con el servidor SSH.
+    - Ejemplos: `OpenSSH`, `PuTTY`, `MobaXterm`.
+- **Servidor SSH**:
+    - Software que recibe la conexión SSH y autentica al cliente.
+    - Ejemplos: `OpenSSH`, `Dropbear`.

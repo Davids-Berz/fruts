@@ -1,0 +1,23 @@
+#Modelos #Servicios-Modelos
+- **Infrastructure as a Service (IaaS)**
+	- [[Gestion IaaS]]
+    - **Descripción**: Proporciona infraestructura de TI básica, como máquinas virtuales, almacenamiento, y redes.
+    - **Ejemplos**: Amazon EC2, Google Compute Engine, Microsoft Azure Virtual Machines.
+    - **Uso típico**: Migración de aplicaciones existentes a la nube, entornos de desarrollo y prueba, almacenamiento y copias de seguridad.
+- **Platform as a Service (PaaS)**
+    - [[Gestion PaaS]]
+    - **Descripción**: Proporciona una plataforma completa para desarrollar, ejecutar y gestionar aplicaciones sin gestionar la infraestructura subyacente.
+    - **Ejemplos**: AWS Elastic Beanstalk, Google App Engine, Microsoft Azure App Service.
+    - **Uso típico**: Desarrollo de aplicaciones, despliegue rápido de aplicaciones, desarrollo ágil.
+- **Software as a Service (SaaS)**
+	- [[Gestion SaaS]]
+    - **Descripción**: Proporciona aplicaciones completas listas para usar, gestionadas por el proveedor del servicio.
+    - **Ejemplos**: Google Workspace, Microsoft Office 365, Salesforce.
+    - **Uso típico**: Aplicaciones empresariales, correo electrónico, herramientas de colaboración y productividad.
+- **Function as a Service (FaaS)**
+    - [[Gestion FaaS]]
+    - **Descripción**: Permite ejecutar funciones de código en respuesta a eventos sin gestionar servidores.
+    - **Ejemplos**: AWS Lambda, Google Cloud Functions, Azure Functions.
+    - **Uso típico**: Automatización de tareas, microservicios, aplicaciones basadas en eventos.
+
+- [[Comparacion de Modelo de Servicio]]

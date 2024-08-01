@@ -1,5 +1,10 @@
 {
   "accentColor": "",
-  "baseFontSize": 17,
-  "theme": "obsidian"
+  "baseFontSize": 15,
+  "theme": "obsidian",
+  "interfaceFontFamily": "Victor Mono",
+  "textFontFamily": "Victor Mono",
+  "monospaceFontFamily": "Victor Mono",
+  "baseFontSizeAction": true,
+  "cssTheme": "Minimal"
 }

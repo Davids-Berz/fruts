@@ -1,0 +1,7 @@
+- **Acceso Remoto**:
+    - Proporciona acceso remoto seguro a sistemas y servidores. Esto es especialmente útil para la administración de servidores Linux/Unix.
+- **Transferencia Segura de Archivos**:
+    - **SCP (Secure Copy Protocol)**: Copia de archivos de manera segura entre hosts.
+    - **SFTP (SSH File Transfer Protocol)**: Protocolo de transferencia de archivos basado en SSH, que permite operaciones de archivos seguras y versátiles.
+- **Túneles SSH**:
+    - Redirige el tráfico de red de forma segura a través de un túnel SSH, lo que puede ser usado para acceder a servicios no seguros a través de un canal seguro.
