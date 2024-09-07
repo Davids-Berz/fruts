@@ -1,0 +1,1 @@
+En muchos casos, una combinación de estas estrategias puede proporcionar los mejores resultados. Por ejemplo, una aplicación podría utilizar escalado proactivo para anticipar los picos de tráfico, junto con escalado reactivo para manejar picos inesperados que superen las previsiones.

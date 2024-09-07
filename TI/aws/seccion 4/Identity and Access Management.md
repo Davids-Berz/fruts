@@ -9,7 +9,9 @@ AWS Identity and Access Management (IAM) es un servicio web que ayuda a controla
 
 [[Estructura de una Política de IAM]]
 
+---
 ## Politicas IAM
+
 
 ### Políticas Gestionadas de AWS
 
@@ -31,7 +33,9 @@ AWS Identity and Access Management (IAM) es un servicio web que ayuda a controla
 
 Las políticas de IAM son esenciales para gestionar el acceso a los recursos de AWS de manera segura y efectiva. La elección y configuración adecuada de estas políticas es fundamental para mantener la seguridad y el cumplimiento en la nube.
 
+---
 ## Política de contraseñas de AWS IAM
+
 
 La política de contraseñas de AWS IAM (Identity and Access Management) permite a los administradores establecer reglas que rigen la complejidad, longitud, y renovación de las contraseñas para los usuarios que acceden a la consola de administración de AWS. Configurar una política de contraseñas robusta es esencial para mejorar la seguridad de las cuentas de usuario.
 
@@ -54,7 +58,9 @@ La Autenticación Multifactor (MFA) en AWS Identity and Access Management (IAM) 
 
 - [[Configuración de MFA para Usuarios de IAM]]
 
+---
 ## Los roles de IAM (Identity and Access Management) en AWS
+
 
 Los roles de IAM (Identity and Access Management) en AWS son conjuntos de permisos que los servicios de AWS pueden asumir para acceder a otros recursos de AWS. Los roles permiten delegar acceso sin compartir credenciales, lo que mejora la seguridad y la gestión de acceso. A continuación, se explica en detalle cómo funcionan los roles de IAM, cómo se configuran y algunos casos de uso comunes.
 
@@ -75,6 +81,7 @@ Los roles de IAM (Identity and Access Management) en AWS son conjuntos de permis
 5. [[Buenas Prácticas para Roles de IAM]]
 6. [[Ventajas de Usar Roles de IAM]]
 
+---
 ## Herramientas de Seguridad IAM
 
 AWS Identity and Access Management (IAM) proporciona diversas herramientas y características que ayudan a asegurar la infraestructura en la nube. Aquí se describen algunas de las herramientas de seguridad más importantes en IAM y cómo pueden utilizarse para fortalecer la seguridad de los recursos de AWS.

@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e050be65a5bcd823",
+        "id": "b4cf70f8d41db345",
         "type": "tabs",
         "children": [
           {
-            "id": "c9c1ea2ca20c62e5",
+            "id": "935b2828a87c57e6",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TI/aws/seccion 1/aws.md",
+                "file": "TI/aws/seccion 8/S3.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e17bf44a8035f669",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TI/aws/seccion 6/Almacenamiento de instancias - EC2.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -46,22 +35,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ace84704538d09c4",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "e0580e763b9db971",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Principal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -71,14 +50,25 @@
             }
           },
           {
-            "id": "d006fc32f157af48",
+            "id": "bba6d0f0dc258e4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11700490c9509893",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +88,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TI/aws/seccion 6/Almacenamiento de instancias - EC2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TI/aws/seccion 6/Almacenamiento de instancias - EC2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TI/aws/seccion 6/Almacenamiento de instancias - EC2.md"
+                "file": "2024-09-07.md"
               }
             }
           },
@@ -179,48 +167,55 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "privacy-glasses:Hide all": false,
+      "privacy-glasses:Reveal non-private": false,
+      "privacy-glasses:Reveal headlines only": false,
+      "privacy-glasses:Reveal all": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e17bf44a8035f669",
+  "active": "bba6d0f0dc258e4b",
   "lastOpenFiles": [
-    "TI/aws/seccion 1/introducción.md",
-    "documentacion/Oracle Certificado/001-Database Concepts/16. Que es PLSQL.md",
-    "documentacion/Oracle Certificado/001-Database Concepts/15. Que son las Funciones y los Procedimientos.md",
-    "documentacion/Oracle Certificado/001-Database Concepts/06. Arquitectura de base de datos Conectable.md",
-    "documentacion/Oracle Certificado/001-Database Concepts/01. Base de Datos.md",
-    "documentacion/java/48. JPA.md",
-    "documentacion/java/45. JSTL.md",
-    "documentacion/java/44. Filter Http.md",
-    "documentacion/java/43. Servlet Listener.md",
-    "documentacion/java/41. Cookies.md",
-    "documentacion/java/30. Patrones de Diseño.md",
-    "documentacion/java/1. Tipo de Datos/2. Tipo de Datos por Referencia.md",
-    "documentacion/java/1. Tipo de Datos/1. Tipo de Datos Primitivos.md",
-    "TI/aws/seccion 6/Almacenamiento de instancias - EC2.md",
-    "TI/aws/seccion 6/ebs/Ejemplo de Uso de EBS.md",
-    "TI/aws/seccion 6/ebs/Gestión de EBS.md",
-    "TI/aws/seccion 6/ebs/Adjuntar un Volumen EBS a una Instancia EC2.md",
-    "TI/aws/seccion 6/ebs/Montar el Volumen en la Instancia EC2.md",
-    "TI/aws/seccion 6/ebs/Tipos de Volúmenes EBS.md",
-    "TI/aws/seccion 6/ebs/Características Principales de EBS.md",
-    "TI/aws/seccion 1/aws.md",
-    "TI/aws/seccion 6/ebs",
-    "seccion 6/Almacenamiento de instancias] - EC2.md",
-    "seccion 6",
-    "TI/aws/seccion 5/Elastic Computer Clound - EC2.md",
-    "TI/aws/seccion 6",
-    "TI/aws/seccion 4/Identity and Access Management.md",
-    "TI/aws/seccion 3/Que es un Clound Computing.md",
-    "TI/aws/seccion 3/Modelo de Responsabilidad Compartida.md",
-    "TI/aws/seccion 5/utilizar ssh/windows",
-    "Configurar el Archivo `~",
-    "TI/aws/seccion 5/utilizar ssh/linux",
-    "TI/aws/seccion 5/utilizar ssh",
+    "TI/Tecnologias",
+    "TI/aws/seccion 8/S3.md",
+    "2024-09-06.md",
+    "2024-09-07.md",
+    "TI/aws/seccion 1/introducción AWS.md",
+    "2024-09-05.md",
+    "2024-09-04.md",
+    "TI/aws/seccion 8/replicacion/Buenas Prácticas para la Replicación en S3.md",
+    "TI/aws/seccion 8/replicacion/Tipos de Replicación en S3.md",
+    "TI/aws/seccion 8/replicacion/Costos Asociados con la Replicación en S3.md",
+    "TI/aws/seccion 8/replicacion/Configuración de la Replicación en S3.md",
+    "TI/aws/seccion 8/replicacion/Características Clave de la Replicación en S3.md",
+    "TI/aws/seccion 8/replicacion",
+    "TI/aws/seccion 8/versionado/Consideraciones de Seguridad del Versionado.md",
+    "TI/aws/seccion 8/versionado/Políticas de Ciclo de Vida y Versionado.md",
+    "TI/aws/seccion 8/versionado/Costos Asociados con el Versionado.md",
+    "TI/aws/seccion 8/versionado/Trabajar con Versiones de Objetos.md",
+    "TI/aws/seccion 8/versionado/Habilitar el Versionado en un Bucket S3.md",
+    "TI/aws/seccion 8/versionado/Características Principales del Versionado en S3.md",
+    "TI/aws/seccion 8/versionado/Qué es el Versionado en S3.md",
+    "TI/aws/seccion 8/versionado",
+    "TI/aws/seccion 8/sitios web/Consideraciones de Seguridad.md",
+    "TI/aws/seccion 8/sitios web/Beneficios de Alojar un Sitio Web en S3.md",
+    "TI/aws/seccion 8/sitios web/Pasos para Configurar un Sitio Web Estático en S3.md",
+    "TI/aws/seccion 8/sitios web",
+    "TI/aws/seccion 8/seguridad s3/Buenas Prácticas para Políticas de Buckets en S3.md",
+    "TI/aws/seccion 8/seguridad s3/Herramientas para Gestionar Políticas en S3.md",
+    "TI/aws/seccion 8/seguridad s3/Ejemplos Avanzados de Políticas de Buckets.md",
+    "TI/aws/seccion 8/seguridad s3/Ejemplo de una Política de Buckets.md",
+    "TI/aws/seccion 8/seguridad s3",
+    "TI/aws/seccion 8/s3",
+    "TI/aws/seccion 8",
+    "TI/aws/seccion 7/Untitled",
+    "TI/aws/seccion 7/estrategias",
+    "TI/aws/seccion 7/asg",
+    "TI/aws/seccion 7/elb",
     "TI/aws/seccion 1/src/responsabilidad-compartida.png",
-    "TI/aws/seccion 5/SSH/Untitled",
-    "TI/aws/seccion 5/SSH",
-    "TI/aws/seccion 5/grupos de seguridad",
+    "TI/Plan De Estudios/Untitled Diagram.svg",
+    "TI/Plan De Estudios/Untitled.canvas",
     "TI/aws/seccion 1/src/Shared_Responsibility_Model.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -232,13 +227,11 @@
     "documentacion/ingles/canvas/7. Numeros.canvas",
     "documentacion/ingles/canvas/9. Palabras compuestas.canvas",
     "documentacion/ingles/canvas/10. Would.canvas",
-    "documentacion/ingles/canvas/11. Pasado simple.canvas",
     "documentacion/Oracle Certificado/026-assets/01-img/union.webp",
     "documentacion/Oracle Certificado/026-assets/01-img/minus.webp",
     "documentacion/Entidad Relacion/image/cardinalidad.png",
     "documentacion/Entidad Relacion/image/er.png",
     "documentacion/sql/image/inner.png",
-    "documentacion/sql/image/inner-join.png",
-    "documentacion/sql/image/cross.png"
+    "documentacion/sql/image/inner-join.png"
   ]
 }

@@ -1,10 +1,11 @@
 {
   "accentColor": "",
-  "baseFontSize": 15,
+  "baseFontSize": 21,
   "theme": "obsidian",
   "interfaceFontFamily": "Victor Mono",
-  "textFontFamily": "Victor Mono",
-  "monospaceFontFamily": "Victor Mono",
+  "textFontFamily": "SN Pro",
+  "monospaceFontFamily": "SN Pro",
   "baseFontSizeAction": true,
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "showViewHeader": true
 }

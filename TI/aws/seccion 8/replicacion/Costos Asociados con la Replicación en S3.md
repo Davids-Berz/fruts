@@ -1,0 +1,3 @@
+- **Transferencia de Datos**: La transferencia de datos entre regiones (CRR) incurre en costos de transferencia de datos. La replicación dentro de la misma región (SRR) no tiene costos de transferencia de datos.
+- **Almacenamiento en el Bucket de Destino**: Se cobran los costos normales de almacenamiento en el bucket de destino según la clase de almacenamiento utilizada.
+- **Solicitudes PUT y GET**: Las solicitudes PUT para replicar los objetos y las solicitudes GET para verificar los objetos replicados también pueden generar costos adicionales.
