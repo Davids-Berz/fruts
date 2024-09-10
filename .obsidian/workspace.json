@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Homepages/Homepage.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -223,10 +223,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66b60e1d8fb9fc82",
+  "active": "6df108476a57bd54",
   "lastOpenFiles": [
-    "windows.md",
+    "TI/aws/seccion 4/Identity and Access Management.md",
     "Homepages/Homepage.md",
+    "TI/aws/seccion 3/Que es un Clound Computing.md",
+    "windows.md",
     "2024-37.md",
     "Windows.md",
     "TI/Daily Notes/DailyNote/2024-09-09.md",
@@ -243,8 +245,6 @@
     "TI/Templates/New Kanban Notes.md",
     "TI/Daily Notes",
     "TI/aws/seccion 8/S3.md",
-    "TI/aws/seccion 3/Que es un Clound Computing.md",
-    "TI/aws/seccion 4/Identity and Access Management.md",
     "TI/aws/seccion 4/Configuración de MFA para Usuarios de IAM.md",
     "TI/aws/seccion 1/introducción AWS.md",
     "TI/aws/seccion 4/Beneficios de IAM.md",

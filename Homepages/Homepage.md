@@ -6,14 +6,18 @@ cssclasses:
   - myhome
 ---
 # Mis Repositorios 
-- Java
+- ☕ Java
 	- [Apple](vscode://file/D:/code/apple)
 	- [Api](vscode://file/D:/code/clientes-api)
-- Angular
+- 🅰 Angular
 	- [Cherry](vscode://file/D:/code/cherry)
-	- [Wev](vscode://file/D:/code/clientes-web)
-- Documentacion
+	- [Web](vscode://file/D:/code/clientes-web)
+	- [Web v20](vscode://file/D:/code/web_v20)
+- 📚 Documentacion
 	- [Fruts](D:/code/fruts)
+- 🕸 Sociales
+	- [GitHub](https://github.com/Davids-Berz)
+	- [Linkedin](https://www.linkedin.com/in/david-saldivar-175342264/)
 - 
 
 
