@@ -1,9 +1,80 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "flex": {
+      "type": "flex",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": true
+    },
+    "col2": {
+      "type": "col2",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": true
+    },
+    "col3": {
+      "type": "col3",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "translation": {
+      "type": "translation",
+      "color": "97, 204, 191",
+      "icon": {
+        "name": "language",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "翻译",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "exp": {
+      "type": "exp",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "exclamation-circle",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "col4": {
+      "type": "col4",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": true
+    }
+  },
   "syntaxHighlight": false,
-  "copyButton": false,
-  "version": "10.3.2",
-  "autoCollapse": false,
+  "copyButton": true,
+  "version": "9.3.3",
+  "autoCollapse": true,
   "defaultCollapseType": "open",
   "injectColor": true,
   "parseTitles": true,
@@ -19,6 +90,6 @@
   "useFontAwesome": true,
   "rpgDownloadedOnce": false,
   "msDocConverted": false,
-  "useSnippet": false,
-  "snippetPath": "custom-admonitions.636d6f"
+  "useSnippet": true,
+  "snippetPath": "custom-admonitions.c21169"
 }

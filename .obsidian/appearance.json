@@ -1,11 +1,32 @@
 {
-  "accentColor": "",
-  "baseFontSize": 21,
+  "accentColor": "#607d1c",
+  "baseFontSize": 19,
   "theme": "obsidian",
   "interfaceFontFamily": "Victor Mono",
   "textFontFamily": "SN Pro",
   "monospaceFontFamily": "SN Pro",
   "baseFontSizeAction": true,
-  "cssTheme": "Minimal",
-  "showViewHeader": true
+  "cssTheme": "Blue Topaz",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "dashboard",
+    "【情绪记录】MoodTracker",
+    "【AD优化】admonitions",
+    "【主页设置】homepage setting",
+    "【主页设置移动端】homepage setting media mobile",
+    "【侧边栏播放器图标】rightlane music player icon",
+    "【侧边栏设置】rightlane setting",
+    "【便签样式】stickies",
+    "【分栏支持】admonition-col2-col3-flex",
+    "【卡片视图】zettelkasten",
+    "【收件箱图标】收件箱icon",
+    "【日记时间轴】Time",
+    "【生日倒计时】birthday countdown",
+    "【边栏图标】sidepane",
+    "【进度颜色】colourful progress bar",
+    "【音乐播放器】Music Player",
+    "【项目管理】sharetype",
+    "custom-admonitions.636d6f",
+    "custom-admonitions.c21169"
+  ]
 }

@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "935b2828a87c57e6",
+            "id": "66b60e1d8fb9fc82",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TI/aws/seccion 8/S3.md",
+                "file": "Homepages/Homepage.md",
                 "mode": "source",
                 "source": false
               },
@@ -66,6 +66,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "7515a103d1efe4a4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -88,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Homepages/Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Homepages/Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-07.md"
+                "file": "Homepages/Homepage.md"
               }
             }
           },
@@ -149,14 +159,51 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "35e2a10e4f85ea82",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c79f86f499ae4078",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "6df108476a57bd54",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
+      },
+      {
+        "id": "9670ae3c109a338f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3363cf6330743939",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,51 +215,54 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "privacy-glasses:Hide all": false,
-      "privacy-glasses:Reveal non-private": false,
-      "privacy-glasses:Reveal headlines only": false,
-      "privacy-glasses:Reveal all": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false,
+      "obsidian-memos:Memos": false,
+      "homepage:Open homepage": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bba6d0f0dc258e4b",
+  "active": "66b60e1d8fb9fc82",
   "lastOpenFiles": [
-    "TI/Tecnologias",
+    "windows.md",
+    "Homepages/Homepage.md",
+    "2024-37.md",
+    "Windows.md",
+    "TI/Daily Notes/DailyNote/2024-09-09.md",
+    "TI/Templates/New Daily Notes.md",
+    "TI/Templates/New Weekly Note.md",
+    "TI/Daily Notes/Daily Notes 1.md",
+    "TI/Daily Notes/WeeklyNote",
+    "TI/Daily Notes/DailyNote",
+    "TI/Banners/notes.jpg",
+    "TI/Banners/Edinburgh.jpg",
+    "TI/Daily Notes/2024-09-11.md",
+    "TI/Daily Notes/2024-09-10.md",
+    "TI/Daily Notes/2024-09-09.md",
+    "TI/Templates/New Kanban Notes.md",
+    "TI/Daily Notes",
     "TI/aws/seccion 8/S3.md",
-    "2024-09-06.md",
-    "2024-09-07.md",
+    "TI/aws/seccion 3/Que es un Clound Computing.md",
+    "TI/aws/seccion 4/Identity and Access Management.md",
+    "TI/aws/seccion 4/Configuración de MFA para Usuarios de IAM.md",
     "TI/aws/seccion 1/introducción AWS.md",
-    "2024-09-05.md",
-    "2024-09-04.md",
-    "TI/aws/seccion 8/replicacion/Buenas Prácticas para la Replicación en S3.md",
-    "TI/aws/seccion 8/replicacion/Tipos de Replicación en S3.md",
-    "TI/aws/seccion 8/replicacion/Costos Asociados con la Replicación en S3.md",
-    "TI/aws/seccion 8/replicacion/Configuración de la Replicación en S3.md",
-    "TI/aws/seccion 8/replicacion/Características Clave de la Replicación en S3.md",
+    "TI/aws/seccion 4/Beneficios de IAM.md",
+    "TI/aws/seccion 3/Modelos de Implementación en Cloud Computing.md",
+    "TI/aws/seccion 7/ELB y ASG Elastic Load Balancing y Auto Scaling Group.md",
+    "documentacion/angular/03. Input Output/01. Input y Output.md",
+    "documentacion/angular/02. Modulos/00. NG MODULE.md",
+    "documentacion/angular/02. Modulos/01. Modulos.md",
+    "TI/aws/seccion 6/Almacenamiento de instancias - EC2.md",
+    "TI/aws/seccion 6/snapshots/Características Principales de EBS Snapshots.md",
+    "TI/aws/seccion 6/ebs/Características Principales de EBS.md",
+    "TI/Banners",
+    "Homepages",
+    "TI/Tecnologias",
     "TI/aws/seccion 8/replicacion",
-    "TI/aws/seccion 8/versionado/Consideraciones de Seguridad del Versionado.md",
-    "TI/aws/seccion 8/versionado/Políticas de Ciclo de Vida y Versionado.md",
-    "TI/aws/seccion 8/versionado/Costos Asociados con el Versionado.md",
-    "TI/aws/seccion 8/versionado/Trabajar con Versiones de Objetos.md",
-    "TI/aws/seccion 8/versionado/Habilitar el Versionado en un Bucket S3.md",
-    "TI/aws/seccion 8/versionado/Características Principales del Versionado en S3.md",
-    "TI/aws/seccion 8/versionado/Qué es el Versionado en S3.md",
     "TI/aws/seccion 8/versionado",
-    "TI/aws/seccion 8/sitios web/Consideraciones de Seguridad.md",
-    "TI/aws/seccion 8/sitios web/Beneficios de Alojar un Sitio Web en S3.md",
-    "TI/aws/seccion 8/sitios web/Pasos para Configurar un Sitio Web Estático en S3.md",
     "TI/aws/seccion 8/sitios web",
-    "TI/aws/seccion 8/seguridad s3/Buenas Prácticas para Políticas de Buckets en S3.md",
-    "TI/aws/seccion 8/seguridad s3/Herramientas para Gestionar Políticas en S3.md",
-    "TI/aws/seccion 8/seguridad s3/Ejemplos Avanzados de Políticas de Buckets.md",
-    "TI/aws/seccion 8/seguridad s3/Ejemplo de una Política de Buckets.md",
     "TI/aws/seccion 8/seguridad s3",
-    "TI/aws/seccion 8/s3",
-    "TI/aws/seccion 8",
-    "TI/aws/seccion 7/Untitled",
-    "TI/aws/seccion 7/estrategias",
-    "TI/aws/seccion 7/asg",
-    "TI/aws/seccion 7/elb",
     "TI/aws/seccion 1/src/responsabilidad-compartida.png",
     "TI/Plan De Estudios/Untitled Diagram.svg",
     "TI/Plan De Estudios/Untitled.canvas",
@@ -230,8 +280,6 @@
     "documentacion/Oracle Certificado/026-assets/01-img/union.webp",
     "documentacion/Oracle Certificado/026-assets/01-img/minus.webp",
     "documentacion/Entidad Relacion/image/cardinalidad.png",
-    "documentacion/Entidad Relacion/image/er.png",
-    "documentacion/sql/image/inner.png",
-    "documentacion/sql/image/inner-join.png"
+    "documentacion/Entidad Relacion/image/er.png"
   ]
 }

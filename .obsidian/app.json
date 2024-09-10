@@ -3,5 +3,16 @@
   "alwaysUpdateLinks": true,
   "showInlineTitle": true,
   "showRibbon": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": true,
+  "promptDelete": false,
+  "focusNewTab": true,
+  "defaultViewMode": "preview",
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "showUnsupportedFiles": false,
+  "showIndentGuide": true,
+  "rightToLeft": false,
+  "useMarkdownLinks": false,
+  "newFileLocation": "root"
 }

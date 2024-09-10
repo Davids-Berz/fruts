@@ -25,6 +25,8 @@
     "excalidraw-open-md": "checkbox",
     "created": "date",
     "Comentarios": "multitext",
-    "Comments": "multitext"
+    "Comments": "multitext",
+    "banner_x": "number",
+    "banner_y": "number"
   }
 }

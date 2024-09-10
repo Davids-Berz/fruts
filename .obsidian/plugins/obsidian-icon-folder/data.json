@@ -6,10 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiLayoutTemplate",
+      "📓",
+      "🏡",
       "📅",
-      "1️⃣",
-      "👨‍🎓",
-      "☁"
+      "1️⃣"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,5 +35,12 @@
   },
   "TI/aws": "☁",
   "TI": "👨‍🎓",
-  "TI/Plan De Estudios": "📅"
+  "TI/Plan De Estudios": "📅",
+  "Homepages": "🏡",
+  "Homepages/Homepage.md": "☁",
+  "TI/Daily Notes": "📓",
+  "TI/Templates": {
+    "iconName": "LiLayoutTemplate",
+    "iconColor": "#24a022"
+  }
 }
