@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "b4cf70f8d41db345",
+        "id": "29a48732cc10750a",
         "type": "tabs",
         "children": [
           {
-            "id": "66b60e1d8fb9fc82",
+            "id": "c57dded8c19632f8",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepages/Homepage.md",
-                "mode": "preview",
+                "file": "TI/aws/seccion 9/Base de Datos y Analiticas.md",
+                "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
+            }
+          },
+          {
+            "id": "c27c0305a2f2fbcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Casos de Uso de Amazon Aurora.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -80,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 383.5
   },
   "right": {
     "id": "e06b60978ee37432",
@@ -96,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepages/Homepage.md",
+                "file": "TI/aws/seccion 9/Base de Datos y Analiticas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepages/Homepage.md",
+                "file": "TI/aws/seccion 9/Base de Datos y Analiticas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepages/Homepage.md"
+                "file": "TI/aws/seccion 9/Base de Datos y Analiticas.md"
               }
             }
           },
@@ -169,23 +179,23 @@
             }
           },
           {
-            "id": "c79f86f499ae4078",
-            "type": "leaf",
-            "state": {
-              "type": "tasks_timeline_view",
-              "state": {}
-            }
-          },
-          {
             "id": "6df108476a57bd54",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "815449a65581e7fa",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       },
       {
         "id": "9670ae3c109a338f",
@@ -203,7 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,52 +227,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
-      "obsidian-memos:Memos": false,
+      "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
-      "obsidian-git:Open Git source control": false
+      "markwhen:Create new Markwhen file": false,
+      "periodic-notes:Open today": false,
+      "obsidian-memos:Memos": false
     }
   },
   "active": "6df108476a57bd54",
   "lastOpenFiles": [
-    "TI/aws/seccion 4/Identity and Access Management.md",
+    "Casos de Uso de Amazon Aurora.md",
+    "TI/aws/seccion 9/Base de Datos y Analiticas.md",
+    "Características Clave de Amazon Aurora.md",
+    "TI/aws/seccion 9/Aurora",
+    "TI/aws/seccion 9/RDS",
+    "TI/aws/seccion 1/introducción AWS.md",
+    "TI/aws/seccion 9/RDS/Casos de Uso de Amazon RDS.md",
+    "TI/aws/seccion 9/RDS/Características Clave de Amazon RDS.md",
+    "TI/aws/seccion 8/S3.md",
     "Homepages/Homepage.md",
+    "TI/aws/seccion 9",
     "TI/aws/seccion 3/Que es un Clound Computing.md",
-    "windows.md",
-    "2024-37.md",
-    "Windows.md",
-    "TI/Daily Notes/DailyNote/2024-09-09.md",
-    "TI/Templates/New Daily Notes.md",
-    "TI/Templates/New Weekly Note.md",
-    "TI/Daily Notes/Daily Notes 1.md",
-    "TI/Daily Notes/WeeklyNote",
-    "TI/Daily Notes/DailyNote",
+    "TI/aws/seccion 7/ELB y ASG Elastic Load Balancing y Auto Scaling Group.md",
+    "TI/aws/seccion 8/sitios web/Beneficios de Alojar un Sitio Web en S3.md",
+    "TI/aws/seccion 8/s3/Buenas Prácticas S3.md",
+    "TI/aws/seccion 8/Storage Gateway/Beneficios de AWS Storage Gateway.md",
+    "TI/aws/seccion 8/Storage Gateway/Seguridad en AWS Storage Gateway.md",
+    "TI/aws/seccion 8/Storage Gateway/Casos de Uso Generales de AWS Storage Gateway.md",
+    "TI/aws/seccion 8/Storage Gateway/tipos/File Gateway.md",
+    "TI/aws/seccion 8/Storage Gateway/Tipos de AWS Storage Gateway.md",
+    "TI/aws/seccion 8/Storage Gateway/tipos/Volume Gateway.md",
+    "TI/aws/seccion 8/Storage Gateway/tipos/Tape Gateway.md",
+    "TI/aws/seccion 8/Storage Gateway/tipos",
+    "TI/aws/seccion 8/Storage Gateway",
+    "TI/aws/seccion 8/hibrido/Beneficios del Cloud Híbrido para Almacenamiento.md",
+    "TI/aws/seccion 8/hibrido/Casos de Uso Comunes del Cloud Híbrido para Almacenamiento.md",
+    "TI/aws/seccion 8/hibrido/Opciones de Almacenamiento Híbrido en AWS.md",
+    "TI/aws/seccion 8/hibrido/Arquitectura de Almacenamiento Híbrido.md",
+    "TI/aws/seccion 8/hibrido/Características Clave del Almacenamiento Híbrido.md",
+    "TI/aws/seccion 8/hibrido",
+    "TI/aws/seccion 8/MRR S3",
+    "TI/aws/seccion 8/Snow",
+    "TI/aws/seccion 8/Snow/Seguridad en la Familia AWS Snow.md",
+    "TI/aws/seccion 8/Snow/Casos de Uso Comunes de la Familia AWS Snow.md",
+    "TI/aws/seccion 8/cifrado s3",
+    "TI/aws/seccion 8/S3 lock",
     "TI/Banners/notes.jpg",
     "TI/Banners/Edinburgh.jpg",
-    "TI/Daily Notes/2024-09-11.md",
-    "TI/Daily Notes/2024-09-10.md",
-    "TI/Daily Notes/2024-09-09.md",
-    "TI/Templates/New Kanban Notes.md",
-    "TI/Daily Notes",
-    "TI/aws/seccion 8/S3.md",
-    "TI/aws/seccion 4/Configuración de MFA para Usuarios de IAM.md",
-    "TI/aws/seccion 1/introducción AWS.md",
-    "TI/aws/seccion 4/Beneficios de IAM.md",
-    "TI/aws/seccion 3/Modelos de Implementación en Cloud Computing.md",
-    "TI/aws/seccion 7/ELB y ASG Elastic Load Balancing y Auto Scaling Group.md",
-    "documentacion/angular/03. Input Output/01. Input y Output.md",
-    "documentacion/angular/02. Modulos/00. NG MODULE.md",
-    "documentacion/angular/02. Modulos/01. Modulos.md",
-    "TI/aws/seccion 6/Almacenamiento de instancias - EC2.md",
-    "TI/aws/seccion 6/snapshots/Características Principales de EBS Snapshots.md",
-    "TI/aws/seccion 6/ebs/Características Principales de EBS.md",
-    "TI/Banners",
-    "Homepages",
-    "TI/Tecnologias",
-    "TI/aws/seccion 8/replicacion",
-    "TI/aws/seccion 8/versionado",
-    "TI/aws/seccion 8/sitios web",
-    "TI/aws/seccion 8/seguridad s3",
     "TI/aws/seccion 1/src/responsabilidad-compartida.png",
     "TI/Plan De Estudios/Untitled Diagram.svg",
     "TI/Plan De Estudios/Untitled.canvas",

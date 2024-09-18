@@ -1,0 +1,4 @@
+- **Flexibilidad**: Te permite elegir qué datos se almacenan localmente y cuáles se envían a la nube, según las necesidades de rendimiento, seguridad y costos.
+- **Escalabilidad**: La nube proporciona almacenamiento casi ilimitado, lo que evita la necesidad de adquirir nuevo hardware a medida que crecen los volúmenes de datos.
+- **Redundancia y Respaldo**: Las soluciones híbridas ofrecen una opción natural para la replicación y recuperación ante desastres, asegurando que los datos estén siempre disponibles en caso de falla local.
+- **Reducción de Costos**: Optimizar el almacenamiento utilizando la nube para datos de acceso infrecuente o archivado reduce los costos de hardware y mantenimiento.

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiComponent",
+      "📷",
       "LiLayoutTemplate",
       "📓",
-      "🏡",
-      "📅",
-      "1️⃣"
+      "🏡"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,7 @@
   "TI/Templates": {
     "iconName": "LiLayoutTemplate",
     "iconColor": "#24a022"
-  }
+  },
+  "TI/Banners": "📷",
+  "TI/React components": "LiComponent"
 }

@@ -14,7 +14,7 @@ cssclasses:
 	- [Web](vscode://file/D:/code/clientes-web)
 	- [Web v20](vscode://file/D:/code/web_v20)
 - 📚 Documentacion
-	- [Fruts](D:/code/fruts)
+	- [Fruts](file://D:/code/fruts)
 - 🕸 Sociales
 	- [GitHub](https://github.com/Davids-Berz)
 	- [Linkedin](https://www.linkedin.com/in/david-saldivar-175342264/)
@@ -45,6 +45,7 @@ cssclasses:
 
 - 💧 **Front End**
 	- [Angular](https://angular.dev/)
+	- [Spring Initializr](https://start.spring.io/)
 	- [React](https://es.react.dev/)
 
 - 🔥 **Backend**
@@ -56,14 +57,14 @@ cssclasses:
 	- **De Entorno**
 		- [Node Version Manager](https://github.com/nvm-sh/nvm)
 		- [SdkMan](https://sdkman.io/)
-	- 🗃 **De Contenedores y Orquestación**
+	- **De Contenedores y Orquestación**
 		- [Docker](https://www.docker.com/)
 		- [Kubernetes](https://kubernetes.io/es/)
 		- [Jenkins](https://www.jenkins.io/)
-	-  **De Infraestructura**
+	- **De Infraestructura**
 		- [Terraform](https://www.terraform.io/)
 		- [AWS CloudFormation](https://aws.amazon.com/es/cloudformation/)
-	-  **De Paquetes**
+	- **De Paquetes**
 		- [npm](https://www.npmjs.com/)
 		- [yarn](https://yarnpkg.com/)
 		- [Homebrew](https://brew.sh/)
@@ -76,7 +77,7 @@ cssclasses:
 	- **De Proyectos**
 		- [maven](https://maven.apache.org/)
 		- [Jira](https://www.atlassian.com/es/software/jira)
-- 🎮 **Control de Versiones**
+-  🎮 **Control de Versiones**
 	- [Git](https://git-scm.com/)
 	- [GitHub](https://github.com/)
 - 🏳 **Principios de Diseño y Arquitectura**
@@ -84,28 +85,32 @@ cssclasses:
 	- DRY
 	- KISS
 	- TDD
-- Servers
+- 🖥 **Servers**
 	- [Apache Tomcat](https://tomcat.apache.org/)
 	- [Node](https://nodejs.org/en)
-- Free Images
+- 📸 **Free Images**
 	- [Pexels](https://www.pexels.com/)
-- Otras Herramientas
+- **FreeApp**
+	- [Mac](https://www.torrentmac.net/)
+	- [Win](https://filecr.com/)
+- 🔧 **Otras Herramientas**
 	- [Regex101](https://regex101.com/)
 	- [RegEx](https://w3.unpocodetodo.info/utiles/regex.php)
 	- [Unicode](https://symbl.cc/es/unicode-table/#0040)
+	- [Json by jenkov](https://jenkov.com/tutorials/java-json/jackson-objectmapper.html)
 	- 
 
 ---
 # 📚 Mis Cursos
 
-- ☁ AWS
+- ☁ **AWS**
 	- [[Que es un Clound Computing]]
 	- [[Identity and Access Management]]
 	- [[Elastic Computer Clound - EC2]]
 	- [[Almacenamiento de instancias - EC2]]
 	- [[ELB y ASG Elastic Load Balancing y Auto Scaling Group]]
 	- [[S3]]
-- ☕ Java
+- ☕ **Java**
 	- Tipo de Datos
 ---
 # Mis Notas

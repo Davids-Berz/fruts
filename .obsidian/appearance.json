@@ -6,7 +6,7 @@
   "textFontFamily": "SN Pro",
   "monospaceFontFamily": "SN Pro",
   "baseFontSizeAction": true,
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "GitHub Theme",
   "showViewHeader": true,
   "enabledCssSnippets": [
     "dashboard",

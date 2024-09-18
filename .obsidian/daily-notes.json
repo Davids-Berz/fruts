@@ -1,5 +1,5 @@
 {
   "template": "TI/Templates/New Kanban Notes",
-  "autorun": true,
+  "autorun": false,
   "folder": "TI/Daily Notes"
 }

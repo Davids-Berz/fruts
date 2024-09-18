@@ -1,196 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Homepages/Homepage.md"
+      "basename": "Base de Datos y Analiticas",
+      "path": "TI/aws/seccion 9/Base de Datos y Analiticas.md"
     },
     {
-      "basename": "2024-09-09",
-      "path": "TI/Daily Notes/DailyNote/2024-09-09.md"
+      "basename": "Casos de Uso de Amazon Aurora",
+      "path": "Casos de Uso de Amazon Aurora.md"
     },
     {
-      "basename": "New Daily Notes",
-      "path": "TI/Templates/New Daily Notes.md"
-    },
-    {
-      "basename": "New Weekly Note",
-      "path": "TI/Templates/New Weekly Note.md"
-    },
-    {
-      "basename": "notes",
-      "path": "TI/Banners/notes.jpg"
-    },
-    {
-      "basename": "Edinburgh",
-      "path": "TI/Banners/Edinburgh.jpg"
-    },
-    {
-      "basename": "New Kanban Notes",
-      "path": "TI/Templates/New Kanban Notes.md"
-    },
-    {
-      "basename": "S3",
-      "path": "TI/aws/seccion 8/S3.md"
-    },
-    {
-      "basename": "Configuración de MFA para Usuarios de IAM",
-      "path": "TI/aws/seccion 4/Configuración de MFA para Usuarios de IAM.md"
-    },
-    {
-      "basename": "Que es un Clound Computing",
-      "path": "TI/aws/seccion 3/Que es un Clound Computing.md"
+      "basename": "Características Clave de Amazon Aurora",
+      "path": "Características Clave de Amazon Aurora.md"
     },
     {
       "basename": "introducción AWS",
       "path": "TI/aws/seccion 1/introducción AWS.md"
     },
     {
-      "basename": "Beneficios de IAM",
-      "path": "TI/aws/seccion 4/Beneficios de IAM.md"
+      "basename": "Casos de Uso de Amazon RDS",
+      "path": "TI/aws/seccion 9/RDS/Casos de Uso de Amazon RDS.md"
     },
     {
-      "basename": "01. Input y Output",
-      "path": "documentacion/angular/03. Input Output/01. Input y Output.md"
+      "basename": "Características Clave de Amazon RDS",
+      "path": "TI/aws/seccion 9/RDS/Características Clave de Amazon RDS.md"
     },
     {
-      "basename": "00. NG MODULE",
-      "path": "documentacion/angular/02. Modulos/00. NG MODULE.md"
+      "basename": "S3",
+      "path": "TI/aws/seccion 8/S3.md"
     },
     {
-      "basename": "01. Modulos",
-      "path": "documentacion/angular/02. Modulos/01. Modulos.md"
+      "basename": "Homepage",
+      "path": "Homepages/Homepage.md"
     },
     {
-      "basename": "Almacenamiento de instancias - EC2",
-      "path": "TI/aws/seccion 6/Almacenamiento de instancias - EC2.md"
+      "basename": "Beneficios de AWS Storage Gateway",
+      "path": "TI/aws/seccion 8/Storage Gateway/Beneficios de AWS Storage Gateway.md"
     },
     {
-      "basename": "30. Patrones de Diseño",
-      "path": "documentacion/java/30. Patrones de Diseño.md"
+      "basename": "Seguridad en AWS Storage Gateway",
+      "path": "TI/aws/seccion 8/Storage Gateway/Seguridad en AWS Storage Gateway.md"
     },
     {
-      "basename": "4. String",
-      "path": "documentacion/java/4. String.md"
+      "basename": "Casos de Uso Generales de AWS Storage Gateway",
+      "path": "TI/aws/seccion 8/Storage Gateway/Casos de Uso Generales de AWS Storage Gateway.md"
+    },
+    {
+      "basename": "Tipos de AWS Storage Gateway",
+      "path": "TI/aws/seccion 8/Storage Gateway/Tipos de AWS Storage Gateway.md"
+    },
+    {
+      "basename": "Volume Gateway",
+      "path": "TI/aws/seccion 8/Storage Gateway/tipos/Volume Gateway.md"
+    },
+    {
+      "basename": "Tape Gateway",
+      "path": "TI/aws/seccion 8/Storage Gateway/tipos/Tape Gateway.md"
+    },
+    {
+      "basename": "File Gateway",
+      "path": "TI/aws/seccion 8/Storage Gateway/tipos/File Gateway.md"
+    },
+    {
+      "basename": "Beneficios del Cloud Híbrido para Almacenamiento",
+      "path": "TI/aws/seccion 8/hibrido/Beneficios del Cloud Híbrido para Almacenamiento.md"
+    },
+    {
+      "basename": "Casos de Uso Comunes del Cloud Híbrido para Almacenamiento",
+      "path": "TI/aws/seccion 8/hibrido/Casos de Uso Comunes del Cloud Híbrido para Almacenamiento.md"
+    },
+    {
+      "basename": "Opciones de Almacenamiento Híbrido en AWS",
+      "path": "TI/aws/seccion 8/hibrido/Opciones de Almacenamiento Híbrido en AWS.md"
+    },
+    {
+      "basename": "Arquitectura de Almacenamiento Híbrido",
+      "path": "TI/aws/seccion 8/hibrido/Arquitectura de Almacenamiento Híbrido.md"
+    },
+    {
+      "basename": "Características Clave del Almacenamiento Híbrido",
+      "path": "TI/aws/seccion 8/hibrido/Características Clave del Almacenamiento Híbrido.md"
+    },
+    {
+      "basename": "Seguridad en la Familia AWS Snow",
+      "path": "TI/aws/seccion 8/Snow/Seguridad en la Familia AWS Snow.md"
+    },
+    {
+      "basename": "Casos de Uso Comunes de la Familia AWS Snow",
+      "path": "TI/aws/seccion 8/Snow/Casos de Uso Comunes de la Familia AWS Snow.md"
+    },
+    {
+      "basename": "AWS Snowmobile",
+      "path": "TI/aws/seccion 8/Snow/AWS Snowmobile.md"
+    },
+    {
+      "basename": "AWS Snowball Edge",
+      "path": "TI/aws/seccion 8/Snow/AWS Snowball Edge.md"
+    },
+    {
+      "basename": "AWS Snowcone",
+      "path": "TI/aws/seccion 8/Snow/AWS Snowcone.md"
+    },
+    {
+      "basename": "Ejemplo de una Política para Forzar HTTPS en S3",
+      "path": "TI/aws/seccion 8/MRR S3/Ejemplo de una Política para Forzar HTTPS en S3.md"
+    },
+    {
+      "basename": "Ejemplo de Responsabilidad Compartida",
+      "path": "TI/aws/seccion 8/MRR S3/Ejemplo de Responsabilidad Compartida.md"
+    },
+    {
+      "basename": "Responsabilidades del Cliente en S3",
+      "path": "TI/aws/seccion 8/MRR S3/Responsabilidades del Cliente en S3.md"
+    },
+    {
+      "basename": "Responsabilidades de AWS en S3",
+      "path": "TI/aws/seccion 8/MRR S3/Responsabilidades de AWS en S3.md"
+    },
+    {
+      "basename": "Buenas Prácticas para el Cifrado en S3",
+      "path": "TI/aws/seccion 8/cifrado s3/Buenas Prácticas para el Cifrado en S3.md"
+    },
+    {
+      "basename": "Cómo Habilitar el Cifrado en un Bucket S3",
+      "path": "TI/aws/seccion 8/cifrado s3/Cómo Habilitar el Cifrado en un Bucket S3.md"
+    },
+    {
+      "basename": "Cifrado del Lado del Cliente (Client-Side Encryption)",
+      "path": "TI/aws/seccion 8/cifrado s3/Cifrado del Lado del Cliente (Client-Side Encryption).md"
+    },
+    {
+      "basename": "Cifrado del Lado del Servidor (SSE)",
+      "path": "TI/aws/seccion 8/cifrado s3/Cifrado del Lado del Servidor (SSE).md"
+    },
+    {
+      "basename": "Tipos de Cifrado en Amazon S3",
+      "path": "TI/aws/seccion 8/cifrado s3/Tipos de Cifrado en Amazon S3.md"
+    },
+    {
+      "basename": "Comparación entre S3 Object Lock y Glacier Vault Lock",
+      "path": "TI/aws/seccion 8/S3 lock/Comparación entre S3 Object Lock y Glacier Vault Lock.md"
+    },
+    {
+      "basename": "Amazon S3 Glacier Vault Lock",
+      "path": "TI/aws/seccion 8/S3 lock/Amazon S3 Glacier Vault Lock.md"
+    },
+    {
+      "basename": "Amazon S3 Object Lock",
+      "path": "TI/aws/seccion 8/S3 lock/Amazon S3 Object Lock.md"
+    },
+    {
+      "basename": "Comparación de las Clases de Almacenamiento de S3",
+      "path": "TI/aws/seccion 8/clases de almacenamiento/Comparación de las Clases de Almacenamiento de S3.md"
+    },
+    {
+      "basename": "Gestión del Ciclo de Vida en S3",
+      "path": "TI/aws/seccion 8/clases de almacenamiento/Gestión del Ciclo de Vida en S3.md"
+    },
+    {
+      "basename": "Clases de Almacenamiento de Amazon S3",
+      "path": "TI/aws/seccion 8/clases de almacenamiento/Clases de Almacenamiento de Amazon S3.md"
     },
     {
       "basename": "Elastic Computer Clound - EC2",
       "path": "TI/aws/seccion 5/Elastic Computer Clound - EC2.md"
     },
     {
-      "basename": "Plan de Estudios",
-      "path": "TI/Plan De Estudios/Plan de Estudios.md"
+      "basename": "Markwhen 9-13-2024 13.26.34",
+      "path": "Markwhen/Markwhen 9-13-2024 13.26.34.mw"
     },
     {
-      "basename": "Frequently Asked Questions",
-      "path": "Frequently Asked Questions.md"
+      "basename": "3. Diagrama Entidad Relacion",
+      "path": "documentacion/Entidad Relacion/3. Diagrama Entidad Relacion.md"
     },
     {
-      "basename": "166451654587261_.pic_hd",
-      "path": "40 - Obsidian/Attachments/166451654587261_.pic_hd.jpg"
+      "basename": "2. Cardinalidad",
+      "path": "documentacion/Entidad Relacion/2. Cardinalidad.md"
     },
     {
-      "basename": "50021653820977_.pic",
-      "path": "40 - Obsidian/Attachments/50021653820977_.pic.jpg"
+      "basename": "1. Entidad Relacion",
+      "path": "documentacion/Entidad Relacion/1. Entidad Relacion.md"
     },
     {
-      "basename": "00. Homepage",
-      "path": "40 - Obsidian/Homepages/00. Homepage.md"
+      "basename": "7. Array",
+      "path": "documentacion/PLSQL/7. Array.md"
     },
     {
-      "basename": "00. Dashboard",
-      "path": "40 - Obsidian/Homepages/00. Dashboard.md"
+      "basename": "5. Condicionales",
+      "path": "documentacion/PLSQL/5. Condicionales.md"
     },
     {
-      "basename": "163221654582836_.pic",
-      "path": "40 - Obsidian/Attachments/163221654582836_.pic.jpg"
+      "basename": "2. Log",
+      "path": "documentacion/PLSQL/2. Log.md"
     },
     {
-      "basename": "100911654141903_.pic",
-      "path": "40 - Obsidian/Attachments/100911654141903_.pic.jpg"
+      "basename": "4. Constante",
+      "path": "documentacion/PLSQL/4. Constante.md"
     },
     {
-      "basename": "50021653820977_.jpg",
-      "path": "40 - Obsidian/Attachments/50021653820977_.jpg.jpg"
-    },
-    {
-      "basename": "Updates and Bug Fixes",
-      "path": "Updates and Bug Fixes.md"
-    },
-    {
-      "basename": "锁麟囊",
-      "path": "30 - Reading/锁麟囊.md"
-    },
-    {
-      "basename": "破译金庸密码",
-      "path": "30 - Reading/破译金庸密码.md"
-    },
-    {
-      "basename": "成吉思汗：征战、帝国及其遗产",
-      "path": "30 - Reading/成吉思汗：征战、帝国及其遗产.md"
-    },
-    {
-      "basename": "中国古代衣食住行",
-      "path": "30 - Reading/中国古代衣食住行.md"
-    },
-    {
-      "basename": "00. Library",
-      "path": "30 - Reading/00. Library.md"
-    },
-    {
-      "basename": "164431654583979_.pic",
-      "path": "40 - Obsidian/Attachments/164431654583979_.pic.jpg"
-    },
-    {
-      "basename": "163081654582741_.pic",
-      "path": "40 - Obsidian/Attachments/163081654582741_.pic.jpg"
-    },
-    {
-      "basename": "Screen Shot 2022-06-02 at 15.08.21",
-      "path": "40 - Obsidian/Attachments/Screen Shot 2022-06-02 at 15.08.21.png"
-    },
-    {
-      "basename": "Screen Shot 2022-06-02 at 15.08.45",
-      "path": "40 - Obsidian/Attachments/Screen Shot 2022-06-02 at 15.08.45.png"
-    },
-    {
-      "basename": "Screen Shot 2022-06-02 at 15.10.29",
-      "path": "40 - Obsidian/Attachments/Screen Shot 2022-06-02 at 15.10.29.png"
-    },
-    {
-      "basename": "00. Files",
-      "path": "40 - Obsidian/Homepages/00. Files.md"
-    },
-    {
-      "basename": "2024-09-08",
-      "path": "00 - DailyNotes/2024-09-08.md"
-    },
-    {
-      "basename": "Qin",
-      "path": "10 - People/Family/Qin.md"
-    },
-    {
-      "basename": "coral reef",
-      "path": "50 - Zettelkasten/coral reef.md"
-    },
-    {
-      "basename": "rainy-day-bird",
-      "path": "40 - Obsidian/Attachments/banners/rainy-day-bird.gif"
-    },
-    {
-      "basename": "flowers",
-      "path": "40 - Obsidian/Attachments/banners/flowers.gif"
-    },
-    {
-      "basename": "daily-note-banner",
-      "path": "40 - Obsidian/Attachments/banners/daily-note-banner.gif"
-    },
-    {
-      "basename": "book-banner",
-      "path": "40 - Obsidian/Attachments/banners/book-banner.gif"
-    },
-    {
-      "basename": "00. People",
-      "path": "10 - People/Family/00. People.md"
+      "basename": "3. Variables",
+      "path": "documentacion/PLSQL/3. Variables.md"
     }
   ],
   "omittedPaths": [],
