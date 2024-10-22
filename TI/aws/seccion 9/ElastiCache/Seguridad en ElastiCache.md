@@ -1,0 +1,5 @@
+- **Autenticación y Autorización**:
+    - Redis admite **autenticación** para proteger el acceso a los datos en caché mediante contraseñas.
+    - El acceso a ElastiCache está restringido a través de **grupos de seguridad** y **Amazon VPC**, lo que permite aislar las instancias en redes privadas.
+- **Cifrado de Datos**:
+    - Redis admite cifrado en tránsito y en reposo, lo que asegura que los datos estén protegidos mientras se transmiten y cuando están almacenados.

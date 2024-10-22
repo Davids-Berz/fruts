@@ -1,0 +1,5 @@
+- **Historial Inmutable**: QLDB garantiza que todos los cambios en los datos estén registrados de manera inmutable y no puedan ser alterados, lo que lo convierte en una solución ideal para auditorías y sistemas de confianza.
+- **Verificación Criptográfica**: Con el uso de un árbol Merkle, los usuarios pueden verificar de forma criptográfica que los datos no han sido modificados desde su inserción, proporcionando una capa adicional de seguridad y transparencia.
+- **Totalmente Gestionado**: AWS se encarga de todas las operaciones de administración de la base de datos, lo que elimina la necesidad de gestionar infraestructura y permite a los desarrolladores centrarse en las aplicaciones.
+- **Escalabilidad Transparente**: A medida que aumenta el volumen de transacciones y datos, QLDB escala automáticamente sin intervención manual, lo que lo convierte en una solución robusta para aplicaciones que manejan grandes volúmenes de datos.
+- **Consultas Flexibles**: El uso de PartiQL permite realizar consultas SQL-like sobre los datos almacenados en QLDB, lo que facilita la búsqueda y recuperación de información tanto actual como histórica.

@@ -1,0 +1,5 @@
+- **Compatibilidad con MongoDB**: DocumentDB permite a los desarrolladores usar las mismas herramientas, controladores y código que en MongoDB, lo que simplifica la migración y el desarrollo de aplicaciones.
+- **Escalabilidad Automática**: Escala automáticamente en almacenamiento y capacidad de procesamiento para manejar cargas de trabajo en crecimiento sin interrupciones.
+- **Alta Disponibilidad**: Al replicar datos en múltiples zonas de disponibilidad, DocumentDB garantiza la disponibilidad de los datos y el failover automático en caso de fallos.
+- **Totalmente Gestionado**: AWS se encarga de todas las tareas operativas, incluidas las actualizaciones, backups y monitoreo, permitiendo que los equipos de desarrollo se centren en la aplicación en lugar de en la administración de la base de datos.
+- **Consultas Eficientes**: Optimizado para realizar consultas rápidas sobre datos en formato documental (JSON), DocumentDB es ideal para aplicaciones que requieren análisis en tiempo real.

@@ -1,0 +1,5 @@
+- **Gestión Automática**: Glue es un servicio completamente gestionado que elimina la complejidad de configurar y mantener la infraestructura para pipelines ETL.
+- **Escalabilidad**: Glue escala automáticamente para manejar grandes volúmenes de datos y procesos ETL complejos.
+- **Flexibilidad en Transformaciones**: Puedes escribir scripts ETL en Python o Scala, o utilizar la interfaz visual de Glue Studio para crear pipelines sin escribir código.
+- **Catálogo de Datos Centralizado**: El Catálogo de Datos de Glue permite organizar y descubrir fácilmente fuentes de datos para su procesamiento y análisis.
+- **Integración con Otros Servicios de AWS**: Glue se integra de manera nativa con servicios como S3, Redshift, Athena, Kinesis, SageMaker, y más, lo que facilita la construcción de soluciones de análisis completas.

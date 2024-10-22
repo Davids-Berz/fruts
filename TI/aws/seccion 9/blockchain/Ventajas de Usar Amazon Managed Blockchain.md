@@ -1,0 +1,5 @@
+- **Facilidad de Uso**: Managed Blockchain elimina la complejidad de configurar y gestionar una red de blockchain, permitiendo a los usuarios centrarse en el desarrollo de aplicaciones.
+- **Escalabilidad Automática**: Managed Blockchain escala automáticamente para manejar un mayor número de transacciones sin la necesidad de intervención manual.
+- **Alto Nivel de Seguridad**: Managed Blockchain utiliza las mejores prácticas de seguridad de AWS, proporcionando cifrado de datos, control de acceso granular y monitoreo continuo.
+- **Integración con AWS Services**: Se integra de forma nativa con otros servicios de AWS, lo que facilita la creación de soluciones completas utilizando herramientas como CloudWatch, CloudTrail, y KMS.
+- **Versatilidad en Casos de Uso**: Compatible con Hyperledger Fabric y Ethereum, Managed Blockchain es adecuado para una amplia gama de aplicaciones empresariales, desde redes de pago hasta aplicaciones descentralizadas.

@@ -1,0 +1,3 @@
+- **Latencia en el Arranque en Frío**: En algunos casos, como cuando una función Lambda no se ha utilizado recientemente, puede haber una pequeña latencia inicial en el tiempo de arranque del contenedor, conocido como **cold start**.
+- **Complejidad en el Monitoreo**: Aunque AWS proporciona herramientas como **CloudWatch** y **X-Ray** para monitorear y rastrear funciones Lambda, las aplicaciones distribuidas pueden ser más difíciles de monitorear y depurar que las aplicaciones monolíticas.
+- **Límites de Ejecución**: Algunos servicios serverless, como **AWS Lambda**, tienen límites en la duración de las funciones (15 minutos), lo que puede requerir la división de cargas de trabajo largas o complejas en tareas más pequeñas.

@@ -1,0 +1,5 @@
+- **Escalabilidad Automática**: API Gateway escala automáticamente para manejar grandes volúmenes de tráfico, sin necesidad de aprovisionar manualmente recursos adicionales.
+- **Costo Eficiente**: API Gateway solo cobra por las solicitudes recibidas y procesadas, lo que lo convierte en una solución rentable para exponer APIs.
+- **Integración Sencilla con AWS Lambda**: Al combinar API Gateway con Lambda, puedes crear backends completamente serverless que manejan todo el procesamiento de las solicitudes sin gestionar infraestructura.
+- **Seguridad y Control de Acceso**: Ofrece varias opciones para gestionar la seguridad de las APIs, incluyendo autenticación mediante IAM, Amazon Cognito y autorizadores Lambda personalizados.
+- **Monitoreo Detallado**: Se integra con **CloudWatch**, lo que facilita el monitoreo del rendimiento, los errores y las métricas clave de las APIs.

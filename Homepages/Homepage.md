@@ -110,8 +110,15 @@ cssclasses:
 	- [[Almacenamiento de instancias - EC2]]
 	- [[ELB y ASG Elastic Load Balancing y Auto Scaling Group]]
 	- [[S3]]
+	- [[Base de Datos y Analiticas]]
+	- [[ECS, Lambda, Batch, Lightsail]]
+	- [[Despliegue y gestión de la infraestructura a escala]]
 - ☕ **Java**
 	- Tipo de Datos
+- Angular
+	- [[Introducción a Angular]]
+	- [[Componentes de Angular]]
+	- [[Herramientas de Angular]]
 ---
 # Mis Notas
 

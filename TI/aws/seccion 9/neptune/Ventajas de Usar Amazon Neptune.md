@@ -1,0 +1,5 @@
+- **Optimizado para Consultas de Grafos**: Neptune está diseñado específicamente para manejar consultas sobre relaciones complejas en grafos, lo que lo hace ideal para aplicaciones que dependen de la conectividad entre entidades.
+- **Alta Disponibilidad y Recuperación Rápida**: Al replicar automáticamente los datos en tres AZs y proporcionar failover automático, Neptune garantiza una alta disponibilidad y continuidad de las aplicaciones.
+- **Flexibilidad en Modelos de Grafos**: Admite tanto **Property Graph** como **RDF**, lo que permite a los usuarios elegir el modelo de datos adecuado según el caso de uso.
+- **Seguridad Avanzada**: Con cifrado de datos en reposo y en tránsito, y control de acceso mediante IAM, Neptune proporciona un entorno seguro para aplicaciones críticas.
+- **Totalmente Gestionado**: Neptune es un servicio administrado por AWS, lo que elimina la necesidad de gestionar infraestructura, backups o actualizaciones de software.

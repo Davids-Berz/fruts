@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiContainer",
+      "🅰",
       "LiComponent",
       "📷",
-      "LiLayoutTemplate",
-      "📓",
-      "🏡"
+      "LiLayoutTemplate"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,8 +41,16 @@
   "TI/Daily Notes": "📓",
   "TI/Templates": {
     "iconName": "LiLayoutTemplate",
-    "iconColor": "#24a022"
+    "iconColor": "#10e01d"
   },
   "TI/Banners": "📷",
-  "TI/React components": "LiComponent"
+  "TI/React components": {
+    "iconName": "LiComponent",
+    "iconColor": "#10e01d"
+  },
+  "TI/angular": "🅰",
+  "TI/Docker": {
+    "iconName": "LiContainer",
+    "iconColor": "#1426b3"
+  }
 }

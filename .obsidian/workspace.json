@@ -4,34 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "29a48732cc10750a",
+        "id": "4aa1589da4abb7c9",
         "type": "tabs",
         "children": [
           {
-            "id": "c57dded8c19632f8",
+            "id": "ca529270be2403fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TI/aws/seccion 9/Base de Datos y Analiticas.md",
+                "file": "TI/Docker/seccion 1/Introduccion a Docker.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Introduccion a Docker"
             }
           },
           {
-            "id": "c27c0305a2f2fbcb",
+            "id": "f176bf7eb6bf9b85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Casos de Uso de Amazon Aurora.md",
+                "file": "TI/Docker/seccion 7/Optimizar Docker.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Optimizar Docker"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +61,9 @@
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -66,7 +73,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -74,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -82,15 +93,17 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 217.5
   },
   "right": {
     "id": "e06b60978ee37432",
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TI/aws/seccion 9/Base de Datos y Analiticas.md",
+                "file": "TI/angular/seccion 1/caracteristicas/RxJS y Programación Reactiva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for RxJS y Programación Reactiva"
             }
           },
           {
@@ -123,10 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TI/aws/seccion 9/Base de Datos y Analiticas.md",
+                "file": "TI/angular/seccion 1/caracteristicas/RxJS y Programación Reactiva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from RxJS y Programación Reactiva"
             }
           },
           {
@@ -137,7 +154,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -146,8 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TI/aws/seccion 9/Base de Datos y Analiticas.md"
-              }
+                "file": "TI/Docker/seccion 7/Optimizar Docker.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Optimizar Docker"
             }
           },
           {
@@ -155,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -167,7 +190,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -175,7 +200,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -183,37 +210,18 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "815449a65581e7fa",
-            "type": "leaf",
-            "state": {
-              "type": "tasks_timeline_view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 7
-      },
-      {
-        "id": "9670ae3c109a338f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3363cf6330743939",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 546.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,53 +236,55 @@
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false,
       "markwhen:Create new Markwhen file": false,
-      "periodic-notes:Open today": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Thino": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "6df108476a57bd54",
+  "active": "7515a103d1efe4a4",
   "lastOpenFiles": [
-    "Casos de Uso de Amazon Aurora.md",
-    "TI/aws/seccion 9/Base de Datos y Analiticas.md",
-    "Características Clave de Amazon Aurora.md",
-    "TI/aws/seccion 9/Aurora",
-    "TI/aws/seccion 9/RDS",
+    "TI/Docker/seccion 1/Introduccion a Docker.md",
+    "TI/Docker/seccion 7/Optimizar Docker.md",
+    "TI/Docker/seccion 7/Capas de la imagen.md",
+    "TI/Docker/seccion 6/Comandos Comunes de Docker.md",
+    "TI/Docker/seccion 7",
+    "TI/Docker/seccion 6/Instalacion Docker en Windows.md",
+    "TI/Docker/seccion 6/Host Docker Internal.md",
+    "TI/Docker/seccion 6/Dockerfile basado en una imagen de JDK.md",
+    "TI/Docker/seccion 6/Que son los Contenedores Docker.md",
+    "TI/Docker/seccion 1/Docker.md",
     "TI/aws/seccion 1/introducción AWS.md",
-    "TI/aws/seccion 9/RDS/Casos de Uso de Amazon RDS.md",
-    "TI/aws/seccion 9/RDS/Características Clave de Amazon RDS.md",
-    "TI/aws/seccion 8/S3.md",
-    "Homepages/Homepage.md",
-    "TI/aws/seccion 9",
+    "TI/aws/seccion 1/aws.md",
+    "TI/aws/seccion 1/src/responsabilidad-compartida.png",
+    "TI/Docker/seccion 6/Instalacion de Docker.md",
+    "TI/Docker/seccion 6",
+    "TI/Docker/seccion 1",
     "TI/aws/seccion 3/Que es un Clound Computing.md",
-    "TI/aws/seccion 7/ELB y ASG Elastic Load Balancing y Auto Scaling Group.md",
-    "TI/aws/seccion 8/sitios web/Beneficios de Alojar un Sitio Web en S3.md",
-    "TI/aws/seccion 8/s3/Buenas Prácticas S3.md",
-    "TI/aws/seccion 8/Storage Gateway/Beneficios de AWS Storage Gateway.md",
-    "TI/aws/seccion 8/Storage Gateway/Seguridad en AWS Storage Gateway.md",
-    "TI/aws/seccion 8/Storage Gateway/Casos de Uso Generales de AWS Storage Gateway.md",
-    "TI/aws/seccion 8/Storage Gateway/tipos/File Gateway.md",
-    "TI/aws/seccion 8/Storage Gateway/Tipos de AWS Storage Gateway.md",
-    "TI/aws/seccion 8/Storage Gateway/tipos/Volume Gateway.md",
-    "TI/aws/seccion 8/Storage Gateway/tipos/Tape Gateway.md",
-    "TI/aws/seccion 8/Storage Gateway/tipos",
-    "TI/aws/seccion 8/Storage Gateway",
-    "TI/aws/seccion 8/hibrido/Beneficios del Cloud Híbrido para Almacenamiento.md",
-    "TI/aws/seccion 8/hibrido/Casos de Uso Comunes del Cloud Híbrido para Almacenamiento.md",
-    "TI/aws/seccion 8/hibrido/Opciones de Almacenamiento Híbrido en AWS.md",
-    "TI/aws/seccion 8/hibrido/Arquitectura de Almacenamiento Híbrido.md",
-    "TI/aws/seccion 8/hibrido/Características Clave del Almacenamiento Híbrido.md",
-    "TI/aws/seccion 8/hibrido",
-    "TI/aws/seccion 8/MRR S3",
-    "TI/aws/seccion 8/Snow",
-    "TI/aws/seccion 8/Snow/Seguridad en la Familia AWS Snow.md",
-    "TI/aws/seccion 8/Snow/Casos de Uso Comunes de la Familia AWS Snow.md",
-    "TI/aws/seccion 8/cifrado s3",
-    "TI/aws/seccion 8/S3 lock",
+    "Homepages/Homepage.md",
+    "TI/angular/seccion 1/Herramientas de Angular.md",
+    "TI/Docker",
+    "TI/angular/seccion 1/herramientas/Otros Recursos y Herramientas Útiles.md",
+    "TI/angular/seccion 1/herramientas/Herramientas de Monitoreo y Logging.md",
+    "TI/angular/seccion 1/herramientas/Node Version Manager - nvm.md",
+    "TI/angular/seccion 1/herramientas/Recursos de Aprendizaje y Referencia.md",
+    "TI/angular/seccion 1/herramientas/Documentación y Colaboración.md",
+    "TI/angular/seccion 1/herramientas/Automatización de Tareas.md",
+    "TI/angular/seccion 1/herramientas/Control de Versiones.md",
+    "TI/angular/seccion 1/herramientas/Integración Continua y Despliegue.md",
+    "TI/angular/angular.md",
+    "TI/React components/music and birthday countdown 2.md",
+    "TI/React components/music and birthday countdown 1.md",
+    "documentacion/java/0.002 Canvas Programas.canvas",
+    "documentacion/java/0.001 Canvas java.canvas",
+    "documentacion/java/0.00 Canvas.canvas",
+    "TI/angular/seccion 1/herramientas",
+    "TI/angular/seccion 1/componentes",
+    "TI/angular/seccion 1/caracteristicas",
+    "TI/angular/seccion 1",
+    "TI/angular",
+    "TI/aws/seccion 11",
     "TI/Banners/notes.jpg",
     "TI/Banners/Edinburgh.jpg",
-    "TI/aws/seccion 1/src/responsabilidad-compartida.png",
     "TI/Plan De Estudios/Untitled Diagram.svg",
     "TI/Plan De Estudios/Untitled.canvas",
     "TI/aws/seccion 1/src/Shared_Responsibility_Model.png",
@@ -285,9 +295,6 @@
     "documentacion/Sabiduria Compartida/Untitled.canvas",
     "documentacion/uml/uml.canvas",
     "documentacion/ingles/canvas/8. THE.canvas",
-    "documentacion/ingles/canvas/7. Numeros.canvas",
-    "documentacion/ingles/canvas/9. Palabras compuestas.canvas",
-    "documentacion/ingles/canvas/10. Would.canvas",
     "documentacion/Oracle Certificado/026-assets/01-img/union.webp",
     "documentacion/Oracle Certificado/026-assets/01-img/minus.webp",
     "documentacion/Entidad Relacion/image/cardinalidad.png",

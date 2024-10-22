@@ -1,0 +1,4 @@
+- **Sin Gestión de Servidores**: No tienes que preocuparte por gestionar servidores o infraestructura. Lambda se encarga de todo el aprovisionamiento, el escalado y la administración.
+- **Escalabilidad Automática**: Lambda escala automáticamente según la demanda, lo que significa que tu aplicación puede manejar desde una hasta millones de solicitudes sin intervención manual.
+- **Pago por Uso**: Solo pagas por las solicitudes y el tiempo de ejecución, lo que lo convierte en una opción rentable para aplicaciones con carga variable.
+- **Integración Profunda con AWS**: Lambda se integra con muchos servicios de AWS, como S3, DynamoDB, Kinesis, API Gateway y otros, lo que facilita la construcción de soluciones completamente serverless.

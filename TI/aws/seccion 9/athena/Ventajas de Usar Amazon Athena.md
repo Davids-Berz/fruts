@@ -1,0 +1,4 @@
+- **Sin Gestión de Infraestructura**: No tienes que gestionar servidores, lo que permite concentrarte en analizar los datos directamente.
+- **Económico**: Solo pagas por los datos escaneados, lo que hace de Athena una opción asequible para consultas esporádicas y grandes volúmenes de datos.
+- **Rápido y Fácil de Usar**: Puedes comenzar a ejecutar consultas en minutos con una curva de aprendizaje mínima para aquellos que ya conocen SQL.
+- **Integración con el Ecosistema de AWS**: Athena se integra perfectamente con otros servicios de AWS como S3, Glue, CloudWatch, y QuickSight, lo que facilita la construcción de soluciones analíticas completas.

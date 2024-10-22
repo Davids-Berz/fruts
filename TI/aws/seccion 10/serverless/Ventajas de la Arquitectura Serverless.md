@@ -1,0 +1,4 @@
+- **Reducción de la Complejidad Operativa**: No necesitas gestionar servidores, escalado o actualizaciones, lo que permite a los equipos centrarse en la funcionalidad del producto y acelerar el tiempo de lanzamiento al mercado.
+- **Escalabilidad Transparente**: La infraestructura serverless escala automáticamente según la demanda, lo que significa que tu aplicación puede manejar desde pocas solicitudes hasta millones sin intervención manual.
+- **Modelo de Pago por Uso**: Solo pagas por los recursos que realmente utilizas, lo que lo convierte en una opción rentable para aplicaciones con cargas de trabajo variables.
+- **Desarrollo Rápido**: Los equipos pueden desarrollar y desplegar rápidamente nuevas funcionalidades, aprovechando los servicios administrados y reduciendo el tiempo invertido en infraestructura.

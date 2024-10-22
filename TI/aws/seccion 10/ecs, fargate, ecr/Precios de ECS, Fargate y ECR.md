@@ -1,0 +1,3 @@
+- **Amazon ECS**: No tiene costo adicional cuando se ejecuta en instancias EC2; pagas por las instancias EC2 subyacentes que se utilizan.
+- **AWS Fargate**: Paga solo por los recursos (CPU, memoria) que utilizan los contenedores, eliminando la necesidad de pagar por instancias EC2 subyacentes.
+- **Amazon ECR**: Paga por la cantidad de almacenamiento utilizado para almacenar las imágenes Docker y por la transferencia de datos al extraer imágenes de ECR.

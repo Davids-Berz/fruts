@@ -1,0 +1,5 @@
+- **Escalabilidad Automática**: AWS Batch ajusta automáticamente los recursos de cómputo para satisfacer las demandas del trabajo, eliminando la necesidad de escalar manualmente la infraestructura.
+- **Reducción de Costos con Instancias Spot**: Batch puede utilizar **instancias spot**, lo que permite ejecutar trabajos por lotes a un costo significativamente más bajo, especialmente para cargas de trabajo tolerantes a interrupciones.
+- **Integración con Contenedores**: Batch facilita el uso de contenedores Docker, lo que asegura un entorno consistente y portátil para tus trabajos, independientemente de la infraestructura subyacente.
+- **Gestión Simplificada de Dependencias**: Batch permite definir dependencias entre trabajos, asegurando que los trabajos se ejecuten en el orden correcto.
+- **Sin Gestión de Servidores**: AWS Batch se encarga del aprovisionamiento, escalado y finalización de las instancias de cómputo, lo que permite centrarse únicamente en la lógica de los trabajos.

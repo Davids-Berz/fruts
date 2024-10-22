@@ -1,0 +1,2 @@
+- **Latencia Adicional**: Dependiendo de la arquitectura, el uso de API Gateway puede agregar una pequeña cantidad de latencia debido al enrutamiento y a la autorización de solicitudes.
+- **Cold Starts en Lambda**: Si usas API Gateway junto con Lambda, podrías experimentar un retraso inicial debido a los "cold starts" cuando las funciones Lambda no han sido invocadas en un tiempo.

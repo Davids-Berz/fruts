@@ -1,0 +1,3 @@
+- **Tiempo Máximo de Ejecución**: Una función Lambda puede ejecutarse durante un máximo de 15 minutos. Para tareas más largas, debes dividir el procesamiento en múltiples invocaciones o usar otros servicios como **AWS Fargate**.
+- **Memoria y CPU Limitada**: Lambda permite hasta 10 GB de memoria por función, y el uso de CPU se escala en proporción a la memoria asignada. Para cargas de trabajo pesadas, es posible que necesites usar contenedores con Fargate o instancias EC2.
+- **Cold Starts**: Cuando una función Lambda no ha sido ejecutada en un tiempo, puede haber un pequeño retraso inicial (conocido como "cold start") cuando se invoca por primera vez.

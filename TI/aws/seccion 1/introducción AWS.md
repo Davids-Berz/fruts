@@ -5,4 +5,4 @@
 5. [[ELB y ASG Elastic Load Balancing y Auto Scaling Group]]
 6. [[S3]]
 7. [[Base de Datos y Analiticas]]
-8. 
+8. [[ECS, Lambda, Batch, Lightsail]]

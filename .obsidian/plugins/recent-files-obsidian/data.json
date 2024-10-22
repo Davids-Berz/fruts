@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Base de Datos y Analiticas",
-      "path": "TI/aws/seccion 9/Base de Datos y Analiticas.md"
+      "basename": "Optimizar Docker",
+      "path": "TI/Docker/seccion 7/Optimizar Docker.md"
     },
     {
-      "basename": "Casos de Uso de Amazon Aurora",
-      "path": "Casos de Uso de Amazon Aurora.md"
+      "basename": "Introduccion a Docker",
+      "path": "TI/Docker/seccion 1/Introduccion a Docker.md"
     },
     {
-      "basename": "Características Clave de Amazon Aurora",
-      "path": "Características Clave de Amazon Aurora.md"
+      "basename": "Capas de la imagen",
+      "path": "TI/Docker/seccion 7/Capas de la imagen.md"
+    },
+    {
+      "basename": "Comandos Comunes de Docker",
+      "path": "TI/Docker/seccion 6/Comandos Comunes de Docker.md"
+    },
+    {
+      "basename": "Instalacion Docker en Windows",
+      "path": "TI/Docker/seccion 6/Instalacion Docker en Windows.md"
+    },
+    {
+      "basename": "Host Docker Internal",
+      "path": "TI/Docker/seccion 6/Host Docker Internal.md"
+    },
+    {
+      "basename": "Dockerfile basado en una imagen de JDK",
+      "path": "TI/Docker/seccion 6/Dockerfile basado en una imagen de JDK.md"
+    },
+    {
+      "basename": "Que son los Contenedores Docker",
+      "path": "TI/Docker/seccion 6/Que son los Contenedores Docker.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "TI/Docker/seccion 1/Docker.md"
     },
     {
       "basename": "introducción AWS",
       "path": "TI/aws/seccion 1/introducción AWS.md"
     },
     {
-      "basename": "Casos de Uso de Amazon RDS",
-      "path": "TI/aws/seccion 9/RDS/Casos de Uso de Amazon RDS.md"
+      "basename": "aws",
+      "path": "TI/aws/seccion 1/aws.md"
     },
     {
-      "basename": "Características Clave de Amazon RDS",
-      "path": "TI/aws/seccion 9/RDS/Características Clave de Amazon RDS.md"
+      "basename": "responsabilidad-compartida",
+      "path": "TI/aws/seccion 1/src/responsabilidad-compartida.png"
     },
     {
-      "basename": "S3",
-      "path": "TI/aws/seccion 8/S3.md"
+      "basename": "Instalacion de Docker",
+      "path": "TI/Docker/seccion 6/Instalacion de Docker.md"
+    },
+    {
+      "basename": "Que es un Clound Computing",
+      "path": "TI/aws/seccion 3/Que es un Clound Computing.md"
     },
     {
       "basename": "Homepage",
       "path": "Homepages/Homepage.md"
     },
     {
-      "basename": "Beneficios de AWS Storage Gateway",
-      "path": "TI/aws/seccion 8/Storage Gateway/Beneficios de AWS Storage Gateway.md"
+      "basename": "Herramientas de Angular",
+      "path": "TI/angular/seccion 1/Herramientas de Angular.md"
     },
     {
-      "basename": "Seguridad en AWS Storage Gateway",
-      "path": "TI/aws/seccion 8/Storage Gateway/Seguridad en AWS Storage Gateway.md"
+      "basename": "Otros Recursos y Herramientas Útiles",
+      "path": "TI/angular/seccion 1/herramientas/Otros Recursos y Herramientas Útiles.md"
     },
     {
-      "basename": "Casos de Uso Generales de AWS Storage Gateway",
-      "path": "TI/aws/seccion 8/Storage Gateway/Casos de Uso Generales de AWS Storage Gateway.md"
+      "basename": "Herramientas de Monitoreo y Logging",
+      "path": "TI/angular/seccion 1/herramientas/Herramientas de Monitoreo y Logging.md"
     },
     {
-      "basename": "Tipos de AWS Storage Gateway",
-      "path": "TI/aws/seccion 8/Storage Gateway/Tipos de AWS Storage Gateway.md"
+      "basename": "Node Version Manager - nvm",
+      "path": "TI/angular/seccion 1/herramientas/Node Version Manager - nvm.md"
     },
     {
-      "basename": "Volume Gateway",
-      "path": "TI/aws/seccion 8/Storage Gateway/tipos/Volume Gateway.md"
+      "basename": "Recursos de Aprendizaje y Referencia",
+      "path": "TI/angular/seccion 1/herramientas/Recursos de Aprendizaje y Referencia.md"
     },
     {
-      "basename": "Tape Gateway",
-      "path": "TI/aws/seccion 8/Storage Gateway/tipos/Tape Gateway.md"
+      "basename": "Documentación y Colaboración",
+      "path": "TI/angular/seccion 1/herramientas/Documentación y Colaboración.md"
     },
     {
-      "basename": "File Gateway",
-      "path": "TI/aws/seccion 8/Storage Gateway/tipos/File Gateway.md"
+      "basename": "Automatización de Tareas",
+      "path": "TI/angular/seccion 1/herramientas/Automatización de Tareas.md"
     },
     {
-      "basename": "Beneficios del Cloud Híbrido para Almacenamiento",
-      "path": "TI/aws/seccion 8/hibrido/Beneficios del Cloud Híbrido para Almacenamiento.md"
+      "basename": "Control de Versiones",
+      "path": "TI/angular/seccion 1/herramientas/Control de Versiones.md"
     },
     {
-      "basename": "Casos de Uso Comunes del Cloud Híbrido para Almacenamiento",
-      "path": "TI/aws/seccion 8/hibrido/Casos de Uso Comunes del Cloud Híbrido para Almacenamiento.md"
+      "basename": "Integración Continua y Despliegue",
+      "path": "TI/angular/seccion 1/herramientas/Integración Continua y Despliegue.md"
     },
     {
-      "basename": "Opciones de Almacenamiento Híbrido en AWS",
-      "path": "TI/aws/seccion 8/hibrido/Opciones de Almacenamiento Híbrido en AWS.md"
+      "basename": "angular",
+      "path": "TI/angular/angular.md"
     },
     {
-      "basename": "Arquitectura de Almacenamiento Híbrido",
-      "path": "TI/aws/seccion 8/hibrido/Arquitectura de Almacenamiento Híbrido.md"
+      "basename": "music and birthday countdown 2",
+      "path": "TI/React components/music and birthday countdown 2.md"
     },
     {
-      "basename": "Características Clave del Almacenamiento Híbrido",
-      "path": "TI/aws/seccion 8/hibrido/Características Clave del Almacenamiento Híbrido.md"
+      "basename": "music and birthday countdown 1",
+      "path": "TI/React components/music and birthday countdown 1.md"
     },
     {
-      "basename": "Seguridad en la Familia AWS Snow",
-      "path": "TI/aws/seccion 8/Snow/Seguridad en la Familia AWS Snow.md"
+      "basename": "Pruebas (Testing)",
+      "path": "TI/angular/seccion 1/componentes/Pruebas (Testing).md"
     },
     {
-      "basename": "Casos de Uso Comunes de la Familia AWS Snow",
-      "path": "TI/aws/seccion 8/Snow/Casos de Uso Comunes de la Familia AWS Snow.md"
+      "basename": "RxJS y Programación Reactiva",
+      "path": "TI/angular/seccion 1/caracteristicas/RxJS y Programación Reactiva.md"
     },
     {
-      "basename": "AWS Snowmobile",
-      "path": "TI/aws/seccion 8/Snow/AWS Snowmobile.md"
+      "basename": "Componentes de Angular",
+      "path": "TI/angular/seccion 1/Componentes de Angular.md"
     },
     {
-      "basename": "AWS Snowball Edge",
-      "path": "TI/aws/seccion 8/Snow/AWS Snowball Edge.md"
+      "basename": "Animaciones",
+      "path": "TI/angular/seccion 1/componentes/Animaciones.md"
     },
     {
-      "basename": "AWS Snowcone",
-      "path": "TI/aws/seccion 8/Snow/AWS Snowcone.md"
+      "basename": "Formularios (Forms)",
+      "path": "TI/angular/seccion 1/componentes/Formularios (Forms).md"
     },
     {
-      "basename": "Ejemplo de una Política para Forzar HTTPS en S3",
-      "path": "TI/aws/seccion 8/MRR S3/Ejemplo de una Política para Forzar HTTPS en S3.md"
+      "basename": "Angular Material y Componentes de UI",
+      "path": "TI/angular/seccion 1/caracteristicas/Angular Material y Componentes de UI.md"
     },
     {
-      "basename": "Ejemplo de Responsabilidad Compartida",
-      "path": "TI/aws/seccion 8/MRR S3/Ejemplo de Responsabilidad Compartida.md"
+      "basename": "Angular CLI (Command Line Interface)",
+      "path": "TI/angular/seccion 1/componentes/Angular CLI (Command Line Interface).md"
     },
     {
-      "basename": "Responsabilidades del Cliente en S3",
-      "path": "TI/aws/seccion 8/MRR S3/Responsabilidades del Cliente en S3.md"
+      "basename": "Enrutamiento (Routing)",
+      "path": "TI/angular/seccion 1/caracteristicas/Enrutamiento (Routing).md"
     },
     {
-      "basename": "Responsabilidades de AWS en S3",
-      "path": "TI/aws/seccion 8/MRR S3/Responsabilidades de AWS en S3.md"
+      "basename": "Plantillas (Templates)",
+      "path": "TI/angular/seccion 1/componentes/Plantillas (Templates).md"
     },
     {
-      "basename": "Buenas Prácticas para el Cifrado en S3",
-      "path": "TI/aws/seccion 8/cifrado s3/Buenas Prácticas para el Cifrado en S3.md"
+      "basename": "Módulos (NgModule)",
+      "path": "TI/angular/seccion 1/componentes/Módulos (NgModule).md"
     },
     {
-      "basename": "Cómo Habilitar el Cifrado en un Bucket S3",
-      "path": "TI/aws/seccion 8/cifrado s3/Cómo Habilitar el Cifrado en un Bucket S3.md"
+      "basename": "Introducción a Angular",
+      "path": "TI/angular/seccion 1/Introducción a Angular.md"
     },
     {
-      "basename": "Cifrado del Lado del Cliente (Client-Side Encryption)",
-      "path": "TI/aws/seccion 8/cifrado s3/Cifrado del Lado del Cliente (Client-Side Encryption).md"
+      "basename": "Herramientas y Angular CLI",
+      "path": "TI/angular/seccion 1/caracteristicas/Herramientas y Angular CLI.md"
     },
     {
-      "basename": "Cifrado del Lado del Servidor (SSE)",
-      "path": "TI/aws/seccion 8/cifrado s3/Cifrado del Lado del Servidor (SSE).md"
+      "basename": "Inyección de Dependencias (Dependency Injection)",
+      "path": "TI/angular/seccion 1/caracteristicas/Inyección de Dependencias (Dependency Injection).md"
     },
     {
-      "basename": "Tipos de Cifrado en Amazon S3",
-      "path": "TI/aws/seccion 8/cifrado s3/Tipos de Cifrado en Amazon S3.md"
+      "basename": "Arquitectura Basada en Componentes",
+      "path": "TI/angular/seccion 1/caracteristicas/Arquitectura Basada en Componentes.md"
     },
     {
-      "basename": "Comparación entre S3 Object Lock y Glacier Vault Lock",
-      "path": "TI/aws/seccion 8/S3 lock/Comparación entre S3 Object Lock y Glacier Vault Lock.md"
+      "basename": "Basado en TypeScript",
+      "path": "TI/angular/seccion 1/caracteristicas/Basado en TypeScript.md"
     },
     {
-      "basename": "Amazon S3 Glacier Vault Lock",
-      "path": "TI/aws/seccion 8/S3 lock/Amazon S3 Glacier Vault Lock.md"
+      "basename": "Gestión de Estado",
+      "path": "TI/angular/seccion 1/componentes/Gestión de Estado.md"
     },
     {
-      "basename": "Amazon S3 Object Lock",
-      "path": "TI/aws/seccion 8/S3 lock/Amazon S3 Object Lock.md"
+      "basename": "Componentes (components)",
+      "path": "TI/angular/seccion 1/componentes/Componentes (components).md"
     },
     {
-      "basename": "Comparación de las Clases de Almacenamiento de S3",
-      "path": "TI/aws/seccion 8/clases de almacenamiento/Comparación de las Clases de Almacenamiento de S3.md"
+      "basename": "Editor de Código VsCode",
+      "path": "TI/angular/seccion 1/herramientas/Editor de Código VsCode.md"
     },
     {
-      "basename": "Gestión del Ciclo de Vida en S3",
-      "path": "TI/aws/seccion 8/clases de almacenamiento/Gestión del Ciclo de Vida en S3.md"
+      "basename": "Directivas",
+      "path": "TI/angular/seccion 1/caracteristicas/Directivas.md"
     },
     {
-      "basename": "Clases de Almacenamiento de Amazon S3",
-      "path": "TI/aws/seccion 8/clases de almacenamiento/Clases de Almacenamiento de Amazon S3.md"
+      "basename": "Actualizaciones Regulares y Soporte a Largo Plazo",
+      "path": "TI/angular/seccion 1/caracteristicas/Actualizaciones Regulares y Soporte a Largo Plazo.md"
     },
     {
-      "basename": "Elastic Computer Clound - EC2",
-      "path": "TI/aws/seccion 5/Elastic Computer Clound - EC2.md"
+      "basename": "48. JPA",
+      "path": "documentacion/java/48. JPA.md"
     },
     {
-      "basename": "Markwhen 9-13-2024 13.26.34",
-      "path": "Markwhen/Markwhen 9-13-2024 13.26.34.mw"
+      "basename": "49. HQL",
+      "path": "documentacion/java/49. HQL.md"
     },
     {
-      "basename": "3. Diagrama Entidad Relacion",
-      "path": "documentacion/Entidad Relacion/3. Diagrama Entidad Relacion.md"
-    },
-    {
-      "basename": "2. Cardinalidad",
-      "path": "documentacion/Entidad Relacion/2. Cardinalidad.md"
-    },
-    {
-      "basename": "1. Entidad Relacion",
-      "path": "documentacion/Entidad Relacion/1. Entidad Relacion.md"
-    },
-    {
-      "basename": "7. Array",
-      "path": "documentacion/PLSQL/7. Array.md"
-    },
-    {
-      "basename": "5. Condicionales",
-      "path": "documentacion/PLSQL/5. Condicionales.md"
-    },
-    {
-      "basename": "2. Log",
-      "path": "documentacion/PLSQL/2. Log.md"
-    },
-    {
-      "basename": "4. Constante",
-      "path": "documentacion/PLSQL/4. Constante.md"
-    },
-    {
-      "basename": "3. Variables",
-      "path": "documentacion/PLSQL/3. Variables.md"
+      "basename": "46. CDI - Context Dependency Injection",
+      "path": "documentacion/java/46. CDI - Context Dependency Injection.md"
     }
   ],
   "omittedPaths": [],

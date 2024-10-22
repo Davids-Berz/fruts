@@ -1,0 +1,2 @@
+- **Tiempos de Aprovisionamiento de Recursos**: Dependiendo de la carga de trabajo y la disponibilidad de recursos, puede haber un pequeño retraso en el aprovisionamiento de instancias EC2 o Fargate, lo que podría afectar el tiempo total de ejecución de los trabajos.
+- **Límites de Escalabilidad**: Aunque AWS Batch escala automáticamente, el tiempo necesario para escalar y aprovisionar recursos puede depender de la complejidad de la carga de trabajo y la disponibilidad de recursos spot.
